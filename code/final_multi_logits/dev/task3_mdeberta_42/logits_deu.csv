@@ -1,0 +1,374 @@
+id,text,stereotype,vilification,dehumanization,extreme_language,lack_of_empathy,invalidation,language,input_text,logits
+deu_29f6f025944805d5fb3f122dcd155c47,"Nur für Biodeutsche, schon gar nicht für Muslime 
+
+#Rassismus 
+#ChristlicheWerte",1,1,1,1,1,1,deu,"[LANG=deu] Nur für Biodeutsche, schon gar nicht für Muslime 
+
+#Rassismus 
+#ChristlicheWerte","[0.8425987958908081, 0.06403551995754242, -0.04626457393169403, 0.3196210563182831, 0.431517094373703, -0.013288106769323349]"
+deu_c511c4bc8931eb8db95fc4d2dab87e41,"Schon bisschen riskant, dieser Islam. Aber hey. Wir schaffen das. Zwinkerzwonky. #wirsindbunt",1,1,1,1,1,0,deu,"[LANG=deu] Schon bisschen riskant, dieser Islam. Aber hey. Wir schaffen das. Zwinkerzwonky. #wirsindbunt","[0.401737779378891, -0.1327025592327118, -1.1287779808044434, -0.4932674765586853, 0.1286291778087616, -0.36661869287490845]"
+deu_ad2c04d25ee952504f1c4da842fc3d4f,„Ausländer bisschen raus“ und 2/3 Krieg,1,1,1,1,0,1,deu,[LANG=deu] „Ausländer bisschen raus“ und 2/3 Krieg,"[0.31282538175582886, 0.018425218760967255, -0.17035076022148132, -0.033446054905653, 0.4178098142147064, -0.06301800161600113]"
+deu_cd8cb2d1fc16ba99953379ebb9d76ad7,"Israel: „Die Zähne der Schlange entfernt“ – Israels Verteidigungsminister besucht Südlibanon
+
+ Verteidigungsminister Israel Katz 
+ #Israel #Katz #Hisbollah #Südlibanon #Waffenstillstand #Sicherheit #Litani-Fluss #Galiläa
+",0,0,0,0,0,0,deu,"[LANG=deu] Israel: „Die Zähne der Schlange entfernt“ – Israels Verteidigungsminister besucht Südlibanon
+
+ Verteidigungsminister Israel Katz 
+ #Israel #Katz #Hisbollah #Südlibanon #Waffenstillstand #Sicherheit #Litani-Fluss #Galiläa
+","[-3.3226683139801025, -3.1217212677001953, -3.2634830474853516, -2.8787429332733154, -2.8725852966308594, -2.921740770339966]"
+deu_51fc7b50477a2561c99a82e4886e348f,📌 verdreifachte EM-Rente seit 2022 dank Long COVID/ Post COVID,0,0,0,0,0,0,deu,[LANG=deu] 📌 verdreifachte EM-Rente seit 2022 dank Long COVID/ Post COVID,"[-2.260807991027832, -3.66898250579834, -3.6859185695648193, -3.681849479675293, -3.227687358856201, -3.1862828731536865]"
+deu_c2bbc7d0377cfb50ea2b507b76fa9f37,"#noafd #cdu #csu #fdp #bsw #linke #grüne #fcknzs ##Klimaschutz #Klimawandel #Klimakrise #Klimapolitik  #btw2025 #btw25 #klimastreik #demo #tdgr #petition #wahl #bundestag #fff #fridaysforfuture #freitag #energiewende #verkehrswende #zukunft #zuversicht 
+
+Hörenswert:
+
+",0,0,0,0,0,0,deu,"[LANG=deu] #noafd #cdu #csu #fdp #bsw #linke #grüne #fcknzs ##Klimaschutz #Klimawandel #Klimakrise #Klimapolitik  #btw2025 #btw25 #klimastreik #demo #tdgr #petition #wahl #bundestag #fff #fridaysforfuture #freitag #energiewende #verkehrswende #zukunft #zuversicht 
+
+Hörenswert:
+
+","[-3.0302278995513916, -3.1875157356262207, -3.571239471435547, -3.134833335876465, -2.8978891372680664, -2.8291003704071045]"
+deu_19bfff5b32c706d9b4a1fa501045655c,"Auch so ein Letzte-Generation-Ökoterrorist!
+Hat sich bisher aber fast perfekt getarnt.",1,1,0,1,0,0,deu,"[LANG=deu] Auch so ein Letzte-Generation-Ökoterrorist!
+Hat sich bisher aber fast perfekt getarnt.","[1.7154080867767334, 1.713369607925415, 0.5444861650466919, 1.3527544736862183, 0.3480533957481384, 0.04243290796875954]"
+deu_14aa0105d4f36da05d415dea608aa429,"Na, antizionismus != antisemitismus. Es überlappt sich zu großen Teilen, aber es ist eben nicht genau dasselbe. Das zeigt sich witzigerweise auch darin dass es jüdische Antizionisten gibt.
+@USER",0,0,0,0,0,0,deu,"[LANG=deu] Na, antizionismus != antisemitismus. Es überlappt sich zu großen Teilen, aber es ist eben nicht genau dasselbe. Das zeigt sich witzigerweise auch darin dass es jüdische Antizionisten gibt.
+@USER","[-2.864467144012451, -2.5641355514526367, -3.3489320278167725, -3.0725231170654297, -2.9831390380859375, -2.8963942527770996]"
+deu_9f3b20842ffa3fb194de073030837761,"Wir beide wissen gar nichts. Du noch weniger als ich, denn ich gehe offensichtlich unvoreingenommen an die Betrachtung heran, wo es für dich nur den Schluss gibt, dass das eine antisemitische Demonstration geben muss. Das alte deutsche Dilemma: entweder dafür oder dagegen, eine Mitte kann’s nicht geben.",1,1,0,1,1,1,deu,"[LANG=deu] Wir beide wissen gar nichts. Du noch weniger als ich, denn ich gehe offensichtlich unvoreingenommen an die Betrachtung heran, wo es für dich nur den Schluss gibt, dass das eine antisemitische Demonstration geben muss. Das alte deutsche Dilemma: entweder dafür oder dagegen, eine Mitte kann’s nicht geben.","[-2.2976181507110596, -2.598604679107666, -3.1578118801116943, -2.408461093902588, -1.5721714496612549, -1.773041009902954]"
+deu_f85002f0c71a0378af2e8790f954cd47,Die DUH hat die Studie nicht produziert. Die wurde im Auftrag des Bundesministeriums für Wirtschaft und Klimaschutz durchgeführt und das primär vom Frauenhofer.,0,0,0,0,0,0,deu,[LANG=deu] Die DUH hat die Studie nicht produziert. Die wurde im Auftrag des Bundesministeriums für Wirtschaft und Klimaschutz durchgeführt und das primär vom Frauenhofer.,"[-3.245509624481201, -2.959951400756836, -3.1447739601135254, -3.26078200340271, -3.036400556564331, -2.6495778560638428]"
+deu_6dd12c797083878cea5fa3a50791e592,Sagte er über die Demo voller kommunistischer Symbole,1,1,0,0,0,1,deu,[LANG=deu] Sagte er über die Demo voller kommunistischer Symbole,"[-2.8099119663238525, -2.680469512939453, -3.5490949153900146, -3.3261570930480957, -3.2386112213134766, -3.1268179416656494]"
+deu_93b3bc9fec8f5646d8f81f6eddd4b81b,"Demo - man weiß schonmal, dass man politisch zusammenpasst",0,0,0,0,0,0,deu,"[LANG=deu] Demo - man weiß schonmal, dass man politisch zusammenpasst","[-1.224177598953247, -2.3188023567199707, -3.3604819774627686, -2.1440491676330566, -1.2263081073760986, -1.907045841217041]"
+deu_13dd663017a9cf9867b05fbf72f57adb,"Da habe ich so meine @USER es ist ja nicht so dass die AfD irgendwie eine tolle Sozialpolitik verspräche. Das Thema der AfD ist Migration, Migration, Migration. @USER eine pragmatische Migrationspolitik ist das tatsächlich beste Mittel gegen den Aufstieg der AfD.",1,1,0,1,0,0,deu,"[LANG=deu] Da habe ich so meine @USER es ist ja nicht so dass die AfD irgendwie eine tolle Sozialpolitik verspräche. Das Thema der AfD ist Migration, Migration, Migration. @USER eine pragmatische Migrationspolitik ist das tatsächlich beste Mittel gegen den Aufstieg der AfD.","[-2.4930124282836914, -2.746792793273926, -3.4838311672210693, -2.862090587615967, -2.365464210510254, -2.1394779682159424]"
+deu_85809d90497e65fcd819b143d1df8160,"Option 1: Sich für mehr Kraftwerke einsetzen (gut für Klima)
+
+Option 2: Sich für mehr Verbrenner einsetzen (scheiße für Klima)
+
+Die Dudes aus Mittelfranken:",1,0,0,0,1,0,deu,"[LANG=deu] Option 1: Sich für mehr Kraftwerke einsetzen (gut für Klima)
+
+Option 2: Sich für mehr Verbrenner einsetzen (scheiße für Klima)
+
+Die Dudes aus Mittelfranken:","[1.0513191223144531, 0.9969730973243713, -0.06290362030267715, 0.5638092160224915, 0.5666949152946472, 0.2932628393173218]"
+deu_d5660050fcd13d74b2c8dff400bf70eb,"Probleme bei Migration ansprechen bedeutet nicht das man automatisch gegen Migration ist. Aber stabile Schwarz-Weiß Denkweise, haste auch ganz toll gemacht. Hier ein Keks zur Belohnung 🍪",0,0,0,0,0,0,deu,"[LANG=deu] Probleme bei Migration ansprechen bedeutet nicht das man automatisch gegen Migration ist. Aber stabile Schwarz-Weiß Denkweise, haste auch ganz toll gemacht. Hier ein Keks zur Belohnung 🍪","[-0.25006964802742004, -0.5582749247550964, -1.0965389013290405, -0.6969320178031921, 0.37278884649276733, -0.3676648736000061]"
+deu_9aed704ae119661383ae184acc2dc813,Was ist denn mit der Oma da Mitte rechts? Falsche Demo?,1,0,0,0,1,0,deu,[LANG=deu] Was ist denn mit der Oma da Mitte rechts? Falsche Demo?,"[-1.3179417848587036, -2.2333030700683594, -2.7257261276245117, -3.1522297859191895, -1.8104004859924316, -1.789750337600708]"
+deu_5bba02ca8ff05bdfe0c9878eef8b320b,"Jap, sind einfach Abspaltungen.
+
+Deshalb habe ich auch immer im Hinterkopf, dass die Katholiken (laut dieser Definition) einfach eine jüdische Sekte sind.",0,1,0,0,1,0,deu,"[LANG=deu] Jap, sind einfach Abspaltungen.
+
+Deshalb habe ich auch immer im Hinterkopf, dass die Katholiken (laut dieser Definition) einfach eine jüdische Sekte sind.","[0.8661572933197021, 0.13087289035320282, -0.6987510323524475, -0.5724195241928101, 0.21148386597633362, 0.21088753640651703]"
+deu_62c6616b133992f30960422aaf2c8b83,Ozeanien ist im Krieg mit Ostasien. Ozeanien war schon immer im Krieg mit Ostasien gewesen.,0,0,0,0,0,0,deu,[LANG=deu] Ozeanien ist im Krieg mit Ostasien. Ozeanien war schon immer im Krieg mit Ostasien gewesen.,"[-2.365248918533325, -2.436192035675049, -2.9703269004821777, -2.090707302093506, -2.551302909851074, -1.5449763536453247]"
+deu_cb41a512f7942e0ba22d34b7d9857bc2,Und die ganzen Araber mit ihrem Harambe!,1,1,0,0,0,0,deu,[LANG=deu] Und die ganzen Araber mit ihrem Harambe!,"[1.0251377820968628, 0.3553609549999237, 0.3771163821220398, -0.10152272880077362, -0.1405910700559616, -0.9601038098335266]"
+deu_6754dcf11a19e8a89f0aff3b88c33243,Gerne. Veganismus ist besser fürs Klima.,0,0,0,0,0,0,deu,[LANG=deu] Gerne. Veganismus ist besser fürs Klima.,"[-0.6288242936134338, -1.5231724977493286, -1.6584515571594238, -1.4777780771255493, -0.4472186863422394, -0.7003517746925354]"
+deu_5e25b570861d2b1fdf49739825f5ab49,"Baerbock, Strack-Zimmermann und Kiesewetter können doch nur gewinnen: sollte die Ukraine wirklich die Oberhand behalten und die Russen zurückdrängen so hieße es ‘seht ihr, unsere harte Linie gegen Russland hat sich bewährt’. Sollten die Russen Odessa einnehmen oder gen Kiew oder Lviv durchmarschieren, so sagen sie ,seht ihr, wir hätten schneller mehr Waffen liefern müssen’.",0,0,0,0,0,0,deu,"[LANG=deu] Baerbock, Strack-Zimmermann und Kiesewetter können doch nur gewinnen: sollte die Ukraine wirklich die Oberhand behalten und die Russen zurückdrängen so hieße es ‘seht ihr, unsere harte Linie gegen Russland hat sich bewährt’. Sollten die Russen Odessa einnehmen oder gen Kiew oder Lviv durchmarschieren, so sagen sie ,seht ihr, wir hätten schneller mehr Waffen liefern müssen’.","[-3.0375688076019287, -2.5652575492858887, -3.282996892929077, -2.891387462615967, -3.050408363342285, -2.9003469944000244]"
+deu_c11a90ff2783b27b686b87b2f7d45648,Ja die Türken leiden sehr stark unter ihrem links grün versifften Erdogan. Muss man wissen. :D,1,1,0,1,1,0,deu,[LANG=deu] Ja die Türken leiden sehr stark unter ihrem links grün versifften Erdogan. Muss man wissen. :D,"[1.6609139442443848, 1.50747549533844, 0.16367577016353607, 0.9046890139579773, 0.6455844044685364, 0.349589467048645]"
+deu_29239e19e5d7d6819ec3b9239f6b1501,Doch! Sie macht echte linke Politik ohne nervige woke Identitätspolitik.,0,0,0,0,0,0,deu,[LANG=deu] Doch! Sie macht echte linke Politik ohne nervige woke Identitätspolitik.,"[1.014367938041687, 0.5923076272010803, -0.11636942625045776, 0.28601667284965515, 0.34977519512176514, 0.5023472309112549]"
+deu_7fa6d698c3c7dc47c487930ab525a7f8,"Russland.
+
+Russland ist deren Alternative zu Deutschland.",1,0,0,0,1,0,deu,"[LANG=deu] Russland.
+
+Russland ist deren Alternative zu Deutschland.","[-2.7583978176116943, -3.286821126937866, -3.5781822204589844, -3.229733467102051, -3.028282642364502, -2.523298740386963]"
+deu_9d848606020b0911138813e79337cefe,Türken wählen größtenteils SPD.,1,0,0,1,0,0,deu,[LANG=deu] Türken wählen größtenteils SPD.,"[-1.1853243112564087, -3.0509390830993652, -3.0402519702911377, -3.3832600116729736, -2.953073024749756, -2.664625406265259]"
+deu_70b388e31716cda3c28c45a344524253,"Oder auch symptome die durch die impfung (falls gemacht) kommen koennten. Oder beides, sowohl impfung als auch long COVID. Kann aber auch von Allem etwas @USER Also psychisch wegen lockdown, krieg @USER Wir leben in krassen zeiten.",1,1,1,1,1,1,deu,"[LANG=deu] Oder auch symptome die durch die impfung (falls gemacht) kommen koennten. Oder beides, sowohl impfung als auch long COVID. Kann aber auch von Allem etwas @USER Also psychisch wegen lockdown, krieg @USER Wir leben in krassen zeiten.","[-2.2433507442474365, -2.8090572357177734, -3.0396926403045654, -2.5768797397613525, -1.8717970848083496, -2.3706719875335693]"
+deu_c398bb7fa7772151bc0e2ff301e7b470,"Meinst du mit ""man"", uns ausländische Studierende oder Chinesen? Wir ausländische Studierende genießen einen gewissen ""priviligierten Status"" und können uns relativ frei äußern - wobei es auf den Rahmen ankommt: wenn ich öffentlich eine Demonstration für taiwanische Unabhängigkeit starten würde, würde ich dafür vermutlich Probleme bekommen.",0,0,0,0,0,0,deu,"[LANG=deu] Meinst du mit ""man"", uns ausländische Studierende oder Chinesen? Wir ausländische Studierende genießen einen gewissen ""priviligierten Status"" und können uns relativ frei äußern - wobei es auf den Rahmen ankommt: wenn ich öffentlich eine Demonstration für taiwanische Unabhängigkeit starten würde, würde ich dafür vermutlich Probleme bekommen.","[-2.738842248916626, -3.161989212036133, -3.3320376873016357, -3.2260313034057617, -2.3866498470306396, -2.63854718208313]"
+deu_c0cc8c9017323457977e2249aac359c6,Der deutsche Leistungsträger outsourced die Kinderbetreuung an ausländische Fachkräfte duh,0,0,0,0,0,0,deu,[LANG=deu] Der deutsche Leistungsträger outsourced die Kinderbetreuung an ausländische Fachkräfte duh,"[1.3747601509094238, 0.3025403916835785, -0.6229673624038696, -0.34228816628456116, 0.1643853336572647, 0.43600767850875854]"
+deu_af9de14c4ade9f8d30fb6f772355ee20,Plus die Renten finanzieren und das Klima retten,0,0,0,0,0,0,deu,[LANG=deu] Plus die Renten finanzieren und das Klima retten,"[-2.8791544437408447, -2.951193332672119, -3.8021957874298096, -2.908407211303711, -2.9079785346984863, -2.56868052482605]"
+deu_31fb4afc919dde0c45da1c9db8f7cc65,"AHH ja, der gute alte Konflikt zwischen ""mein Immunsystem killt mich"" (hier: Allergien) und ""mein Immunsystem ist im Standby"" (durch Immunsuppressiva, hier: Cortison)
+
+Wie bei so vielem ist es hier eine Risikoabwägung. Man muss sich leider für das geringe Übel entscheiden.",0,0,0,0,0,0,deu,"[LANG=deu] AHH ja, der gute alte Konflikt zwischen ""mein Immunsystem killt mich"" (hier: Allergien) und ""mein Immunsystem ist im Standby"" (durch Immunsuppressiva, hier: Cortison)
+
+Wie bei so vielem ist es hier eine Risikoabwägung. Man muss sich leider für das geringe Übel entscheiden.","[-3.172762632369995, -3.3227882385253906, -3.557002305984497, -3.268578290939331, -2.87954044342041, -2.831129312515259]"
+deu_3973fcbd372646f56d729d27cce952ec,DUH ist halt einfach keine Umweltschutz-Organisation. Die Trollen nur für Aufmerksamkeit rum und sammeln Spenden ein.,0,1,0,0,0,1,deu,[LANG=deu] DUH ist halt einfach keine Umweltschutz-Organisation. Die Trollen nur für Aufmerksamkeit rum und sammeln Spenden ein.,"[1.213269591331482, 1.121263861656189, 0.3269032835960388, 0.586726188659668, 0.5294659733772278, 0.32596707344055176]"
+deu_8343db97da44560fa9e4e487eb13b60d,"&gt;SPD-Chef Lars Klingbeil und SPD‑Fraktionschef Rolf Mützenich sind gemeinsam nach Kiew gereist, um der Ukraine Sicherheit für weitere deutsche Unterstützung zu geben. Aber auch, um die SPD zusammenzuhalten. Kiew schenkt ihnen größte Aufmerk­samkeit.
+
+@USER",0,0,0,0,0,0,deu,"[LANG=deu] &gt;SPD-Chef Lars Klingbeil und SPD‑Fraktionschef Rolf Mützenich sind gemeinsam nach Kiew gereist, um der Ukraine Sicherheit für weitere deutsche Unterstützung zu geben. Aber auch, um die SPD zusammenzuhalten. Kiew schenkt ihnen größte Aufmerk­samkeit.
+
+@USER","[-3.2716190814971924, -3.3022611141204834, -3.3850347995758057, -3.127960681915283, -2.9463706016540527, -3.0436971187591553]"
+deu_8bbf7590230ed9e8ac26a797bc255ca8,"Wenn man sich Araber/Palästinenser ins Land holt, holt man sich auch deren Gesinnung und den Nahostkonflikt ins Land. Und jetzt downvoted mich.",1,1,0,1,1,0,deu,"[LANG=deu] Wenn man sich Araber/Palästinenser ins Land holt, holt man sich auch deren Gesinnung und den Nahostkonflikt ins Land. Und jetzt downvoted mich.","[1.2979530096054077, 0.5010596513748169, 0.4153704047203064, 0.44898781180381775, 0.6248563528060913, 0.3385623097419739]"
+deu_487d5cbd72d32e6ea2e2456784006675,"Ich kenne 2 Leute, die während der Pandemie mit Maskenverkäufen Millionäre wurden.",0,0,0,0,0,0,deu,"[LANG=deu] Ich kenne 2 Leute, die während der Pandemie mit Maskenverkäufen Millionäre wurden.","[-2.7519612312316895, -3.2233762741088867, -3.6824724674224854, -3.699307441711426, -3.1660892963409424, -3.0079867839813232]"
+deu_dc8e141f1e8d0d4667ac3d7aa2a7c713,"Also es wurde die Behauptung aufgestellt, dass mehr Araber (wer sind die eigentlich genau?) als Deutsche geboren werden. Diese Aussage wurde angezweifelt. Du kommst mit einer Statistik über den Migrationshintergrund von Kindern um die Ecke.
+Ist deine Behauptung jetzt, dass das alles Araber sind? Oder keine Deutschen? Bzw. nur Deutsche mit Migrationshintergrund? Also keine richtigen Deutschen?",1,0,1,1,0,1,deu,"[LANG=deu] Also es wurde die Behauptung aufgestellt, dass mehr Araber (wer sind die eigentlich genau?) als Deutsche geboren werden. Diese Aussage wurde angezweifelt. Du kommst mit einer Statistik über den Migrationshintergrund von Kindern um die Ecke.
+Ist deine Behauptung jetzt, dass das alles Araber sind? Oder keine Deutschen? Bzw. nur Deutsche mit Migrationshintergrund? Also keine richtigen Deutschen?","[-0.7890074253082275, -2.0833091735839844, -2.7555575370788574, -2.50917649269104, -1.1479532718658447, -1.570351481437683]"
+deu_8369d0186221b5bf42ac813a06d863d1,"Is halt Türken-Mentalität, merkste @USER",1,1,0,0,0,0,deu,"[LANG=deu] Is halt Türken-Mentalität, merkste @USER","[1.615290641784668, 0.018203826621174812, -0.8609592914581299, -0.7319014072418213, -0.4166770577430725, -0.6385452747344971]"
+deu_46f23ba486bfb3de77ad285b9d661550,"Hamas ist nicht Palästina. Allein im Gazastreifen 2 Millionen Menschen, Hamas waren zu Spitzenzeiten wie viele? 50k?",0,0,0,0,0,0,deu,"[LANG=deu] Hamas ist nicht Palästina. Allein im Gazastreifen 2 Millionen Menschen, Hamas waren zu Spitzenzeiten wie viele? 50k?","[-2.6091079711914062, -2.6719377040863037, -2.8030588626861572, -2.4956424236297607, -2.0528757572174072, -2.029590368270874]"
+deu_0533b0c8cf1208c94677681102951223,"Vermutlich war ich zu generös, normalerweise schreibt der Spiegel einfach „Israel bombardiert Gazastreifen – fünf Minuten vor vereinbarter Waffenruhe“. Oder „Israel bombardiert Ziele im Gaza-Streifen“.",1,0,1,0,1,0,deu,"[LANG=deu] Vermutlich war ich zu generös, normalerweise schreibt der Spiegel einfach „Israel bombardiert Gazastreifen – fünf Minuten vor vereinbarter Waffenruhe“. Oder „Israel bombardiert Ziele im Gaza-Streifen“.","[-3.2770426273345947, -2.8886241912841797, -3.2302258014678955, -3.023226261138916, -3.0046026706695557, -2.6723179817199707]"
+deu_3da6a92cff6d5415d6cc4bf1a91fbeb6,"Wer unironisch ""woke"" benutzt ist ähnlich cringe",1,1,0,1,0,0,deu,"[LANG=deu] Wer unironisch ""woke"" benutzt ist ähnlich cringe","[0.6496984958648682, 0.5842545628547668, 0.24427318572998047, 0.2903684973716736, 0.4716249704360962, -0.31962090730667114]"
+deu_ad1fae17cb54a3104efc29a17f2491bc,"Ich dachte, mit Lauterbach wird bzgl. Covid und Long Covid alles gut. 
+Stattdessen bin ich jetzt selbst betroffen. ",0,0,0,0,0,0,deu,"[LANG=deu] Ich dachte, mit Lauterbach wird bzgl. Covid und Long Covid alles gut. 
+Stattdessen bin ich jetzt selbst betroffen. ","[-3.0041768550872803, -3.331012010574341, -3.5936551094055176, -3.2641515731811523, -2.878723382949829, -2.7399322986602783]"
+deu_21fa8d480ef6e15c923e3dd6ed74f9fd,Wie wärs mit Demo gegen unzulässige Wahlbeinflussung?,0,0,0,0,0,0,deu,[LANG=deu] Wie wärs mit Demo gegen unzulässige Wahlbeinflussung?,"[-3.146716594696045, -2.6649184226989746, -2.865665912628174, -2.348057746887207, -2.1808340549468994, -2.1477391719818115]"
+deu_36499e31269fe4d31f62736e73db04f2,Also das Konzept von Gender abgewandt von biologischer Sexualität ist ein menschliches Konstrukt.,0,0,0,0,0,0,deu,[LANG=deu] Also das Konzept von Gender abgewandt von biologischer Sexualität ist ein menschliches Konstrukt.,"[-0.10797209292650223, -0.32822418212890625, -0.8484742641448975, -0.47857409715652466, 0.1261834353208542, 0.44030576944351196]"
+deu_2be80c3fe3f928584d57741cfca0b287,"Der Junge im gestreiften Pyjama ist furchtbar und sollte von niemanden gelesen werden.
+Und viele jüdische Menschen und Organisationen empfehlen auch, das Buch nicht für den Unterricht zu verwenden.",0,0,0,0,0,0,deu,"[LANG=deu] Der Junge im gestreiften Pyjama ist furchtbar und sollte von niemanden gelesen werden.
+Und viele jüdische Menschen und Organisationen empfehlen auch, das Buch nicht für den Unterricht zu verwenden.","[1.0687520503997803, 0.5715087056159973, 0.365636944770813, 0.4095264971256256, 0.6996274590492249, 0.292826771736145]"
+deu_3136024dbe9ccb2b826e67ee703ff716,Ukraine war schon mal nicht schlecht,0,0,0,0,1,1,deu,[LANG=deu] Ukraine war schon mal nicht schlecht,"[-3.081575870513916, -3.181971788406372, -3.536404609680176, -3.4000773429870605, -3.3018393516540527, -3.0677967071533203]"
+deu_e850e41d4914077b08991f93a5ec0f81,Ja… Wie naiv und weltverbesserisch von mir. Hab mich völlig von diesen linksgrün versifften indoktrinieren lassen. 😩😅,1,1,0,1,1,0,deu,[LANG=deu] Ja… Wie naiv und weltverbesserisch von mir. Hab mich völlig von diesen linksgrün versifften indoktrinieren lassen. 😩😅,"[1.6384758949279785, 1.191162347793579, 0.038029082119464874, 0.4929411709308624, 0.6086603999137878, 0.45356637239456177]"
+deu_6a751306400dd68bab0ed8785f4d379d,Nennen wir Juden jetzt auch wieder Ignatz oder was geht hier?,0,1,0,0,0,0,deu,[LANG=deu] Nennen wir Juden jetzt auch wieder Ignatz oder was geht hier?,"[0.8344345092773438, 0.5324247479438782, 0.4174756109714508, 0.031027039512991905, 0.4003334939479828, -0.22269460558891296]"
+deu_95b7f4144c2f2c21e4ff5f4b865188dd,"Mir ging es eher um die konkreten Angaben wie man die SSDs clever selektieren kann. Die fand ich gut und habe das ausgedrückt. Keine Ahnung was daran ""Duh"" sein soll oder warum das downgevotet wird? Internet @USER ¯\\\_(ツ)\_/¯",0,0,0,0,0,0,deu,"[LANG=deu] Mir ging es eher um die konkreten Angaben wie man die SSDs clever selektieren kann. Die fand ich gut und habe das ausgedrückt. Keine Ahnung was daran ""Duh"" sein soll oder warum das downgevotet wird? Internet @USER ¯\\\_(ツ)\_/¯","[-3.1605303287506104, -3.2976694107055664, -3.524531602859497, -3.48465895652771, -3.0092148780822754, -3.023695707321167]"
+deu_dc6060d621afa77204186aa029be238f,"Es gibt gemäßigte Muslime, die nicht streng nach dem Islam leben.
+
+Der Islam selbst ist nicht gemäßigt und wird es auch nie sein, weil es ein fehlerfreies, zeitloses Befehlsbuch eines Gottes ist.",1,0,0,0,1,0,deu,"[LANG=deu] Es gibt gemäßigte Muslime, die nicht streng nach dem Islam leben.
+
+Der Islam selbst ist nicht gemäßigt und wird es auch nie sein, weil es ein fehlerfreies, zeitloses Befehlsbuch eines Gottes ist.","[1.4034945964813232, 0.5593348145484924, 0.21029071509838104, 0.614708662033081, 0.2921958565711975, -0.07819394767284393]"
+deu_2e82b770135a4371f1bca92c65e13a87,Der Gaza-Streifen wird jetzt ein Parkplatz.,1,0,1,1,0,1,deu,[LANG=deu] Der Gaza-Streifen wird jetzt ein Parkplatz.,"[0.7715871334075928, 0.48007890582084656, 0.3177493214607239, 0.3684052526950836, 0.6012057662010193, 0.41674208641052246]"
+deu_879125e15b9c091d7f244400faa05a06,"Danke, Genosse Putin!",1,1,0,0,1,0,deu,"[LANG=deu] Danke, Genosse Putin!","[-3.188084363937378, -2.8088138103485107, -3.212765693664551, -3.0795137882232666, -3.331939458847046, -2.9129741191864014]"
+deu_6565c6c96e4da78cf1091bcef61ee531,"Männer leiden wohl tatsächlich stärker unter ner Erkältung, weil das Immunsystem stärker anspringt, hab ich mal gelesen",0,0,0,0,0,0,deu,"[LANG=deu] Männer leiden wohl tatsächlich stärker unter ner Erkältung, weil das Immunsystem stärker anspringt, hab ich mal gelesen","[-2.331613779067993, -3.4975461959838867, -3.792855978012085, -3.647753953933716, -2.837653160095215, -3.144608974456787]"
+deu_1144163c6aabd4a1d173830b3218ab09,Einen Faschist mit dem vermutlichen eigenen Kind auf dem Schoss.,1,1,0,0,0,0,deu,[LANG=deu] Einen Faschist mit dem vermutlichen eigenen Kind auf dem Schoss.,"[0.6850181818008423, 1.0020860433578491, 0.3962573707103729, 0.539265513420105, 0.3129286766052246, -0.06070265546441078]"
+deu_26041c41e5980119f0ece7dd29e69925,"&gt;	Bundesverfassungsgericht hat dazu beim letzten Mal nein gesagt
+
+Quelle? Ich glaube es hat keine zwei Monate gedauert, nachdem das BVerfG das Klimaschutzgesetz für verfassungswidrig erklärt hat, bis der Gesetzgeber hier nachgebessert hat. Seitdem gab es mehrere weitere Verfassungsbeschwerden, dass das noch immer nicht genug sei, und die hat das BVerfG nichtmal zur Entscheidung zugelassen. Siehe zB hier 
+oder bei VBs gegen die Länder auch hier.  
+Also nein, das BVerfG hat beim letzten Mal nicht gesagt, dass der Gesetzgeber seinen Pflichten nicht nachkommt.",0,0,0,0,0,0,deu,"[LANG=deu] &gt;	Bundesverfassungsgericht hat dazu beim letzten Mal nein gesagt
+
+Quelle? Ich glaube es hat keine zwei Monate gedauert, nachdem das BVerfG das Klimaschutzgesetz für verfassungswidrig erklärt hat, bis der Gesetzgeber hier nachgebessert hat. Seitdem gab es mehrere weitere Verfassungsbeschwerden, dass das noch immer nicht genug sei, und die hat das BVerfG nichtmal zur Entscheidung zugelassen. Siehe zB hier 
+oder bei VBs gegen die Länder auch hier.  
+Also nein, das BVerfG hat beim letzten Mal nicht gesagt, dass der Gesetzgeber seinen Pflichten nicht nachkommt.","[-3.3678224086761475, -2.3499135971069336, -3.094057321548462, -2.46108341217041, -2.7811412811279297, -2.462214946746826]"
+deu_f22292b48890b1cacecbb21b6438cf03,">nach dem Krieg
+
+Mich hat die Formulierung grade irgendwie fertiggemacht. Dachte grad schon ""nach welchem Krieg? Ist schon einer angesetzt?""",0,0,0,0,0,0,deu,"[LANG=deu] >nach dem Krieg
+
+Mich hat die Formulierung grade irgendwie fertiggemacht. Dachte grad schon ""nach welchem Krieg? Ist schon einer angesetzt?""","[-3.215843677520752, -3.0079824924468994, -3.4624757766723633, -3.220025062561035, -3.117203712463379, -2.999865770339966]"
+deu_583fbb4d91fed6b3d1066b84e93e4fc7,">Auch die Osmanen haben einen Völkermord beganen.
+
+Türken: ""Das ist nie passiert, aber sie haben es verdient""",0,1,1,0,1,0,deu,"[LANG=deu] >Auch die Osmanen haben einen Völkermord beganen.
+
+Türken: ""Das ist nie passiert, aber sie haben es verdient""","[0.1004224419593811, 0.2711605727672577, -0.4593445062637329, 0.10946765542030334, 0.6710283756256104, 0.1762663871049881]"
+deu_e6ce53a5648d3e15917d2d1e01b45c0a,Genau wer kennt sie nicht. Die Türken und Araber auf Kohlfahrten,1,1,0,0,0,0,deu,[LANG=deu] Genau wer kennt sie nicht. Die Türken und Araber auf Kohlfahrten,"[1.2787352800369263, 0.366753488779068, 0.07347368448972702, -0.18548545241355896, -0.07662239670753479, -0.41525328159332275]"
+deu_6abeed8dcf0edf9e602790fe5c3d2007,"Als in der offensichtlich absichtlichen Pandemie, die Schlafschafe immer noch nicht aufgewacht sind #sarkasmus",1,1,1,0,1,1,deu,"[LANG=deu] Als in der offensichtlich absichtlichen Pandemie, die Schlafschafe immer noch nicht aufgewacht sind #sarkasmus","[-1.0160300731658936, -0.31256943941116333, -1.0194551944732666, -0.5333298444747925, -0.4412824213504791, -1.0224270820617676]"
+deu_542acf5b0ef30740b574cbff3e275d64,Oder die Cola hat Covid #Wakeup,0,1,0,0,1,0,deu,[LANG=deu] Oder die Cola hat Covid #Wakeup,"[-0.39302152395248413, -0.3824882507324219, -1.8869667053222656, -1.1664937734603882, 0.1226130947470665, -0.4980015456676483]"
+deu_2be971ba04038cde4dab9c0a69a0db5d,"> Und was ist jetzt dein Argument?
+
+Er hat die „Ich war ein Flüchtling“-Karte ausgespielt. Bist du Biodeutscher, dann sind seine Argumente jetzt automatisch mehr wert.",1,0,1,1,1,0,deu,"[LANG=deu] > Und was ist jetzt dein Argument?
+
+Er hat die „Ich war ein Flüchtling“-Karte ausgespielt. Bist du Biodeutscher, dann sind seine Argumente jetzt automatisch mehr wert.","[0.8021388053894043, 0.25084641575813293, -0.4078534245491028, -0.3965250551700592, 0.511227548122406, 0.19314271211624146]"
+deu_4a11de13f85f7241a6e395bf428a7e6e,Jede Art von Azzlack Musik.,0,0,0,0,0,0,deu,[LANG=deu] Jede Art von Azzlack Musik.,"[-2.6909890174865723, -3.1485190391540527, -3.2590131759643555, -3.4052860736846924, -3.1222758293151855, -2.831469774246216]"
+deu_55f9dc6e6d5b7ad3c830a29a9271ae77,Wann bitte auch für Putin-Unterstützer?,0,0,0,0,0,0,deu,[LANG=deu] Wann bitte auch für Putin-Unterstützer?,"[-0.7316862344741821, -1.5766397714614868, -2.694399118423462, -2.036416530609131, -0.7962257266044617, -1.4524329900741577]"
+deu_ba91797352999ea173a1445d2f39c96c,Hab auch Torte gegessen während Corona,0,0,0,0,0,0,deu,[LANG=deu] Hab auch Torte gegessen während Corona,"[-3.2044825553894043, -3.2767672538757324, -3.4193599224090576, -3.4322173595428467, -3.0222887992858887, -3.0851619243621826]"
+deu_8a94f04c1e5fea9e1ca82ff37ff1e28a,Warum? Dann gäb es Frieden.,0,0,0,0,0,0,deu,[LANG=deu] Warum? Dann gäb es Frieden.,"[-0.541138231754303, -0.5634769797325134, -1.3060152530670166, -0.7792752981185913, -0.05525002256035805, 0.07927558571100235]"
+deu_318312a05e79ef1e474f7b5a6f9e8372,Ich glaube für die AfD ist jeder der gegen sie ist linksgrün. Ich bin sicher Lindner und co freuen sich darüber.,1,0,0,0,1,1,deu,[LANG=deu] Ich glaube für die AfD ist jeder der gegen sie ist linksgrün. Ich bin sicher Lindner und co freuen sich darüber.,"[1.5193326473236084, 0.08306826651096344, -1.2325605154037476, -0.12677273154258728, -0.1627810150384903, -0.7451499104499817]"
+deu_855943300c8075828eeeb0a378a25286,"Such auf PH nach: ""Klima Aktivistin Gefickt""",0,1,1,1,0,0,deu,"[LANG=deu] Such auf PH nach: ""Klima Aktivistin Gefickt""","[0.2807316482067108, 0.49878135323524475, -0.3770808279514313, 0.36964383721351624, 0.6042986512184143, -0.09522242844104767]"
+deu_3b2aedcb3bff22071233c100354b84e5,"mache ich seit \~10 jahren, bin begeistert und hab schon ein paar andere mit dem 4 tage virus angesteckt",0,0,0,0,0,0,deu,"[LANG=deu] mache ich seit \~10 jahren, bin begeistert und hab schon ein paar andere mit dem 4 tage virus angesteckt","[-3.13016414642334, -3.10359525680542, -3.5310962200164795, -3.1883623600006104, -3.115687131881714, -3.058323383331299]"
+deu_cae0710b851695dc23658508c22d0f6c,"""Menschen, die für die Enteignung von DW/Vonovia demonstrieren, sind die Querdenker der Mietenkrise""
+
+- Einer unserer Professoren",0,1,0,1,0,0,deu,"[LANG=deu] ""Menschen, die für die Enteignung von DW/Vonovia demonstrieren, sind die Querdenker der Mietenkrise""
+
+- Einer unserer Professoren","[-0.04796440899372101, 0.3308947682380676, -1.3053040504455566, -0.4635426104068756, 0.01980920322239399, -0.5336872935295105]"
+deu_e9f50a3c255143cba775e43be158b0b5,"""Bernd Höcke ist kein Faschist""",0,0,0,0,0,0,deu,"[LANG=deu] ""Bernd Höcke ist kein Faschist""","[-2.023235321044922, -0.6734712719917297, -1.9804158210754395, -0.7497802376747131, -1.6520819664001465, -1.3527767658233643]"
+deu_53c71c9fadf7015c39567ec7e1e1ff2b,"Faschist\*innen und \*außen. Wenn schon, denn schon.",0,1,0,0,1,0,deu,"[LANG=deu] Faschist\*innen und \*außen. Wenn schon, denn schon.","[1.0856198072433472, 1.4246140718460083, -0.4084203243255615, 1.1073023080825806, 0.20814448595046997, -0.1289728432893753]"
+deu_9c2199410a85e3604c6fef0b7e009b22,"Geh mal in einen von den kleinen vollgerammelten Handyshops, wo nur Araber drin sind. Dort kannst du locker unregistrierte SIM Karten kaufen.",1,1,1,0,0,0,deu,"[LANG=deu] Geh mal in einen von den kleinen vollgerammelten Handyshops, wo nur Araber drin sind. Dort kannst du locker unregistrierte SIM Karten kaufen.","[1.2693490982055664, 0.6411761045455933, 0.06714761257171631, -0.00895762536674738, -0.030566716566681862, -0.7701477408409119]"
+deu_cc2539d02d7a5d7bea84582966566df1,Ihr 2 habt eventuell Corona?,0,0,0,0,0,0,deu,[LANG=deu] Ihr 2 habt eventuell Corona?,"[-2.5664753913879395, -3.563619375228882, -3.643674373626709, -3.8196396827697754, -3.1479830741882324, -3.020271062850952]"
+deu_171eb5aa924ce5454c80574b7a7ceb75,"*Die Gruppe um Russland würde versuchen, Begriffe wie »gender« wieder aus den offiziellen Dokumenten zu streichen, weil sie den Begriff als Hinweis auf Transgender- oder weiter gefasste LGBTQ+-Rechte betrachte, hieß es auf SPIEGEL-Nachfrage. Die Staaten wollten keine Verweise auf Vielfalt und würden es vorziehen, von »Sex« statt von »Gender« zu sprechen. Dabei findet sich der Begriff »gender« bereits im Pariser Abkommen von 2015; wenn auch bloß an drei @USER
+
+*Die arabische Staatengruppe wiederum blockiert Gender-Themen auch beim Anpassungsfonds, berichten Beobachter. Sie lehnt zum Beispiel Vorschläge ab, die Ausgaben geschlechtergerecht zu gestalten. »Gender-responsive finance«, ist der Begriff, um den es @USER
+
+\*suprisedpikachuface\*",0,0,0,0,0,0,deu,"[LANG=deu] *Die Gruppe um Russland würde versuchen, Begriffe wie »gender« wieder aus den offiziellen Dokumenten zu streichen, weil sie den Begriff als Hinweis auf Transgender- oder weiter gefasste LGBTQ+-Rechte betrachte, hieß es auf SPIEGEL-Nachfrage. Die Staaten wollten keine Verweise auf Vielfalt und würden es vorziehen, von »Sex« statt von »Gender« zu sprechen. Dabei findet sich der Begriff »gender« bereits im Pariser Abkommen von 2015; wenn auch bloß an drei @USER
+
+*Die arabische Staatengruppe wiederum blockiert Gender-Themen auch beim Anpassungsfonds, berichten Beobachter. Sie lehnt zum Beispiel Vorschläge ab, die Ausgaben geschlechtergerecht zu gestalten. »Gender-responsive finance«, ist der Begriff, um den es @USER
+
+\*suprisedpikachuface\*","[-3.214656114578247, -2.833299160003662, -3.1566901206970215, -2.856262683868408, -2.95772385597229, -2.730156183242798]"
+deu_5aec5f3e2fec5356ecfbd0f45cb546e8,"Wenn nicht die, dann die Ausländer
+
+/s",0,0,0,0,0,0,deu,"[LANG=deu] Wenn nicht die, dann die Ausländer
+
+/s","[1.2747876644134521, 0.3469051420688629, -0.25484606623649597, 0.15303634107112885, -0.07920175790786743, -0.5751897692680359]"
+deu_95b842f68e1dd004c2316a8d593c8a35,"Weniger Abgaben, höhere Gehälter, weniger Bürokratie, gesteuerte Migration.",0,0,0,0,0,0,deu,"[LANG=deu] Weniger Abgaben, höhere Gehälter, weniger Bürokratie, gesteuerte Migration.","[-0.04689468443393707, -0.7448710799217224, -0.9293656349182129, -0.541573703289032, 0.2235204577445984, -0.09105736017227173]"
+deu_92cea08833a375cf4de1478891a4d959,Beides passt ja mit der Gruppe der Querdenker und anderer Anhänger von alternativen Fakten zusammen.,1,1,0,0,0,0,deu,[LANG=deu] Beides passt ja mit der Gruppe der Querdenker und anderer Anhänger von alternativen Fakten zusammen.,"[-0.9340171813964844, -1.0062297582626343, -2.603766679763794, -1.6731098890304565, -0.9804681539535522, -0.9678848385810852]"
+deu_0249b699b55282e2ea8501ed5ff7ac69,Da weiß man am Ende auch nicht wirklich wie er das gepackt hat. Eine robuste Physis und Immunsystem sind vermutlich unabdingbar.,0,0,0,0,0,0,deu,[LANG=deu] Da weiß man am Ende auch nicht wirklich wie er das gepackt hat. Eine robuste Physis und Immunsystem sind vermutlich unabdingbar.,"[-3.2398955821990967, -3.092817783355713, -3.402587652206421, -3.2560653686523438, -3.1674389839172363, -2.943075656890869]"
+deu_501fc862055a6952e04fc3f9ed4357a1,Reaktionäres Anti-Grünen / Anti-Woke Verhalten.,0,0,0,0,0,0,deu,[LANG=deu] Reaktionäres Anti-Grünen / Anti-Woke Verhalten.,"[0.8626883029937744, 0.469377338886261, -1.068371057510376, -0.1569855511188507, 0.2444460242986679, -0.5188884735107422]"
+deu_ae090511c66f03552d9551bcd4dd2834,Ich glaube es konnten nicht genügend masochistische ukrainische Künstler:innen mit Stockholm-Syndrom gefunden werden.,1,1,1,0,0,0,deu,[LANG=deu] Ich glaube es konnten nicht genügend masochistische ukrainische Künstler:innen mit Stockholm-Syndrom gefunden werden.,"[1.2215803861618042, 0.9084637761116028, 0.3558382987976074, 0.7476013898849487, 0.5178146958351135, -0.23309727013111115]"
+deu_4681c3fbb8fa7c94955cb1d8d047e39b,Das Problem sind nicht die 1000€ für den Flüchtling. Das Problem sind die 1000€ @USER Flüchtlinge.,0,0,0,0,0,0,deu,[LANG=deu] Das Problem sind nicht die 1000€ für den Flüchtling. Das Problem sind die 1000€ @USER Flüchtlinge.,"[1.3231635093688965, 0.3965374827384949, 0.36593133211135864, 0.10735391825437546, 0.3497975170612335, 0.06251226365566254]"
+deu_3ea913507e478e1e580a199d5778a043,Soll es also nur pseudo linke politik welche von Moskau unterstützt wird geben?,0,0,0,0,1,1,deu,[LANG=deu] Soll es also nur pseudo linke politik welche von Moskau unterstützt wird geben?,"[1.2852864265441895, 0.7416282892227173, -0.3283182680606842, 0.09636916220188141, 0.506945013999939, 0.7649155259132385]"
+deu_3b2bedd2ec1ed88143e739713a40f13c,"kriege leider öfter als man meint  entsetzte Anrufe von Kunden ""SIE WURDEN GEHACKT!! Mein Virenprogramm sagt, da war ein @USER Es sind der Stimme nach IMMER Kunden die 70+ sind. Ich habe keinen Virus / malware / oder bin gehackt worden. Nicht ganz sicher, was das auslöst.",0,0,0,0,0,0,deu,"[LANG=deu] kriege leider öfter als man meint  entsetzte Anrufe von Kunden ""SIE WURDEN GEHACKT!! Mein Virenprogramm sagt, da war ein @USER Es sind der Stimme nach IMMER Kunden die 70+ sind. Ich habe keinen Virus / malware / oder bin gehackt worden. Nicht ganz sicher, was das auslöst.","[-2.4488046169281006, -3.0879600048065186, -3.8788082599639893, -3.1795718669891357, -2.418839693069458, -2.7564470767974854]"
+deu_9af2eed25b5be0c0aa48a8a3c930fcca,"Frauen, die sich extrem unweiblich kleiden und durchgehend über Gender-Paygap oder mangelnde Gleichberechtigung reden.",1,1,0,1,0,0,deu,"[LANG=deu] Frauen, die sich extrem unweiblich kleiden und durchgehend über Gender-Paygap oder mangelnde Gleichberechtigung reden.","[0.3712143003940582, 0.3381839692592621, -0.06565327197313309, -0.0737658143043518, 0.6310656666755676, -0.12274377793073654]"
+deu_97d228a99aa7426dd7ade393c2153b61,"Was ich jetzt äußere, könnte man als kontrovers bezeichnen, aber ich finde beide scheiße,Letzte Generation und FDP.",1,1,0,1,1,0,deu,"[LANG=deu] Was ich jetzt äußere, könnte man als kontrovers bezeichnen, aber ich finde beide scheiße,Letzte Generation und FDP.","[-1.8506346940994263, -2.765052080154419, -3.987121820449829, -3.0954670906066895, -2.8412516117095947, -2.780437707901001]"
+deu_6b9e3ef48403029c1a9378b6dd128f65,"Das sind meist lokale Angestellte.  
+Immer wieder Hamas Mitglieder.",1,1,1,0,0,0,deu,"[LANG=deu] Das sind meist lokale Angestellte.  
+Immer wieder Hamas Mitglieder.","[1.1804932355880737, 0.41944584250450134, -0.006231246050447226, -0.4267844259738922, -0.31285524368286133, -0.7885564565658569]"
+deu_5e039056cc13b5ee4871320479d6b207,"Es gibt nur 2 Geschlechter, männlich und politisch 
+
+>! /s nur zur Sicherheit, bin auch queer !<",1,0,1,1,1,1,deu,"[LANG=deu] Es gibt nur 2 Geschlechter, männlich und politisch 
+
+>! /s nur zur Sicherheit, bin auch queer !<","[0.5773529410362244, -0.6073575615882874, -1.3051098585128784, 0.027585327625274658, -0.06342793256044388, -0.1937772035598755]"
+deu_4709392eaec10d44a0a2416f025e226d,"Bei magersucht ,
+ einem kaputten immunsystem  häufigen infekte-> magen darm  Infekt , hüftgelenksentzünndung , atemwegsingektion ?
+
+
+
+
+
+Viellieicht eher eine gesundes immunsystem und eine psychotherapie",0,0,0,0,0,0,deu,"[LANG=deu] Bei magersucht ,
+ einem kaputten immunsystem  häufigen infekte-> magen darm  Infekt , hüftgelenksentzünndung , atemwegsingektion ?
+
+
+
+
+
+Viellieicht eher eine gesundes immunsystem und eine psychotherapie","[-2.433736801147461, -3.2441699504852295, -3.66076397895813, -3.091993808746338, -2.5993528366088867, -2.7989656925201416]"
+deu_4107a5feedba0d2cdda5d417ae0008da,Vitamin C und vlt Zink supplementieren damit das Immunsystem besser arbeiten kann,0,0,0,0,0,0,deu,[LANG=deu] Vitamin C und vlt Zink supplementieren damit das Immunsystem besser arbeiten kann,"[-3.079674243927002, -3.3017096519470215, -3.54156231880188, -3.5921876430511475, -3.329451322555542, -3.1634013652801514]"
+deu_1eb986ac712b00c3f3b20a86829d500e,"Ah ich sehe, dass mein Kommentar gelöscht wurde. Tut mir leid, ich hab vergessen ich welchem subreddit ich hier bin.
+
+Israel ist super. Ich liebe Israel. Zerstört die Hamas egal wieviele palästinensische und israelische Leben es kostet. From the River to the Sea Israel is all I see! Bring them Home! Am Israel Chai
+
+Mach ich das richtig?",0,0,0,1,1,1,deu,"[LANG=deu] Ah ich sehe, dass mein Kommentar gelöscht wurde. Tut mir leid, ich hab vergessen ich welchem subreddit ich hier bin.
+
+Israel ist super. Ich liebe Israel. Zerstört die Hamas egal wieviele palästinensische und israelische Leben es kostet. From the River to the Sea Israel is all I see! Bring them Home! Am Israel Chai
+
+Mach ich das richtig?","[1.0240070819854736, 0.6549943089485168, 0.20086781680583954, 1.0398133993148804, 0.6790356040000916, 0.4781191051006317]"
+deu_72e77118ec5280acfe90c9c812929ac2,"Oder weil sie gerne wie Israel genocide ausüben würden, ach warte, Israel hat ja Deutschlands volle Unterstützung…",1,1,0,1,0,1,deu,"[LANG=deu] Oder weil sie gerne wie Israel genocide ausüben würden, ach warte, Israel hat ja Deutschlands volle Unterstützung…","[0.5584115386009216, 0.8681359887123108, 0.025120040401816368, 0.9338507056236267, 0.9062110185623169, 0.2523849606513977]"
+deu_e2e95c01867313b602eb64e20ba5d71e,Stattdessen können wir doch 190 000 Kriegstreiber mit deutschem Pass in die Ukraine schicken.,1,1,1,1,1,0,deu,[LANG=deu] Stattdessen können wir doch 190 000 Kriegstreiber mit deutschem Pass in die Ukraine schicken.,"[0.6123533248901367, 0.675740122795105, 0.5171144604682922, 0.7762507796287537, 0.6697604060173035, 0.17722433805465698]"
+deu_68b459d68cfc3c3dc1fd0cdd948045e0,Schweres Long Covid. ,0,0,0,0,0,0,deu,[LANG=deu] Schweres Long Covid. ,"[-2.083524465560913, -3.6902377605438232, -3.484989643096924, -3.920530080795288, -3.0422921180725098, -2.814375877380371]"
+deu_8b0b0937bc1154e52783330d5b31f5d1,"Der Sinn dahinter ist, dass dadurch ukrainische Soldaten, die an besagten Grenzen momentan stationiert sind, frei für die Front wären",0,0,0,0,0,0,deu,"[LANG=deu] Der Sinn dahinter ist, dass dadurch ukrainische Soldaten, die an besagten Grenzen momentan stationiert sind, frei für die Front wären","[-2.250948190689087, -3.04978346824646, -3.7909252643585205, -3.198671340942383, -2.457939863204956, -2.4373886585235596]"
+deu_90b1b83bf2a9827ae8e3abe1a20d0e18,"Wenn man die Social-Media-Kommentare liest, dann passiert das offenbar nur in Gaza.",0,0,0,0,0,0,deu,"[LANG=deu] Wenn man die Social-Media-Kommentare liest, dann passiert das offenbar nur in Gaza.","[0.0017112954519689083, -0.6097146272659302, -2.036815643310547, -1.39690363407135, -0.330875039100647, -1.0509519577026367]"
+deu_e3ac82f33b744a39cf359541c86d6fcf,">Letztere sind eine Geisel dieser Gesellschaft
+
+*pssst*
+
+Das Wort, das du meinst, lautet ""Geißel"".",0,0,0,0,0,0,deu,"[LANG=deu] >Letztere sind eine Geisel dieser Gesellschaft
+
+*pssst*
+
+Das Wort, das du meinst, lautet ""Geißel"".","[0.8167386054992676, 0.5262783765792847, -0.5897856950759888, -0.05850802734494209, 0.233332559466362, -0.6564909219741821]"
+deu_6202a195fc4d2625d3cbdadbc6d730e5,"Ich hatte u/iLucasDOTexe so verstanden, dass diese Petition faschistisch ist. Das Höcke ein Faschist ist ist mir klar.",1,1,1,0,0,0,deu,"[LANG=deu] Ich hatte u/iLucasDOTexe so verstanden, dass diese Petition faschistisch ist. Das Höcke ein Faschist ist ist mir klar.","[0.4935625493526459, 0.8981009721755981, -0.6845887899398804, 0.14083027839660645, 0.30195802450180054, 0.36513087153434753]"
+deu_5172bbb1a340e162d1f6aafcf263acf9,Irgendwo muss ja das Geld heimlich von den Sozialleistungen und dem Umweltschutz in die E-Fuels fließen.,0,1,0,1,0,0,deu,[LANG=deu] Irgendwo muss ja das Geld heimlich von den Sozialleistungen und dem Umweltschutz in die E-Fuels fließen.,"[-0.9428924322128296, -1.2264004945755005, -1.6833209991455078, -1.7698132991790771, -0.5140901803970337, -1.1304914951324463]"
+deu_9e4140c72a0db5fe401d126d58c09729,">Wahrscheinlichkeit war der gute Herr nämlich nicht einmal ein ukrainischer Flüchtling.
+
+Was hätte das auch geändert, wenn OP mit Sicherheit gewusst hätte, dass das ein Ukrainer ist?",0,0,0,0,0,0,deu,"[LANG=deu] >Wahrscheinlichkeit war der gute Herr nämlich nicht einmal ein ukrainischer Flüchtling.
+
+Was hätte das auch geändert, wenn OP mit Sicherheit gewusst hätte, dass das ein Ukrainer ist?","[0.813736081123352, 0.43171077966690063, 0.4537763297557831, 0.045819178223609924, 0.6339529752731323, 0.14116428792476654]"
+deu_5054c57cdae9da5182e6fe5d7803570d,"Dann beantragen alle nur in Ländern Asyl, die am Rand Europas liegen?",0,0,0,0,0,0,deu,"[LANG=deu] Dann beantragen alle nur in Ländern Asyl, die am Rand Europas liegen?","[0.7071038484573364, 0.3466782867908478, 0.4384443163871765, -0.011569452472031116, 0.5944907069206238, 0.05109792202711105]"
+deu_5fb88e54015a6dcedfdea3b9a617d48b,"Falsch, gewinnen bedeutet schlicht und einfach das die Ukraine als souveräner Staat weiter existiert, ohne russischen Einfluss, nicht mehr nicht weniger.
+Ob jetzt mit oder ohne abgetretenen Gebieten ist Scheiß egal.
+Wichtig wäre souveräner Staat mit der Sicherheit das Russland nicht mehr angreift.
+Putins Forderung, die jetzige Regierung in Kiew tritt ab und wird gegen eine pro russische ausgetauscht.",0,0,0,0,0,0,deu,"[LANG=deu] Falsch, gewinnen bedeutet schlicht und einfach das die Ukraine als souveräner Staat weiter existiert, ohne russischen Einfluss, nicht mehr nicht weniger.
+Ob jetzt mit oder ohne abgetretenen Gebieten ist Scheiß egal.
+Wichtig wäre souveräner Staat mit der Sicherheit das Russland nicht mehr angreift.
+Putins Forderung, die jetzige Regierung in Kiew tritt ab und wird gegen eine pro russische ausgetauscht.","[-2.69954514503479, -3.1061081886291504, -3.285435438156128, -2.158026695251465, -2.055619955062866, -2.098691463470459]"
+deu_5223bcad6cdba5ca42a16b738ea0499d,"""Der Islam gehört zu Deutschland"" jaja. Selbst Schuld, wenn man hier jeden reinlässt.",1,0,1,0,0,0,deu,"[LANG=deu] ""Der Islam gehört zu Deutschland"" jaja. Selbst Schuld, wenn man hier jeden reinlässt.","[1.2908673286437988, 0.9007135033607483, 0.6001406908035278, 0.7283673286437988, 0.510585606098175, 0.28787586092948914]"
+deu_320c47ab0455339cf3e21613c9a629e4,CO2 Melder besorgen und Psychiater aufsuchen,1,1,0,0,0,1,deu,[LANG=deu] CO2 Melder besorgen und Psychiater aufsuchen,"[-1.2790844440460205, -2.0119199752807617, -2.192760705947876, -1.903114914894104, -0.9584237933158875, -2.043431520462036]"
+deu_8f5ef887269ab169e96c13ccbb085cfc,"Corona, müsste Omikron-Variante sein.",0,0,0,0,0,0,deu,"[LANG=deu] Corona, müsste Omikron-Variante sein.","[-2.259413003921509, -2.777712821960449, -2.7550711631774902, -2.783416748046875, -1.96694016456604, -2.331963539123535]"
+deu_01c06311d3774f38f95255c9f4a1f5c7,FFF ist nicht nur eine deutsche Bewegung und überall sonst auf der Welt ordnet man diese Sachen ganz anders ein.,0,0,0,0,0,0,deu,[LANG=deu] FFF ist nicht nur eine deutsche Bewegung und überall sonst auf der Welt ordnet man diese Sachen ganz anders ein.,"[-2.0536563396453857, -3.064049243927002, -3.571378469467163, -3.2748055458068848, -2.7629363536834717, -2.8761441707611084]"
+deu_d15514004b434dfc25ae4bc48c853b10,Putin derangement syndrome.,0,0,0,0,0,0,deu,[LANG=deu] Putin derangement syndrome.,"[0.6113100051879883, 0.8575972318649292, -0.08503319323062897, 0.18251493573188782, 0.3409879803657532, -0.03333773836493492]"
+deu_5635b1509afaf2a0727856dc5f5fb0de,Frohe Weihnachten an unsere orthodoxen Geldverhebler!,1,1,0,1,0,0,deu,[LANG=deu] Frohe Weihnachten an unsere orthodoxen Geldverhebler!,"[1.3729585409164429, 1.1756142377853394, 0.4646672308444977, 0.9738996028900146, 0.5491335391998291, -0.16652120649814606]"
+deu_26d211958a2234c95456e644c05cfa8a,Die CDU ist jetzt woke. Wer hätte das erwartet?,1,0,0,0,1,0,deu,[LANG=deu] Die CDU ist jetzt woke. Wer hätte das erwartet?,"[1.1922791004180908, 0.6164923310279846, -0.021092353388667107, 0.010814742185175419, 0.420888751745224, 0.011179888620972633]"
+deu_3b4be1aeea232968749769bb9badc481,"Du bist also der Meinung das jüdische Menschen „überrepräsentiert“ sind ?? Wo denn bitte ? In Österreich, in Deutschland ? 
+Klingt genau nach dem Gelaber was du kritisieren möchtest",0,0,0,0,0,0,deu,"[LANG=deu] Du bist also der Meinung das jüdische Menschen „überrepräsentiert“ sind ?? Wo denn bitte ? In Österreich, in Deutschland ? 
+Klingt genau nach dem Gelaber was du kritisieren möchtest","[0.45799893140792847, 0.2931528091430664, -0.6548573970794678, -0.3651403784751892, 0.5399234890937805, 0.5516751408576965]"
+deu_83542008f633d7ba39c19ab4252b015f,Hat fff irgendwas wirklich bewegt?,0,0,0,0,0,0,deu,[LANG=deu] Hat fff irgendwas wirklich bewegt?,"[-3.036309003829956, -3.1110358238220215, -3.3651468753814697, -3.5000853538513184, -3.2680821418762207, -2.9415123462677]"
+deu_5c0d99687b096a01c75b1b6e9096bbf9,"Es gibt ja generell immer 10% Dumme in einer Gesellschaft. Dann zählst du noch Religiöse/Querdenker dazu - zack, die Zahlen sind erklärbar.",1,1,1,0,0,1,deu,"[LANG=deu] Es gibt ja generell immer 10% Dumme in einer Gesellschaft. Dann zählst du noch Religiöse/Querdenker dazu - zack, die Zahlen sind erklärbar.","[1.4656121730804443, 0.4324445426464081, -0.2259611338376999, 0.045506466180086136, 0.04500654712319374, -0.13401006162166595]"
+deu_d59dfbb072f214a3507e11b2b898b052,Natürlich. Nochmal. Wo geht es bei dem Protest um die Hamas?,0,0,0,0,0,0,deu,[LANG=deu] Natürlich. Nochmal. Wo geht es bei dem Protest um die Hamas?,"[-0.8220565319061279, -0.7088356614112854, -1.3951544761657715, -0.8719907402992249, -0.09716992825269699, -0.20595887303352356]"
+deu_a3dfae798c531eb807bba609db393fca,"Kommentator: ist ein Musikevent, lasst Politik weg. 
+
+Israel 10 Punkte für Deutschland.
+
+Deutschland 8 Punkte für Israel. 
+
+Hat wohl keiner der Jury erzählt.",1,0,0,0,1,1,deu,"[LANG=deu] Kommentator: ist ein Musikevent, lasst Politik weg. 
+
+Israel 10 Punkte für Deutschland.
+
+Deutschland 8 Punkte für Israel. 
+
+Hat wohl keiner der Jury erzählt.","[-2.298307180404663, -2.0518856048583984, -2.513740301132202, -2.091294765472412, -1.5142652988433838, -1.4093029499053955]"
+deu_7664ec0e11c2f0aeb9b07d0f4af61ac7,"Archiv:
+
+*Ein Krankenhaus als Kommandozentrale der Hamas?*  
+@USER",0,0,0,0,0,0,deu,"[LANG=deu] Archiv:
+
+*Ein Krankenhaus als Kommandozentrale der Hamas?*  
+@USER","[-0.8598142862319946, -0.4425828456878662, -1.7223029136657715, -1.032349944114685, -0.6439484357833862, -0.38279539346694946]"
+deu_bcf041b527c5c37ecfb6be80998087f3,Schwachsinn. Sowas kommt nur von Leuten die noch nie einen Flüchtling gesehen haben.,1,0,0,0,1,0,deu,[LANG=deu] Schwachsinn. Sowas kommt nur von Leuten die noch nie einen Flüchtling gesehen haben.,"[1.1044247150421143, 0.5022986531257629, -0.2393004149198532, -0.10558237135410309, 0.40445950627326965, 0.5635071396827698]"
+deu_e3b975e9e1fa934f9c55932b19bf506f,Darf die dann bei FFF eine Rede halten oder eher nicht so?,0,0,0,0,0,0,deu,[LANG=deu] Darf die dann bei FFF eine Rede halten oder eher nicht so?,"[-2.5476996898651123, -3.025491237640381, -3.1520192623138428, -3.0679831504821777, -2.2564778327941895, -2.3493826389312744]"
+deu_15a1e1df56afa3f2265e9e2dc9521af8,"Jein. Das Problem: es gibt nicht gegen alles eine Impfung. Beim Training fürs Immunsystem geht es vor allem um einfache Erreger wie Erkältung. 
+Deshalb ja: Bei starken Symptomen gehört man von anderen weg. Vor allem bei Krankheiten gegen die es keine Impfung gibt. Wie etwa Magen-Darm. 
+Geb es da ne Impfung wär ich die erste die sie hätte.",0,0,0,0,0,0,deu,"[LANG=deu] Jein. Das Problem: es gibt nicht gegen alles eine Impfung. Beim Training fürs Immunsystem geht es vor allem um einfache Erreger wie Erkältung. 
+Deshalb ja: Bei starken Symptomen gehört man von anderen weg. Vor allem bei Krankheiten gegen die es keine Impfung gibt. Wie etwa Magen-Darm. 
+Geb es da ne Impfung wär ich die erste die sie hätte.","[-2.976560115814209, -3.012606620788574, -3.44059419631958, -2.9216575622558594, -2.4092185497283936, -2.645362138748169]"
+deu_d0ae7ca9243a83b1d751358fede5ca14,"Nein, der CO2 Ausstoß ist nicht rückläufig. Wir verkaufen usner CO2 nur an andere Staaten um unserer Bilanzen zu schönen.",1,0,0,1,1,0,deu,"[LANG=deu] Nein, der CO2 Ausstoß ist nicht rückläufig. Wir verkaufen usner CO2 nur an andere Staaten um unserer Bilanzen zu schönen.","[0.01719016581773758, -0.3528367877006531, -1.1300435066223145, -0.2737514078617096, 0.1513877511024475, 0.47043377161026]"
+deu_5a41443bbb3e7ee80b4456a52d198905,"Kätzin? Die weibliche Katze heißt Katze, die männliche Katze heißt Kater. Da gibt es einmal generisches Femininum, und das ist auch nicht recht?",1,1,0,0,1,0,deu,"[LANG=deu] Kätzin? Die weibliche Katze heißt Katze, die männliche Katze heißt Kater. Da gibt es einmal generisches Femininum, und das ist auch nicht recht?","[0.9445106983184814, 0.30745169520378113, 0.30938640236854553, -0.21304821968078613, 0.09736882895231247, -0.35924530029296875]"
+deu_c5a4e46b1ff6009941f1542a5a52d225,Den Querdenker Ausbilder feuern. Spart sogar Geld ein.,1,1,0,1,0,1,deu,[LANG=deu] Den Querdenker Ausbilder feuern. Spart sogar Geld ein.,"[0.9820126295089722, 0.987903892993927, 0.15199817717075348, 0.49956491589546204, 0.5104332566261292, 0.18949048221111298]"
+deu_7495abbea2fc8c4faded22e2e88ec969,2 Millionen Arbeitskräfte können wir sofort aus Gaza akquirieren,0,0,0,0,0,0,deu,[LANG=deu] 2 Millionen Arbeitskräfte können wir sofort aus Gaza akquirieren,"[-2.712616205215454, -2.7407608032226562, -3.3469016551971436, -3.149049758911133, -2.754521369934082, -2.7271969318389893]"
+deu_b6546980a4b07d79e79cd889f7918c8b,Welche Regeln gelten im Krieg?,0,0,0,0,0,0,deu,[LANG=deu] Welche Regeln gelten im Krieg?,"[-2.977651357650757, -3.337155342102051, -3.507507801055908, -3.5260891914367676, -3.175623893737793, -2.883744955062866]"
+deu_2e4727ba5186df64e35871918538e1f4,"Ist das nicht der Sinn der Mandeln, dass sie Sonden für das Immunsystem sind?",0,0,0,0,0,0,deu,"[LANG=deu] Ist das nicht der Sinn der Mandeln, dass sie Sonden für das Immunsystem sind?","[-0.276687890291214, -0.34305286407470703, -0.5101028084754944, -1.0629178285598755, -0.1566777229309082, -0.8746728301048279]"
+deu_5e4711f6302653763ff72b9dac6e8890,"Ich hatte dieses Jahr aber kein Covid. Letzter Infekt (und ja, der war Covid) ist 4 Jahre her. Kann also nicht die Ursache für meinen jetzigen Zustand sein",0,0,0,0,0,0,deu,"[LANG=deu] Ich hatte dieses Jahr aber kein Covid. Letzter Infekt (und ja, der war Covid) ist 4 Jahre her. Kann also nicht die Ursache für meinen jetzigen Zustand sein","[-3.1983959674835205, -3.4135007858276367, -3.3928322792053223, -3.35064959526062, -3.032155990600586, -2.757594347000122]"
+deu_8be6f187dd16152ceeec584db6ce1b5c,Weil die Polizisten nicht zur Demo gehören,0,0,0,0,0,0,deu,[LANG=deu] Weil die Polizisten nicht zur Demo gehören,"[-0.713720440864563, -1.1192482709884644, -1.4611835479736328, -1.654706358909607, -0.6282832026481628, -1.063186526298523]"
+deu_e683061f37e9d9c79c8b5c4410669da6,"Unabhängig von ihren politischen Ansichten, finde ich diese Entscheidung völlig daneben. Wenn die gewaltbereit ist, dann haben wir in Deutschland sehr viele Menschen denen wir Demonstration verbieten müssten.",0,0,0,0,0,0,deu,"[LANG=deu] Unabhängig von ihren politischen Ansichten, finde ich diese Entscheidung völlig daneben. Wenn die gewaltbereit ist, dann haben wir in Deutschland sehr viele Menschen denen wir Demonstration verbieten müssten.","[-2.3950111865997314, -2.5246078968048096, -3.377207040786743, -2.2407660484313965, -1.597996711730957, -2.1173179149627686]"
+deu_bade03e57e38ba820162c8ff51dae392,"Am witzigsten fand ich ja, dass man während eines Reviews nicht über Covid reden darf.
+
+a) was hat das Spiel mit Covid zu tun?
+
+b) Wie hart hat China seine Covid-Maßnahmen verkackt dass sie Angst haben, dass ausländische peepz darüber reden?",0,0,0,0,1,1,deu,"[LANG=deu] Am witzigsten fand ich ja, dass man während eines Reviews nicht über Covid reden darf.
+
+a) was hat das Spiel mit Covid zu tun?
+
+b) Wie hart hat China seine Covid-Maßnahmen verkackt dass sie Angst haben, dass ausländische peepz darüber reden?","[-1.2470803260803223, -1.0357335805892944, -1.6904798746109009, -1.0937162637710571, -0.03322084620594978, -0.6048010587692261]"
+deu_6afac1664314a99ac577a15ac26146ba,Ideologie ist wichtiger!!!1111,0,0,0,0,0,0,deu,[LANG=deu] Ideologie ist wichtiger!!!1111,"[-1.2557260990142822, -2.3539416790008545, -3.4586362838745117, -1.9041999578475952, -1.543724536895752, -1.4136918783187866]"
+deu_0d243432bea9bca9292ce1fd5362bbf5,"Wenn er gestillt wird, hat er ein ganz wunderbares Immunsystem, nämlich das der Mutter. Also Mumpitz.",0,0,0,0,0,0,deu,"[LANG=deu] Wenn er gestillt wird, hat er ein ganz wunderbares Immunsystem, nämlich das der Mutter. Also Mumpitz.","[-2.8617851734161377, -3.167847156524658, -3.019035577774048, -3.415919303894043, -3.006706714630127, -3.0888097286224365]"
+deu_cd84f5abc314a813791453c1ac022443,"$RHM ist in Verhandlungen mit der Ukraine über eine mögliche, zukünftige Lieferung des neuen Panther Kampfpanzers der letztes Jahr frisch vorgestellt wurde.
+
+Lustige, potenzielle Zeitlinie: Deutsche Panther kämpfen im Donbass gegen russische Panzer, 80 Jahre nachdem das schon mal der Fall war 👀
+
+Handelsblatt Interview: Rheinmetall-Chef Papperger: „Wir reden mit Kiew über den Export des Panthers“",0,0,0,0,0,0,deu,"[LANG=deu] $RHM ist in Verhandlungen mit der Ukraine über eine mögliche, zukünftige Lieferung des neuen Panther Kampfpanzers der letztes Jahr frisch vorgestellt wurde.
+
+Lustige, potenzielle Zeitlinie: Deutsche Panther kämpfen im Donbass gegen russische Panzer, 80 Jahre nachdem das schon mal der Fall war 👀
+
+Handelsblatt Interview: Rheinmetall-Chef Papperger: „Wir reden mit Kiew über den Export des Panthers“","[-3.3241496086120605, -3.139038562774658, -3.4330761432647705, -3.239600896835327, -3.1060047149658203, -3.1443285942077637]"
+deu_add86617c1e01ac5505a87059fc67d9c,"Windpocken oder Gürtelrose gehabt? Dann Glückwunsch, Sie haben das Herpes Virus in sich!",0,0,0,1,1,0,deu,"[LANG=deu] Windpocken oder Gürtelrose gehabt? Dann Glückwunsch, Sie haben das Herpes Virus in sich!","[-1.784782886505127, -1.3154908418655396, -1.8714174032211304, -1.8091977834701538, -0.8517290353775024, -1.3110686540603638]"
+deu_40617bce7beb7c09d0ec87da7fa41761,Ich hätte gerne wieder Corona-Regeln,0,0,0,0,0,0,deu,[LANG=deu] Ich hätte gerne wieder Corona-Regeln,"[-2.5741004943847656, -3.5850887298583984, -3.522590398788452, -3.7922096252441406, -2.9574036598205566, -2.932918071746826]"
+deu_66d2179653cce5b0c7888fdc8b82cebc,Woran die Hamas die alleinige Schuld trägt.,1,1,1,0,1,1,deu,[LANG=deu] Woran die Hamas die alleinige Schuld trägt.,"[-2.8613030910491943, -3.1295266151428223, -3.320436716079712, -3.4188342094421387, -3.0151937007904053, -2.8742148876190186]"
+deu_76125412a6e2c46572ce9525a5554757,Es sind Ausländer oder Kern behinderte einfach,1,1,1,1,0,0,deu,[LANG=deu] Es sind Ausländer oder Kern behinderte einfach,"[1.409022331237793, 0.7190689444541931, -0.02157302387058735, -0.06644198298454285, 0.4692860245704651, 0.04142419248819351]"
+deu_1ff683bf0a7d08234b4a771375d61959,Die genau wo ihre pro-russische Haltung bekundet haben?,0,0,0,0,0,0,deu,[LANG=deu] Die genau wo ihre pro-russische Haltung bekundet haben?,"[-2.8893959522247314, -2.814596652984619, -3.483429431915283, -3.1228435039520264, -2.9741547107696533, -2.736995220184326]"
+deu_6bfedcff6970c6f2839047a15c1b9ff2,"> So ein Quatsch, das ist der Kern liberaler Wirtschaftspolitik, schon immer gewesen
+
+The Economist, das klassisch liberale Magazin, 2009:
+
+> Governments must also do their part, and not just in order to cut greenhouse-gas emissions. A switch to electric vehicles, along with better public transport, would also reduce choking air pollution in the developing world's megacities. 
+> @USER Encouraging take-up means shifting the overall cost of ownership to favour cleaner cars over ones powered by fossil fuels. **A carbon tax, which would make owning a gas-guzzler more expensive and a zero-emission vehicle more attractive by comparison, would be the best approach**.
+
+FDP ist einfach nicht liberal, sondern in diesem Bereich extrem konservativ. Liberal ist CO2-Besteuerung.",0,0,0,0,0,0,deu,"[LANG=deu] > So ein Quatsch, das ist der Kern liberaler Wirtschaftspolitik, schon immer gewesen
+
+The Economist, das klassisch liberale Magazin, 2009:
+
+> Governments must also do their part, and not just in order to cut greenhouse-gas emissions. A switch to electric vehicles, along with better public transport, would also reduce choking air pollution in the developing world's megacities. 
+> @USER Encouraging take-up means shifting the overall cost of ownership to favour cleaner cars over ones powered by fossil fuels. **A carbon tax, which would make owning a gas-guzzler more expensive and a zero-emission vehicle more attractive by comparison, would be the best approach**.
+
+FDP ist einfach nicht liberal, sondern in diesem Bereich extrem konservativ. Liberal ist CO2-Besteuerung.","[-0.9141201972961426, -1.159003734588623, -2.5154759883880615, -0.973183810710907, -1.0812888145446777, -0.7441198825836182]"
+deu_44aa26f66021d09beba901f4e18333d9,Das Gender hat allerdings auch nichts mit dem Sexus zu tun.,0,0,0,0,0,0,deu,[LANG=deu] Das Gender hat allerdings auch nichts mit dem Sexus zu tun.,"[-2.752487897872925, -3.123101234436035, -3.1763713359832764, -3.0175466537475586, -2.378796100616455, -2.1591925621032715]"
+deu_4c18faf933bd5cd1e567661c4e4b36a0,"Oder, was noch schlimmer ist: Die Leute, die in den Beruf arbeiten wollen sind Schwurbler, Querdenker, und Extremisten.",1,1,0,1,1,0,deu,"[LANG=deu] Oder, was noch schlimmer ist: Die Leute, die in den Beruf arbeiten wollen sind Schwurbler, Querdenker, und Extremisten.","[1.5046501159667969, 0.7729719281196594, -0.07749081403017044, 0.26322102546691895, 0.17532934248447418, -0.4794510006904602]"
+deu_13834a76dc176c9cf76d372905ace432,Impfung und das allgemeine Vorgehen war maximal unnötig. Punkt,0,1,0,1,1,1,deu,[LANG=deu] Impfung und das allgemeine Vorgehen war maximal unnötig. Punkt,"[-1.5213627815246582, -1.4001970291137695, -1.4849478006362915, -0.8441966772079468, -0.4759870767593384, -0.2567567527294159]"
+deu_1733a1b44ecc0a07556b29c19b7aa3d2,"Hab die erste Infektion anno 2020 ohne Impfung mitgemacht und es waren wirklich Welten zwischen dieser und späterer Infektionen mit @USER so lange lag ich noch nie flach, bin eigentlich ein recht gesunder @USER",0,0,0,0,0,0,deu,"[LANG=deu] Hab die erste Infektion anno 2020 ohne Impfung mitgemacht und es waren wirklich Welten zwischen dieser und späterer Infektionen mit @USER so lange lag ich noch nie flach, bin eigentlich ein recht gesunder @USER","[-3.2717881202697754, -3.462663173675537, -3.5708630084991455, -3.30653715133667, -3.1246554851531982, -3.088239908218384]"
+deu_ee06f0b339847d7a755b22223af0379f,"Wenn ich regelmäßig etwas konsumiere dann ist es ein regelmäßiger konsum Duh??
+Sucht ist, wenn in diesem Fall das Bier, der Gedanke daran allein deinen Alltag bestimmt.
+Jede 2 Wochen 2 Bier ist keine Sucht",0,0,0,0,0,0,deu,"[LANG=deu] Wenn ich regelmäßig etwas konsumiere dann ist es ein regelmäßiger konsum Duh??
+Sucht ist, wenn in diesem Fall das Bier, der Gedanke daran allein deinen Alltag bestimmt.
+Jede 2 Wochen 2 Bier ist keine Sucht","[-2.525156259536743, -3.2363245487213135, -3.6507928371429443, -2.9002904891967773, -2.4636549949645996, -2.5350100994110107]"
+deu_afb0465cd587b29c0526620821a222a0,Muslime?  Ausländer? Oppositionellen?,0,0,0,0,0,0,deu,[LANG=deu] Muslime?  Ausländer? Oppositionellen?,"[0.5176964402198792, -1.1718785762786865, -1.4194591045379639, -1.7662214040756226, -0.4351077675819397, -0.8930018544197083]"
+deu_3df87b72a00e68bc9cb5b2b64634d2d3,"Und selbst wenn die Migration ""kontrolliert"" ist. Es ist einfach zu viel. Der Wohnungsmarkt ist komplett im Arsch. Und ja - das liegt auch zu einem guten Stück an der Migration.",1,0,1,0,1,0,deu,"[LANG=deu] Und selbst wenn die Migration ""kontrolliert"" ist. Es ist einfach zu viel. Der Wohnungsmarkt ist komplett im Arsch. Und ja - das liegt auch zu einem guten Stück an der Migration.","[0.7829806804656982, 0.46346578001976013, -0.27199116349220276, 0.2285480797290802, 0.6980512738227844, 0.3685000240802765]"
+deu_57556ca094c5b62f6f0f613cdfd28e27,Kritik bei Migration = pöser pöser Nazi,1,1,0,1,1,0,deu,[LANG=deu] Kritik bei Migration = pöser pöser Nazi,"[0.5907163023948669, 1.5170440673828125, 0.8837342858314514, 1.5978907346725464, -0.0495452918112278, -0.8607273101806641]"
+deu_fd20f7b8f7de9edb82a7a83276756401,Also weniger Co2 = böse?,1,0,0,0,1,0,deu,[LANG=deu] Also weniger Co2 = böse?,"[-2.9694297313690186, -3.1983933448791504, -3.5203096866607666, -3.3725132942199707, -3.284954071044922, -2.8850817680358887]"
+deu_af3527a9994730b2421df1b7694bda97,"Die Behauptung Israel ""erziehe"" die Menschen in Gaza ist halt ziemlich wild. Israel war bis vor einem Jahr nicht in Gaza, die Grenzen wurden bewacht und die Region mit Wasser und Strom versorgt, das war es aber auch. Und zu Wohlstand hat es in Gaza wohl auch praktisch niemand gebracht, bis auf die Hamasspitze.",0,0,0,1,1,1,deu,"[LANG=deu] Die Behauptung Israel ""erziehe"" die Menschen in Gaza ist halt ziemlich wild. Israel war bis vor einem Jahr nicht in Gaza, die Grenzen wurden bewacht und die Region mit Wasser und Strom versorgt, das war es aber auch. Und zu Wohlstand hat es in Gaza wohl auch praktisch niemand gebracht, bis auf die Hamasspitze.","[-0.500446081161499, -0.6348217129707336, -1.3098503351211548, -0.9152624011039734, 0.23298092186450958, -0.2077108770608902]"
+deu_fb6fbb6f0e0cb6d0d1dfe8f701fd7760,"Finds aber interessant, dass dann Grüne sehr schockiert sind, dass man sie Linksgrün nennt. Wahrscheinlich haben sie wie immer eine verzerrte Selbstwahrnehmung.",0,0,0,0,0,0,deu,"[LANG=deu] Finds aber interessant, dass dann Grüne sehr schockiert sind, dass man sie Linksgrün nennt. Wahrscheinlich haben sie wie immer eine verzerrte Selbstwahrnehmung.","[1.2386919260025024, 0.6570373773574829, -0.5568320751190186, -0.13102315366268158, 0.5263987183570862, 0.010746371001005173]"
+deu_6ca9180961a3771cf04112f6b60a358f,"Rebellion anzetteln, normaler Protest tut es da nicht mehr.",0,0,0,1,1,0,deu,"[LANG=deu] Rebellion anzetteln, normaler Protest tut es da nicht mehr.","[-1.0381821393966675, -1.6585525274276733, -2.795109748840332, -2.2403674125671387, -1.979237675666809, -1.9764206409454346]"
+deu_14c1e483e0acf920929cfd072d100b98,Gestern noch FFF - heute die Faschisten wählen. Tiktok hat ganze Arbeit geleistet,1,1,0,0,1,0,deu,[LANG=deu] Gestern noch FFF - heute die Faschisten wählen. Tiktok hat ganze Arbeit geleistet,"[1.2842373847961426, 1.0088386535644531, 0.13593809306621552, 0.6623837351799011, 0.594977617263794, 0.5259261727333069]"
+deu_9720fbb86fed982157ca72763dacbf31,"wundert mich, dass das erste Mal dieaer Vergleich gezogen wurde?  Expansiver imperialistischer Kriegstreiber-Diktator. Trifft doch zu.",0,0,0,0,0,0,deu,"[LANG=deu] wundert mich, dass das erste Mal dieaer Vergleich gezogen wurde?  Expansiver imperialistischer Kriegstreiber-Diktator. Trifft doch zu.","[-0.08220093697309494, 0.434609591960907, -1.1654261350631714, -0.290480375289917, 0.07489875704050064, -0.16620919108390808]"
+deu_72606f262ae15faf41304ef8153eace9,"Da steht, dass er der Querdenker- und Reichsbürgerszene zugeordnet wird und zum Tatzeitpunkt alkoholisiert war. Von vorbestraft steht da nichts.",0,0,0,0,0,0,deu,"[LANG=deu] Da steht, dass er der Querdenker- und Reichsbürgerszene zugeordnet wird und zum Tatzeitpunkt alkoholisiert war. Von vorbestraft steht da nichts.","[-2.788630723953247, -2.0599305629730225, -2.8821115493774414, -2.6931216716766357, -2.3232765197753906, -2.5468194484710693]"
+deu_ede2647e347fd4769734be7ef4ee70d9,NDA und irgendwie hab ich das Gefühl sie wollen wieder den Hund als Geisel nehmen.,0,0,0,0,0,0,deu,[LANG=deu] NDA und irgendwie hab ich das Gefühl sie wollen wieder den Hund als Geisel nehmen.,"[-0.5181326270103455, 0.3068515956401825, -0.4511483311653137, -0.41180840134620667, -0.2978883981704712, -0.9806228280067444]"
+deu_eaaa038970d17912fabdc9193ad0b87b,Und wahrscheinlich noch die Impfung ablehnen wa ?,0,0,0,0,0,0,deu,[LANG=deu] Und wahrscheinlich noch die Impfung ablehnen wa ?,"[-0.799005925655365, -0.9144167304039001, -1.7655695676803589, -1.1200939416885376, -0.07439466565847397, -0.5103175640106201]"
+deu_8881fd12b194881327d1de56e01daade,"Und Merz ist ein machtversessener Lügner, der wahrscheinlich bald ganz offen Faschist wird. 
+
+Wird man wohl noch sagen dürfen.",1,1,1,1,1,1,deu,"[LANG=deu] Und Merz ist ein machtversessener Lügner, der wahrscheinlich bald ganz offen Faschist wird. 
+
+Wird man wohl noch sagen dürfen.","[0.8882560729980469, 1.9619559049606323, 0.3117204010486603, 1.2637481689453125, 0.6127207279205322, 0.7723448872566223]"
+deu_8093ab6200eeccc6a3d1d00a54f49746,Nicht mal für Putin?,0,0,0,0,0,0,deu,[LANG=deu] Nicht mal für Putin?,"[-2.8154044151306152, -2.8058154582977295, -3.3717124462127686, -2.800299644470215, -2.915454387664795, -2.7287228107452393]"
+deu_adbbdd590ab2930addf9e6a177f16d61,"Protest.
+
+Weil Ampel gehampel.",1,0,0,0,0,1,deu,"[LANG=deu] Protest.
+
+Weil Ampel gehampel.","[-0.051083773374557495, 0.11621849983930588, -0.6682578921318054, -0.18678775429725647, 0.2491229921579361, -0.2510186433792114]"
+deu_4bf5475d5d6f2b5f5a6565fc75ab9eb6,Vom CO2 nimmt es sich nicht viel.,0,0,0,0,0,0,deu,[LANG=deu] Vom CO2 nimmt es sich nicht viel.,"[-3.0346450805664062, -3.180852174758911, -3.3368184566497803, -3.4006547927856445, -3.21805739402771, -2.9970765113830566]"
+deu_6666ba680ebe39e558e48be39f8a4264,"Wie hieß es heute sinngemäß im „Heute Journal“ dazu: dieses Verhalten zeigt im Grunde nur, dass die Türken trotz der vielen Jahrzehnte in Deutschland noch immer nicht angekommen sind, und doch immer Türken bleiben, egal welchen Pass sie haben und für wie integriert man sie hält…",1,0,0,0,1,1,deu,"[LANG=deu] Wie hieß es heute sinngemäß im „Heute Journal“ dazu: dieses Verhalten zeigt im Grunde nur, dass die Türken trotz der vielen Jahrzehnte in Deutschland noch immer nicht angekommen sind, und doch immer Türken bleiben, egal welchen Pass sie haben und für wie integriert man sie hält…","[0.2789892852306366, -1.034253478050232, -1.4238014221191406, -1.3337455987930298, -0.23198159039020538, -0.8062860369682312]"
+deu_c5b9da2df50c920623f296c01133395c,"Gender-y ist neutral und schnelle zu schreiben.
+
+
+Bauarbeity, Arzty, Polizisty, Schüly, Kultusministy.",0,0,0,0,0,0,deu,"[LANG=deu] Gender-y ist neutral und schnelle zu schreiben.
+
+
+Bauarbeity, Arzty, Polizisty, Schüly, Kultusministy.","[0.8916006684303284, 0.1883067488670349, -0.34093400835990906, 0.15151746571063995, 0.3747771084308624, -0.03622541204094887]"
+deu_5e67528da8d8f651391b881069d0a2ab,Scheiss auf das Klima,0,0,0,0,0,0,deu,[LANG=deu] Scheiss auf das Klima,"[-0.27220049500465393, 0.46328428387641907, -0.46442368626594543, 0.8561769723892212, 0.3034280836582184, -0.10631543397903442]"
+deu_ed2f2adf83374e5560162f90f1ef8b71,Geh dann raus und kleb überall ausländer??? Sticker rauf,1,0,1,0,0,0,deu,[LANG=deu] Geh dann raus und kleb überall ausländer??? Sticker rauf,"[1.0335866212844849, 1.0574424266815186, 0.594482958316803, 1.0614205598831177, 0.7285563349723816, -0.06070448458194733]"

@@ -1,0 +1,980 @@
+id,text,political,racial/ethnic,religious,gender/sexual,other,language,input_text,logits
+pol_30b0b6dece8dc464f247b9904478dfb8,Nawrocki to zwykły CHAM bez manier. Trzeba mu przypomnieć protokół.,0,0,0,0,0,pol,[LANG=pol] Nawrocki to zwykły CHAM bez manier. Trzeba mu przypomnieć protokół.,"[2.1301541328430176, -1.9426591396331787, -3.5781121253967285, -2.619967222213745, -1.7344311475753784]"
+pol_306a52b1a666ca9b6128f96625c40a8b,Mnóstwo ludzi demostrowało swój sprzeciw po Jego śmieci. Również z powodu tej obrzydliwej nienawiści przegrali wybory.,1,0,0,0,0,pol,[LANG=pol] Mnóstwo ludzi demostrowało swój sprzeciw po Jego śmieci. Również z powodu tej obrzydliwej nienawiści przegrali wybory.,"[1.280040979385376, -2.3499343395233154, -1.585763692855835, -1.9121109247207642, -1.6938329935073853]"
+pol_f3172992ed2ce212cfdf2f5a98b76aeb,No przecież takiego skórwysyna to tylko zabić zrobić z nim to samo . A nasze jebane prawo jeszcze żywi w pudle takich gnoi,0,0,0,0,0,pol,[LANG=pol] No przecież takiego skórwysyna to tylko zabić zrobić z nim to samo . A nasze jebane prawo jeszcze żywi w pudle takich gnoi,"[1.645106315612793, -0.7396073341369629, -2.3852617740631104, -1.9114474058151245, 1.0604901313781738]"
+pol_d1e4715a3ed8a1cf77b2e9efecdc01f5,"Czy w tym nowoczesnym kraju dalej obcinają niemowlętom napletki, jak na jakiejś pustyni bez bieżącej wody przed naszą erą?",1,1,1,0,1,pol,"[LANG=pol] Czy w tym nowoczesnym kraju dalej obcinają niemowlętom napletki, jak na jakiejś pustyni bez bieżącej wody przed naszą erą?","[0.8914822936058044, -1.8951462507247925, -3.358682155609131, -2.4178781509399414, -1.2980886697769165]"
+pol_dcd185ef22c5f7d6afaaf8a984ad9b08,"Nie zniżajmy się do tego poziomu. PiS i tak już nie wróci do władzy, a takimi sugestiami tylko przysypuje swoją własną, polityczną trumnę.",1,0,0,0,0,pol,"[LANG=pol] Nie zniżajmy się do tego poziomu. PiS i tak już nie wróci do władzy, a takimi sugestiami tylko przysypuje swoją własną, polityczną trumnę.","[2.2127041816711426, -2.524160623550415, -2.8786351680755615, -2.905884027481079, -1.9647490978240967]"
+pol_b0f52d5e9598f9af4051158e8125f285,"Ukraina do UE i NATO? To jakby zaprosić złodzieja do banku. Oni nigdy nie zmienią się, zawsze będą szukać sposobu, aby wykorzystać system.",1,1,0,0,0,pol,"[LANG=pol] Ukraina do UE i NATO? To jakby zaprosić złodzieja do banku. Oni nigdy nie zmienią się, zawsze będą szukać sposobu, aby wykorzystać system.","[2.7076964378356934, 0.9851720333099365, -1.50029456615448, -2.2275664806365967, -0.7517342567443848]"
+pol_f3b75d25a97efcaa365edb91f5ea700e,"nie rozumiem, parkuję na osiedlu, wyjeżdżam wylotówką",0,0,0,0,0,pol,"[LANG=pol] nie rozumiem, parkuję na osiedlu, wyjeżdżam wylotówką","[-3.415194034576416, -3.278249740600586, -4.091451644897461, -3.7086970806121826, -3.5843629837036133]"
+pol_b9ff9bae049b0d24fb6c766b7d7f64da,nienawiść w tym momencie do tego zjeba Nazwisko jest jak najbardziej na miejscu.,0,0,0,0,0,pol,[LANG=pol] nienawiść w tym momencie do tego zjeba Nazwisko jest jak najbardziej na miejscu.,"[-1.399170160293579, -1.663125991821289, -1.8724075555801392, -1.9479929208755493, -1.2131754159927368]"
+pol_d23eacfb92b7ee00f3fc5afd1ede124b,"Wstyd, że taka ruska onuca jest europosłem z Polski😡",1,0,0,0,0,pol,"[LANG=pol] Wstyd, że taka ruska onuca jest europosłem z Polski😡","[1.5741761922836304, 0.6285297274589539, -2.562638282775879, -1.8879013061523438, -1.7440470457077026]"
+pol_3298b35f3c5d430ed60ed8aceabcbbaa,"prezydent? Rada ministrów już nie, kasztanie? xD Madrujesz się łbie a sam nie napisałeś poprawnie, profesorze za dychę.",0,0,0,0,0,pol,"[LANG=pol] prezydent? Rada ministrów już nie, kasztanie? xD Madrujesz się łbie a sam nie napisałeś poprawnie, profesorze za dychę.","[0.40882059931755066, -2.961510419845581, -4.145287036895752, -3.31514573097229, -1.4789421558380127]"
+pol_a418e117861d0d1249546f1ed5cccf35,"kiedy ktoś używa słowa KORONAŚWIRUS już wiadomo, że ma się doczynienia z przyjebem",1,0,0,0,1,pol,"[LANG=pol] kiedy ktoś używa słowa KORONAŚWIRUS już wiadomo, że ma się doczynienia z przyjebem","[-2.9116015434265137, -3.257718324661255, -3.3711960315704346, 0.09797082096338272, -3.332763433456421]"
+pol_1f4fb9535e4b2100cd1374c43105760c,"przyjmuj ich sobie do własnego kurwidołka ilu tylko chcesz, pajacu.",1,1,0,0,0,pol,"[LANG=pol] przyjmuj ich sobie do własnego kurwidołka ilu tylko chcesz, pajacu.","[1.1278566122055054, 0.21919088065624237, -1.7175817489624023, -0.11803442984819412, 1.6235300302505493]"
+pol_321cb79f46dea0c3f2ffb106491cdfa5,"no tak, dlatego piszą jak piszą. Dokładnie to samo napisałem wyżej.",0,0,0,0,0,pol,"[LANG=pol] no tak, dlatego piszą jak piszą. Dokładnie to samo napisałem wyżej.","[-3.348266124725342, -3.264655590057373, -3.8131158351898193, -3.3497462272644043, -3.966628313064575]"
+pol_444f8d11dc2bfb8fcef9c21f0d3f4a5e,"#bukmacherka 
+ 
+ Kurwa, jebany Nazwisko zjebał mi over 1,5 w meczu Leeds i kupon na 500 zł. ( ͡° ʖ̯ ͡°)",0,0,0,0,0,pol,"[LANG=pol] #bukmacherka 
+ 
+ Kurwa, jebany Nazwisko zjebał mi over 1,5 w meczu Leeds i kupon na 500 zł. ( ͡° ʖ̯ ͡°)","[-3.955317974090576, -3.588284492492676, -4.547060012817383, -2.7589731216430664, -2.8041718006134033]"
+pol_56c632499e1e2816cb51abe4fd892545,...czy Polakami. nie wazne z kim wazne ze walczy. Jebac PIS,1,0,0,0,0,pol,[LANG=pol] ...czy Polakami. nie wazne z kim wazne ze walczy. Jebac PIS,"[2.2993173599243164, -0.14203427731990814, -2.648811101913452, -2.5008392333984375, -2.162224531173706]"
+pol_24f55720760601a0a63e6209be8d6f2d,wiem gdzie to wisiało debilu. Jak mam ci udowodnic? Wysłać adres zebys tam poszedł i sobie przeczytał?,0,0,0,0,0,pol,[LANG=pol] wiem gdzie to wisiało debilu. Jak mam ci udowodnic? Wysłać adres zebys tam poszedł i sobie przeczytał?,"[-3.4399094581604004, -3.635432004928589, -4.166287899017334, -3.4866549968719482, -3.121497392654419]"
+pol_7fb217a5025df9b0f013df0066082e88,Każdy człowiek ma inne wartości. Dla mnie jest to znalezienie drugiej połowy. Przykro mi z powodu bycia nietolerancyjnym śmieciem,0,0,0,0,0,pol,[LANG=pol] Każdy człowiek ma inne wartości. Dla mnie jest to znalezienie drugiej połowy. Przykro mi z powodu bycia nietolerancyjnym śmieciem,"[-3.3848304748535156, -3.823258399963379, -4.143185615539551, -2.8962807655334473, -3.342834711074829]"
+pol_4ba8d4fe0f46526b44449f6b97bf9621,"Nie zrobiliście do tej pory nic i nic więcej nie zrobicie, nie pozdrawiam, nie chodzę na sfałszowane wybory jesteście kłamcami i egoistami, ostatni post mój związany z polityką brudną zakłamaną...",1,0,0,0,0,pol,"[LANG=pol] Nie zrobiliście do tej pory nic i nic więcej nie zrobicie, nie pozdrawiam, nie chodzę na sfałszowane wybory jesteście kłamcami i egoistami, ostatni post mój związany z polityką brudną zakłamaną...","[1.5741279125213623, -2.333503484725952, -3.2835659980773926, -3.4501230716705322, -0.9466672539710999]"
+pol_649ace47157cbe3017508f26942e76d8,"Ale w szoku jest całe ich głosujące na Trumpa środowisko. Rodziny, znajomi.",1,0,0,0,0,pol,"[LANG=pol] Ale w szoku jest całe ich głosujące na Trumpa środowisko. Rodziny, znajomi.","[0.8963127136230469, -2.8694891929626465, -3.413130760192871, -3.553584337234497, -2.4393980503082275]"
+pol_32d969ac3cd93dc4f3ced15b148f5432,"Sam se Nazwisko pedale nie kombinuj. 
+ #gownowpis #[pseudonym]content",0,0,0,0,0,pol,"[LANG=pol] Sam se Nazwisko pedale nie kombinuj. 
+ #gownowpis #[pseudonym]content","[1.4367915391921997, -3.237248420715332, -3.027184247970581, -2.356039047241211, -2.1497128009796143]"
+pol_56092fc036e24eb02965130ff6e10a15,"Dzisiaj wieczorem czeka nas kolejny szlagier Ligi Mistrzow .Graja Bayern Monachium z Interem Mediolan 20 : 55 ,,Tvp Sport Live ,,✌✌✌✌✌✌✌✌✌✌✌✌😀😀😀😀😀😀😀😀😀😀😀❗",0,0,0,0,0,pol,"[LANG=pol] Dzisiaj wieczorem czeka nas kolejny szlagier Ligi Mistrzow .Graja Bayern Monachium z Interem Mediolan 20 : 55 ,,Tvp Sport Live ,,✌✌✌✌✌✌✌✌✌✌✌✌😀😀😀😀😀😀😀😀😀😀😀❗","[-3.637272596359253, -3.3376495838165283, -4.091532230377197, -3.4703760147094727, -3.5573947429656982]"
+pol_747d1d2ed8752f77c313b7f79bf03fa9,"Trzaskowski wypadł świetnie. Jeszcze raz utwierdził mnie, że to mój prezydent. 
+ @URL",0,0,0,0,0,pol,"[LANG=pol] Trzaskowski wypadł świetnie. Jeszcze raz utwierdził mnie, że to mój prezydent. 
+ @URL","[-1.6163889169692993, -3.2592403888702393, -3.9756832122802734, -3.980219602584839, -3.3268535137176514]"
+pol_d051d4605dee5c2071c3ed1302ee75b7,niech rząd wypełnił swoje zobowiązania i po problemie,0,0,0,0,0,pol,[LANG=pol] niech rząd wypełnił swoje zobowiązania i po problemie,"[-0.5174806118011475, -3.1343398094177246, -3.538794994354248, -3.789350748062134, -3.0993969440460205]"
+pol_c0157686492347b4641f299cd38f9d15,"W jakim sensie rozwija? Tak rozwija, ze Tesla przez lata miala straty?",0,0,0,0,0,pol,"[LANG=pol] W jakim sensie rozwija? Tak rozwija, ze Tesla przez lata miala straty?","[-3.535508632659912, -3.4840004444122314, -4.346341133117676, -3.8280465602874756, -3.181222677230835]"
+pol_cd6f32c64d32fc4f51f8cd90f87de314,"jesteś debilem idż z internetu, jedyna partia co się różni od pisu to konfederacja ale co taki wyprany łebek jak ty może wiedzieć",1,0,0,0,0,pol,"[LANG=pol] jesteś debilem idż z internetu, jedyna partia co się różni od pisu to konfederacja ale co taki wyprany łebek jak ty może wiedzieć","[1.3220614194869995, -2.500284194946289, -3.302191734313965, -3.1665565967559814, -2.215418577194214]"
+pol_edb277b7e7d7dcabdc526f4fbe044ef5,"ja też bym takiego pedofila skazał na wyrok w zawieszeniu... na najbliższej gałęzi, najbliższym drzewie...",0,0,0,0,0,pol,"[LANG=pol] ja też bym takiego pedofila skazał na wyrok w zawieszeniu... na najbliższej gałęzi, najbliższym drzewie...","[-0.39872345328330994, -1.4663610458374023, 0.6099866032600403, -0.90394127368927, 0.16049690544605255]"
+pol_d86fe06e82727db6f1ea55864dd105ec,Tej komunistycznej k*rwie już się sufit zawalił.,1,0,0,0,0,pol,[LANG=pol] Tej komunistycznej k*rwie już się sufit zawalił.,"[2.8874130249023438, -1.1493574380874634, -2.3492977619171143, -1.104946494102478, -1.1637572050094604]"
+pol_c4794520bf06fb9ff799b9e256320c2e,"Widzowie bezrefleksyjnie łykają pisowski przekaz. I ta makabryczna szczujnia ma większą oglądalność niż TVP info, skąd można się dowiedzieć o przekrętach poprzedniej ekipy.",1,0,0,0,0,pol,"[LANG=pol] Widzowie bezrefleksyjnie łykają pisowski przekaz. I ta makabryczna szczujnia ma większą oglądalność niż TVP info, skąd można się dowiedzieć o przekrętach poprzedniej ekipy.","[2.6869726181030273, -1.5493497848510742, -2.980036973953247, -2.5126922130584717, -1.2942242622375488]"
+pol_cb5a9cbcdb44d75110ae70446ea9b7d3,"obawiam się, że on jest zwyczajnym debilem.",0,0,0,0,0,pol,"[LANG=pol] obawiam się, że on jest zwyczajnym debilem.","[-1.6903433799743652, -2.922008752822876, -4.283413887023926, -3.859776020050049, -0.9581364393234253]"
+pol_c417ae9e52ba5da997fe54cebe085f2d,"Tusk i jego poplecznicy straszą nam apokalipsą, ale milczą o tym, jak Unia wykorzystuje nasze zasoby i ignoruje nasze potrzeby.",1,0,0,0,0,pol,"[LANG=pol] Tusk i jego poplecznicy straszą nam apokalipsą, ale milczą o tym, jak Unia wykorzystuje nasze zasoby i ignoruje nasze potrzeby.","[2.1985373497009277, -2.5140833854675293, -3.279611349105835, -2.856886386871338, -1.8040965795516968]"
+pol_fa3cb92941f2c6c37fb21d9c75371edb,"Ciekawe ilu z nich byłoby w stanie powiedzieć ""Wierzę w Boga"". 
+ Tacy różańcowi to pewnie bez zająknięcia, co nie? (｡◕‿‿◕｡)",0,0,1,0,0,pol,"[LANG=pol] Ciekawe ilu z nich byłoby w stanie powiedzieć ""Wierzę w Boga"". 
+ Tacy różańcowi to pewnie bez zająknięcia, co nie? (｡◕‿‿◕｡)","[-2.2871060371398926, -3.7736704349517822, -1.2034268379211426, -2.246051788330078, -3.68385910987854]"
+pol_4509fd71c92f6b4a59612e7b44f04286,"Kto nie zrozumiał, ten nie zrozumiał nic. Nie ma co dyskutować.",0,0,0,0,0,pol,"[LANG=pol] Kto nie zrozumiał, ten nie zrozumiał nic. Nie ma co dyskutować.","[-0.0037181591615080833, -2.2875540256500244, -3.094465732574463, -2.431880235671997, -1.6564630270004272]"
+pol_581d5fe75feb214a03685f2259dda874,Po reakcji na twój komętarz widzę że wykop opanowany przez wyznawców pisorów.,1,0,0,0,0,pol,[LANG=pol] Po reakcji na twój komętarz widzę że wykop opanowany przez wyznawców pisorów.,"[1.7442363500595093, -2.6043853759765625, -1.628807544708252, -1.9468938112258911, -1.9500387907028198]"
+pol_c1b51473fa0689d683c6c8025d97f498,"Ci co koło mnie się kręcą, to tylko o LGBT i inżynierach gadają.",0,0,0,0,0,pol,"[LANG=pol] Ci co koło mnie się kręcą, to tylko o LGBT i inżynierach gadają.","[0.32810282707214355, -1.8295948505401611, -1.8029513359069824, 2.5216290950775146, -1.1179500818252563]"
+pol_573bd4faea6cc1801f7e14e647cd8d7e,Huj w dupe pedałom byle nie mój,0,0,0,1,0,pol,[LANG=pol] Huj w dupe pedałom byle nie mój,"[-0.5707319378852844, -0.5590779781341553, -1.8756918907165527, -0.4736354351043701, 1.0049594640731812]"
+pol_3ee04a26a02349c7697a00970bc32121,aha dzieki za wyjasnienia,0,0,0,0,0,pol,[LANG=pol] aha dzieki za wyjasnienia,"[-3.1780917644500732, -3.6331350803375244, -3.9330155849456787, -3.549990653991699, -3.617583751678467]"
+pol_cd5aacc718292a212b4528dc92db68c1,nawet mi o tej kurwie nie przypominaj,0,0,0,0,0,pol,[LANG=pol] nawet mi o tej kurwie nie przypominaj,"[-2.5622053146362305, -3.3787877559661865, -3.8682100772857666, -3.5298826694488525, -3.232187032699585]"
+pol_015c88606b449e756846825885900dbc,"Drogi PiS-ie, przestań wreszcie bronić interesów Rosji, a zadbaj o sprawy Polski albo idź w PiS-du! 
+ 
+ #PiSprzeciwPolsce",1,0,0,0,0,pol,"[LANG=pol] Drogi PiS-ie, przestań wreszcie bronić interesów Rosji, a zadbaj o sprawy Polski albo idź w PiS-du! 
+ 
+ #PiSprzeciwPolsce","[2.1438817977905273, -0.8764618635177612, -2.011380195617676, -2.0882182121276855, -2.5989527702331543]"
+pol_0db900ae0cf49deb0939a51f3421fef5,Nowe przepisy konsularne ułatwią podróżowanie Polakom. Unijny dokument podróży zastąpi tradycyjne dokumenty w nagłych sytuacjach. 👉 @URL,0,0,0,0,0,pol,[LANG=pol] Nowe przepisy konsularne ułatwią podróżowanie Polakom. Unijny dokument podróży zastąpi tradycyjne dokumenty w nagłych sytuacjach. 👉 @URL,"[-2.9367294311523438, -2.8998143672943115, -3.677382469177246, -3.444765329360962, -4.092316627502441]"
+pol_347d999e37b29abe8ae3856ef296b3ed,"35 proc. dla Rafała Trzaskowskiego i 28,9 proc. Karola Nawrockiego. To wyniki najnowszego sondażu przedwyborczego wykonanego przez IBRIS dla ""Wydarzeń"" Polsatu. Na trzecie miejsce powróciłby Sławomir Mentzen.",0,0,0,0,0,pol,"[LANG=pol] 35 proc. dla Rafała Trzaskowskiego i 28,9 proc. Karola Nawrockiego. To wyniki najnowszego sondażu przedwyborczego wykonanego przez IBRIS dla ""Wydarzeń"" Polsatu. Na trzecie miejsce powróciłby Sławomir Mentzen.","[-2.483924388885498, -3.3971822261810303, -3.954129457473755, -3.818133592605591, -3.494734287261963]"
+pol_d747db8b158872ca512234fa2556be8e,"ej, czym sie rozni braun od mentzena",0,0,0,0,0,pol,"[LANG=pol] ej, czym sie rozni braun od mentzena","[0.6412966847419739, 0.8039383292198181, -1.4659379720687866, -1.5129679441452026, -0.881851077079773]"
+pol_19fee9d82cb21bf253b17d1068cdb0a6,I działamy kroczek po kroczku!!💪💪,0,0,0,0,0,pol,[LANG=pol] I działamy kroczek po kroczku!!💪💪,"[-3.008397340774536, -3.507261276245117, -3.9670894145965576, -3.570875883102417, -3.4919211864471436]"
+pol_1c5fc394d73be619421f31cfba9dd338,"ic bronić PiSu. Teraz napisz coś, że inflacja to nie wina PiS tylko UE bo już grunt jest xD",1,0,0,0,0,pol,"[LANG=pol] ic bronić PiSu. Teraz napisz coś, że inflacja to nie wina PiS tylko UE bo już grunt jest xD","[1.3015491962432861, -3.224409818649292, -2.9325928688049316, -2.4692342281341553, -1.9661587476730347]"
+pol_bf124fa16093a9667785394048583eb5,Co zrobi Izrael wobec gestu Muska. Co zrobi lobby żydowskie w USA. Co zrobi Instytut pamięci ofiar holocaustu. Ciszę słychać ?.,1,0,1,0,0,pol,[LANG=pol] Co zrobi Izrael wobec gestu Muska. Co zrobi lobby żydowskie w USA. Co zrobi Instytut pamięci ofiar holocaustu. Ciszę słychać ?.,"[-1.6926506757736206, -2.0837862491607666, -2.1617982387542725, -3.5708882808685303, -3.8746120929718018]"
+pol_abe9d2323a7786112ed4fb715624ca3d,"Pięknie!🤩 
+ A po lizaki trzeba polecieć do Czech, aaalbo do Holandii. Gdzie masz po drodze 😂",0,0,0,0,0,pol,"[LANG=pol] Pięknie!🤩 
+ A po lizaki trzeba polecieć do Czech, aaalbo do Holandii. Gdzie masz po drodze 😂","[-3.011831283569336, -3.192612409591675, -4.142441749572754, -3.0798356533050537, -3.7935826778411865]"
+pol_4432ef053bdfd5b02318965810974dd5,"""karakan"" to też merytoryczne jest xD 
+ ""biomasa"" na wyborców pis też 
+ ""stare kurwy"" też 
+ wypad z tą twoją debilowatą mądrością",1,0,0,0,0,pol,"[LANG=pol] ""karakan"" to też merytoryczne jest xD 
+ ""biomasa"" na wyborców pis też 
+ ""stare kurwy"" też 
+ wypad z tą twoją debilowatą mądrością","[0.6672619581222534, -3.2008442878723145, -3.5557706356048584, -3.8216800689697266, -2.421004056930542]"
+pol_b5f7ef9b6dd5fb5528f62bd2693c2533,Właśnie byłem w TVP. A tu taki piękny widok. Co tu mówić - satysfakcja:),0,0,0,0,0,pol,[LANG=pol] Właśnie byłem w TVP. A tu taki piękny widok. Co tu mówić - satysfakcja:),"[-3.388823986053467, -3.431713581085205, -4.058419704437256, -3.834047317504883, -3.4066989421844482]"
+pol_1a977451b53ed554ae4eb957626fb4c5,To nie dziennikarze tylko niemieckie psy.,1,1,0,0,0,pol,[LANG=pol] To nie dziennikarze tylko niemieckie psy.,"[1.1837354898452759, 1.037424921989441, -2.380868911743164, -2.439751625061035, 0.7578803300857544]"
+pol_a0f13579f0e4115ebcf44e3bc5a8ab70,A ja pierwszego batożonego tfu geja. Będzie bdsm w każdym mieście (⌐ ͡■ ͜ʖ ͡■),0,0,0,1,0,pol,[LANG=pol] A ja pierwszego batożonego tfu geja. Będzie bdsm w każdym mieście (⌐ ͡■ ͜ʖ ͡■),"[-0.543739914894104, -1.5119529962539673, -1.9822089672088623, 2.3503787517547607, -0.6716359853744507]"
+pol_fcb0a8a580b88e54fed0d009ce6900ad,"Uderza różnica w stylu debaty telewizji prawackich i debaty TVP/Polsat/TVN. 
+ Na tamtej debacie chaos, chamstwo, darcie ryja. Na obecnej, spokój, porządek, profesjonalizm w prowadzeniu. 
+ Prawackie elity.",1,0,0,0,0,pol,"[LANG=pol] Uderza różnica w stylu debaty telewizji prawackich i debaty TVP/Polsat/TVN. 
+ Na tamtej debacie chaos, chamstwo, darcie ryja. Na obecnej, spokój, porządek, profesjonalizm w prowadzeniu. 
+ Prawackie elity.","[1.2070237398147583, -2.833662986755371, -3.2804911136627197, -2.998325824737549, -2.430055856704712]"
+pol_2616f4af075a680ed7ae36ce04907bfa,Pewnie młody ma rozjebane dupsko jak Sasha Nazwisko ( ͡° ͜ʖ ͡°),1,0,0,1,1,pol,[LANG=pol] Pewnie młody ma rozjebane dupsko jak Sasha Nazwisko ( ͡° ͜ʖ ͡°),"[-2.1967570781707764, -3.2322142124176025, -4.419057369232178, -1.1420559883117676, -1.7504392862319946]"
+pol_24cffd7595593ade14b7119d7aa69634,Mogliby się po prostu tak po ludzku zacząć #!$%@USER System PPV i człowiek by jeszcze trochę długu publicznego spłacił ( ͡° ͜ʖ ͡°),0,0,0,0,0,pol,[LANG=pol] Mogliby się po prostu tak po ludzku zacząć #!$%@USER System PPV i człowiek by jeszcze trochę długu publicznego spłacił ( ͡° ͜ʖ ͡°),"[-0.16776543855667114, -2.6361234188079834, -3.7336761951446533, -3.4602484703063965, -0.9264789819717407]"
+pol_c0fa536460d97f449d0253ce3088b9cf,"Papież Polak.To w naszym kraju był hamulec wyzwolenia, Irlandia była bardziej zainfekowana ale nie mieli papieża i poszło",0,0,0,0,0,pol,"[LANG=pol] Papież Polak.To w naszym kraju był hamulec wyzwolenia, Irlandia była bardziej zainfekowana ale nie mieli papieża i poszło","[0.46870332956314087, -1.648256540298462, -2.5520524978637695, -4.082950592041016, -1.6886355876922607]"
+pol_7fa65db898f5e0f90125dbc69aa7cd95,"Już jestem po trzecim 🤣🤣 
+ Dziękuję 🤩 🥰",0,0,0,0,0,pol,"[LANG=pol] Już jestem po trzecim 🤣🤣 
+ Dziękuję 🤩 🥰","[-3.401291847229004, -3.4312198162078857, -3.926433801651001, -3.4536707401275635, -3.5105719566345215]"
+pol_b78baf3c3543a7b47696f7d38eff82a1,Chciałabym żeby moje podatki trafiały do potrzebujących. Do Ukraińców też. To czy pracują w Polsce czy nie jest dla mnie kompletnie nieistotne.,0,0,0,0,0,pol,[LANG=pol] Chciałabym żeby moje podatki trafiały do potrzebujących. Do Ukraińców też. To czy pracują w Polsce czy nie jest dla mnie kompletnie nieistotne.,"[0.17243719100952148, 1.0536775588989258, -2.1885828971862793, -2.1368114948272705, -0.7800805568695068]"
+pol_27b98e4221a978637936b7085e222445,"Na #!$%@USER on przeprasza że tam uczestniczył? #!$%@USER lewackie śmiecie o mentalności ormowców go bezpodstawnie zaatakowały, a ten jeszcze przeprasza i wyraża skruchę...",1,0,0,0,0,pol,"[LANG=pol] Na #!$%@USER on przeprasza że tam uczestniczył? #!$%@USER lewackie śmiecie o mentalności ormowców go bezpodstawnie zaatakowały, a ten jeszcze przeprasza i wyraża skruchę...","[0.12250696122646332, -2.372211217880249, -2.5952916145324707, -2.9311821460723877, -3.3495919704437256]"
+pol_e4d700197ad119623c15f2ab9443c48a,To fałszywe wybory się odbyły ?,1,0,0,0,0,pol,[LANG=pol] To fałszywe wybory się odbyły ?,"[-0.8532067537307739, -3.2505178451538086, -3.2963368892669678, -4.28389835357666, -2.4692795276641846]"
+pol_72f0107bb1ff4c4600eb70c090759939,"CPAC i Kristi Noem z Georgem Simionem nie są chyba takim doborowym towarzystwem. 
+ Ona zabiła psa, ludzie lubią psy. 
+ On jest ruska onuca, ludzie nie lubią ruskich.",1,1,0,0,0,pol,"[LANG=pol] CPAC i Kristi Noem z Georgem Simionem nie są chyba takim doborowym towarzystwem. 
+ Ona zabiła psa, ludzie lubią psy. 
+ On jest ruska onuca, ludzie nie lubią ruskich.","[1.5242849588394165, 1.0903596878051758, -2.2223031520843506, -0.26852190494537354, -0.26611924171447754]"
+pol_a363c4c71a4fcae072c945764c7f8c46,wiecej.#!$%@USER system.pis po po pis i tak to leci,1,0,0,0,0,pol,[LANG=pol] wiecej.#!$%@USER system.pis po po pis i tak to leci,"[1.4648926258087158, -2.1935927867889404, -2.7585322856903076, -2.7143280506134033, -2.985591411590576]"
+pol_41a03a17dcea2b750c28f73cec7bc21b,"słusznie robisz. Jesteś już martwy, jeśli nie zamierzasz popełnić samobójstwa (co ja bym zrobił na twoim miejscu) to ćpaj i chlej ile wejdzie.",0,0,0,0,0,pol,"[LANG=pol] słusznie robisz. Jesteś już martwy, jeśli nie zamierzasz popełnić samobójstwa (co ja bym zrobił na twoim miejscu) to ćpaj i chlej ile wejdzie.","[-1.973793864250183, -3.469606637954712, -4.163486957550049, -3.6851558685302734, -2.3198959827423096]"
+pol_3d29069f87bde53fb1597841459d1967,widziałeś ty w polsce żyrafe debilu?,0,0,0,0,0,pol,[LANG=pol] widziałeś ty w polsce żyrafe debilu?,"[-1.313259243965149, 0.28782397508621216, -3.580339193344116, -2.0947439670562744, -0.45159777998924255]"
+pol_a539242e8ea695b4a9fec15072ca3c2e,"skok , z mostu",0,0,0,0,0,pol,"[LANG=pol] skok , z mostu","[-3.5270535945892334, -3.4062864780426025, -4.268956661224365, -3.717111825942993, -3.614898204803467]"
+pol_20af8b5e6ece3df2ab16638719131501,No ale co takiego nieprawdziwego powiedział? Homoseksualizm nie jest normalny i leczy się go prądem.,0,0,0,1,0,pol,[LANG=pol] No ale co takiego nieprawdziwego powiedział? Homoseksualizm nie jest normalny i leczy się go prądem.,"[-1.4831089973449707, -2.887784719467163, -1.9000773429870605, 1.6907655000686646, -2.8223464488983154]"
+pol_2f3cfe33117eafb44f04267dc7ea400b,Przecież masa Polaków pracuje jako kurier.,0,0,0,0,0,pol,[LANG=pol] Przecież masa Polaków pracuje jako kurier.,"[-1.8793343305587769, -1.0093945264816284, -3.5956852436065674, -3.1621510982513428, -3.7663819789886475]"
+pol_3dc266b042988b1fc89c03d6714ebca3,">znowu cena pojdzie w dol 
+ 
+ już poszła, w #lodz na 6 zł",0,0,0,0,0,pol,"[LANG=pol] >znowu cena pojdzie w dol 
+ 
+ już poszła, w #lodz na 6 zł","[-3.6316983699798584, -3.2498891353607178, -3.9898064136505127, -3.465502977371216, -3.743838310241699]"
+pol_cd0101d989e19b81208033fb30e0e8ff,No i co ta Platforma wyprawia! Skandal!,1,0,0,0,0,pol,[LANG=pol] No i co ta Platforma wyprawia! Skandal!,"[1.903329610824585, -2.382065534591675, -3.6854536533355713, -2.747995138168335, -1.650230050086975]"
+pol_7a8be67aea657f7bdd1c0c55e0da5cdb,sram ci do ryja kurw0,0,0,0,0,0,pol,[LANG=pol] sram ci do ryja kurw0,"[-1.965753436088562, -0.7039262056350708, -2.412937879562378, -2.2117984294891357, -1.2574913501739502]"
+pol_5fa886964801c1348ab7103469836ac8,"Szkoda, ze zadnego nie zabilo...... narobiles mi ochoty tylko na fajny filmik do LiveLeak",0,0,0,0,0,pol,"[LANG=pol] Szkoda, ze zadnego nie zabilo...... narobiles mi ochoty tylko na fajny filmik do LiveLeak","[-3.041074275970459, -3.5720503330230713, -4.305681228637695, -4.00482702255249, -3.32974910736084]"
+pol_21b78dcb4a3bb78eaedeca1459f00b1e,"Jak lewaku coś osiągniesz albo twoja złodziejska partia to się dopiero odzywaj 
+ Tępy lewacki frajerze",1,0,0,0,0,pol,"[LANG=pol] Jak lewaku coś osiągniesz albo twoja złodziejska partia to się dopiero odzywaj 
+ Tępy lewacki frajerze","[1.954701542854309, -1.188746452331543, -2.896230936050415, -2.0902748107910156, -2.0753917694091797]"
+pol_15469bda55c6b837ef9a578edaf857e6,"Ostatnio ktoś napisał, i mi się podoba, że jak osiągniesz jakąś kwotę, np. 100 mln dolarów, to nadwyżka idzie w podatek, a ty dostajesz medal za wygranie kapitalizmu i bogactwo",0,0,0,0,0,pol,"[LANG=pol] Ostatnio ktoś napisał, i mi się podoba, że jak osiągniesz jakąś kwotę, np. 100 mln dolarów, to nadwyżka idzie w podatek, a ty dostajesz medal za wygranie kapitalizmu i bogactwo","[-1.8525614738464355, -2.7618916034698486, -4.149398326873779, -3.990039110183716, -2.9680593013763428]"
+pol_1b9cec2d46e285dc568b89990d9db05b,jak sie wyrywa jebany,0,0,0,0,0,pol,[LANG=pol] jak sie wyrywa jebany,"[-3.1710591316223145, -3.200906991958618, -4.175780296325684, -2.9103662967681885, -3.0226049423217773]"
+pol_7deb4abcbaf3f136e047342f5f223e2a,"każdy robi, tylko dobrze się kryje. A jak się trafi dziwak jakiś to sam nie porucha, ale kolegom z pedokościoła nie broni.",0,0,1,0,0,pol,"[LANG=pol] każdy robi, tylko dobrze się kryje. A jak się trafi dziwak jakiś to sam nie porucha, ale kolegom z pedokościoła nie broni.","[-0.46523579955101013, -1.9307734966278076, 1.6871824264526367, 1.1932045221328735, -0.7159377932548523]"
+pol_a29cb0d7f440ff522301e5bcf5709a5f,Nawrocki zgłasza swój projekt podatkowy. To kosztowny prezent dla zamożnych - @URL,1,0,0,0,1,pol,[LANG=pol] Nawrocki zgłasza swój projekt podatkowy. To kosztowny prezent dla zamożnych - @URL,"[0.529779314994812, -3.1237783432006836, -3.5609023571014404, -3.5568292140960693, -2.4957683086395264]"
+pol_425d32a498e4d239fe61bb7c065c8e3b,Im się te pieniądze po prostu należą,0,0,0,0,0,pol,[LANG=pol] Im się te pieniądze po prostu należą,"[0.45067906379699707, -0.29979896545410156, -3.0906550884246826, -2.6461939811706543, 0.9511685371398926]"
+pol_9c6dc37e28b3fc45f3ffed40ec4d36bb,hehehe - i ten szpital w moskwie.... jak miło,1,1,0,0,0,pol,[LANG=pol] hehehe - i ten szpital w moskwie.... jak miło,"[-3.4535810947418213, -3.542917490005493, -3.917231321334839, -3.3129703998565674, -3.7492024898529053]"
+pol_1add1a1b736c3665c5087095e5880278,"Hahaha jakby lewica nie robiła z nimi interesu. 
+ Ja ci powiem wy jesteście tacy sami jak pis 
+ Kto wam zbierał podpisy",1,0,0,0,0,pol,"[LANG=pol] Hahaha jakby lewica nie robiła z nimi interesu. 
+ Ja ci powiem wy jesteście tacy sami jak pis 
+ Kto wam zbierał podpisy","[2.285294532775879, -2.108497381210327, -2.963756799697876, -2.701671838760376, -2.2150890827178955]"
+pol_ec8f9f53411058eae7281074a79bf1df,"piszą że to deska śnieżna była coś w ten deseń co na filmie 
+ @URL",0,0,0,0,0,pol,"[LANG=pol] piszą że to deska śnieżna była coś w ten deseń co na filmie 
+ @URL","[-3.2865285873413086, -3.4135921001434326, -3.917935609817505, -3.7320828437805176, -3.7209291458129883]"
+pol_9fed55d383645bd8e7be7812e91a7f10,"Nieno, źle nosi. Powinien ""po prezydencku""...",0,0,0,0,0,pol,"[LANG=pol] Nieno, źle nosi. Powinien ""po prezydencku""...","[-1.4020651578903198, -3.7292850017547607, -3.865314483642578, -2.8626298904418945, -3.2129435539245605]"
+pol_d4a37fbca89afcfbe8056d7c192bec9a,Ściągnąłem. Zwykłe stare kurwisko i tyle.,0,0,0,0,0,pol,[LANG=pol] Ściągnąłem. Zwykłe stare kurwisko i tyle.,"[-3.3330419063568115, -3.2890000343322754, -3.9681968688964844, -3.769970417022705, -3.577258825302124]"
+pol_8fa9d74b0be404d03f04261235a3f8ba,"USA zapomina, że importuje sporo stali z UE. Unia musi być teraz silniejsza niż kiedykolwiek.",0,0,0,0,0,pol,"[LANG=pol] USA zapomina, że importuje sporo stali z UE. Unia musi być teraz silniejsza niż kiedykolwiek.","[0.4578816294670105, -2.7194416522979736, -4.119657516479492, -3.8330836296081543, -1.7289605140686035]"
+pol_2ff07003a0e349a1e856da661449a359,"Mentzen dostał tlen, a moim skromnym to szansa na jedną turę",0,0,0,0,0,pol,"[LANG=pol] Mentzen dostał tlen, a moim skromnym to szansa na jedną turę","[2.2873735427856445, -2.6739776134490967, -3.166595935821533, -2.7581613063812256, -1.1678625345230103]"
+pol_11b427f3bbc340e47bbfe09192193337,I po co ta nienawiść,0,0,0,0,0,pol,[LANG=pol] I po co ta nienawiść,"[-2.975651264190674, -3.35249400138855, -3.7228267192840576, -3.783634901046753, -3.853569269180298]"
+pol_295a0637232085b431025f3bc3f0a83b,za ten material cofnac mu mozliwosc wykonywania uslug prawniczych i kropka,0,0,0,0,0,pol,[LANG=pol] za ten material cofnac mu mozliwosc wykonywania uslug prawniczych i kropka,"[-2.422574520111084, -3.706101655960083, -4.47914457321167, -4.533306121826172, -1.686150074005127]"
+pol_0caadb68b95587de2d8fae56db1de125,"🟡🔴 Europa League, Larnaka-Legia: Ziolkowski in campo dal 1' (FOTO) 
+ 
+ ▶️ @URL 
+ 
+ #AsRoma",0,0,0,0,0,pol,"[LANG=pol] 🟡🔴 Europa League, Larnaka-Legia: Ziolkowski in campo dal 1' (FOTO) 
+ 
+ ▶️ @URL 
+ 
+ #AsRoma","[-3.745785713195801, -3.197307825088501, -4.05095100402832, -3.6562082767486572, -3.448882818222046]"
+pol_1fa94adddd5012b96f7a645da4b37e9a,"tak, za to ten elektryk pobije tę benzynę na głowę w przyspieszeniu do 50 km/h. Dopiero bliżej 100 km/h zaczyna tracić.",0,0,0,0,0,pol,"[LANG=pol] tak, za to ten elektryk pobije tę benzynę na głowę w przyspieszeniu do 50 km/h. Dopiero bliżej 100 km/h zaczyna tracić.","[-3.2326855659484863, -3.3496387004852295, -4.187319755554199, -3.8864049911499023, -3.469896078109741]"
+pol_8cb4b07272a28f505dded87a63d5ca04,Ciekawe czy zwalczy? Czy to bedzie kolejny karmnik dla swoich?,0,0,0,0,0,pol,[LANG=pol] Ciekawe czy zwalczy? Czy to bedzie kolejny karmnik dla swoich?,"[0.9567110538482666, -1.6774978637695312, -2.386270761489868, -2.7467739582061768, -0.2715780436992645]"
+pol_76e9fbd0c2e420357433210e475f3332,"trzeba spać z głową w torbie foliowej, wtedy CO2 można przechwycić i składować. (╭☞σ ͜ʖσ)╭☞",0,0,0,0,0,pol,"[LANG=pol] trzeba spać z głową w torbie foliowej, wtedy CO2 można przechwycić i składować. (╭☞σ ͜ʖσ)╭☞","[-3.5262017250061035, -3.655837059020996, -3.964679002761841, -2.89770770072937, -3.429060220718384]"
+pol_0e968fe272518abd045db7c08e9ade4f,Niebezpieczne związki - jeden z najlepszych programów w TVP Info. A Dorota Wysocka-Schnepf jest świetną dziennikarką.,1,0,0,0,0,pol,[LANG=pol] Niebezpieczne związki - jeden z najlepszych programów w TVP Info. A Dorota Wysocka-Schnepf jest świetną dziennikarką.,"[-2.6714062690734863, -3.6985223293304443, -4.311091423034668, -3.320274829864502, -3.189321994781494]"
+pol_f26054aec4b75d22839cba7a60d0ea98,mody usuwają moje komentarze bez powodu jebane debile,1,0,0,0,1,pol,[LANG=pol] mody usuwają moje komentarze bez powodu jebane debile,"[-2.3430473804473877, -2.7235300540924072, -2.7919681072235107, -0.2231438159942627, 0.788259744644165]"
+pol_a8e2cd7efa62308414e1616d7ad49682,lecisz z kurwami w takim razie,0,0,0,0,0,pol,[LANG=pol] lecisz z kurwami w takim razie,"[-3.388979434967041, -3.476421356201172, -4.132640361785889, -3.7652435302734375, -3.295396089553833]"
+pol_d19b66786d8fc4e967b5df71e126f095,"Nasi politycy nie widzą, że Ukraina wykorzystuje ich dobrotliwość. Musimy być mądrzejsi i zacząć chronić nasze interesy.",1,0,0,0,0,pol,"[LANG=pol] Nasi politycy nie widzą, że Ukraina wykorzystuje ich dobrotliwość. Musimy być mądrzejsi i zacząć chronić nasze interesy.","[2.328338384628296, 1.0741008520126343, -2.081916093826294, -2.3776066303253174, -0.9973089694976807]"
+pol_5709d2baec3cbe38864b77167d67af40,"Na ospę prawdziwą to nawet moi rodzice nie zaszczepili swojego (młodszego) dziecka, czyli mnie. Jakoś w okolicach 1980 szczepionki na tę chorobę zatrzymano w PL",0,0,0,0,0,pol,"[LANG=pol] Na ospę prawdziwą to nawet moi rodzice nie zaszczepili swojego (młodszego) dziecka, czyli mnie. Jakoś w okolicach 1980 szczepionki na tę chorobę zatrzymano w PL","[-2.758793830871582, -3.395535469055176, -4.1782612800598145, -4.177886962890625, -3.453676700592041]"
+pol_d95b6fc84c80e745e8f43c70d4096be5,"Nie wiem, ale policja jest mistrzem świata w olewaniu poszkodowanych.",1,0,0,0,1,pol,"[LANG=pol] Nie wiem, ale policja jest mistrzem świata w olewaniu poszkodowanych.","[-1.0612095594406128, -2.5659306049346924, -4.0823187828063965, -3.8394434452056885, 0.5542200803756714]"
+pol_728296f8b7dcc885580cc8408d637625,Wiwatujesz bo dzięki koalicji Tusk/Mentzen będzie dożywocie za aborcję a składki i podatki będą za ciebie płacić inwalidzi. Leszcz bez honoru,1,0,1,0,0,pol,[LANG=pol] Wiwatujesz bo dzięki koalicji Tusk/Mentzen będzie dożywocie za aborcję a składki i podatki będą za ciebie płacić inwalidzi. Leszcz bez honoru,"[2.6876587867736816, -1.9751590490341187, -3.340567111968994, -1.625837802886963, -0.37473469972610474]"
+pol_bcf8e9b421fe2b9814c596c1a8e42f94,"GTA VI kosztowało więcej niż budowa Burj Khalifa! 😲 
+ 
+ Sprawdź, jak budżet gry przewyższył najwyższy wieżowiec świata i poznaj fascynujące liczby 👉 @URL #GTA6 #GTAVI #BurjKhalifa #BurjChalifa",0,0,0,0,0,pol,"[LANG=pol] GTA VI kosztowało więcej niż budowa Burj Khalifa! 😲 
+ 
+ Sprawdź, jak budżet gry przewyższył najwyższy wieżowiec świata i poznaj fascynujące liczby 👉 @URL #GTA6 #GTAVI #BurjKhalifa #BurjChalifa","[-3.1786630153656006, -3.466538667678833, -3.910987615585327, -3.9285643100738525, -3.472738265991211]"
+pol_da08ae2e2e5ed2169316351ac0748198,"Śniło mi się, że nowy papież beatyfikował Martina Luthera Kinga",0,0,0,0,0,pol,"[LANG=pol] Śniło mi się, że nowy papież beatyfikował Martina Luthera Kinga","[-2.3281869888305664, -3.4351587295532227, -3.2186388969421387, -3.922161817550659, -3.7243192195892334]"
+pol_e4c3bd684071fbc0abf4008f7e4068cc,Przestaniesz robić z siebie debila? Mama musi być z Ciebie bardzo dumna.,0,0,0,0,0,pol,[LANG=pol] Przestaniesz robić z siebie debila? Mama musi być z Ciebie bardzo dumna.,"[-3.3303544521331787, -3.602374315261841, -4.324974060058594, -3.3250300884246826, -2.743222951889038]"
+pol_c59c637546908ce99e0a555af7fdbe33,"Kościół nic dobrego nie ma do zaoferowania nikomu, ponieważ jego fundamentem są kłamstwa i wzajemnie sprzeczne zasady.",0,0,1,0,0,pol,"[LANG=pol] Kościół nic dobrego nie ma do zaoferowania nikomu, ponieważ jego fundamentem są kłamstwa i wzajemnie sprzeczne zasady.","[0.34636038541793823, -2.000419855117798, 1.2326326370239258, -2.881443738937378, -2.87070631980896]"
+pol_f5f49d3e932dac60048d15f1b35a5557,trzeba zapełnić piwnicę czokoszokami i papierem toaletowym ( ͡° ͜ʖ ͡°),0,0,0,0,0,pol,[LANG=pol] trzeba zapełnić piwnicę czokoszokami i papierem toaletowym ( ͡° ͜ʖ ͡°),"[-3.3849925994873047, -3.550689458847046, -4.324427604675293, -3.064641237258911, -3.391601324081421]"
+pol_8b79efd990e0b186f7ef88452143d458,"Rozjebane jak Popiełuszko w bagażniku 
+ 
+ #f1",0,0,0,0,0,pol,"[LANG=pol] Rozjebane jak Popiełuszko w bagażniku 
+ 
+ #f1","[0.9519509077072144, -1.9571433067321777, -3.343463659286499, -1.2016657590866089, -1.0926274061203003]"
+pol_da976a131c1ae8bee14a52edf095d5ba,"Tak walczyliście z duopolem, że będziecie mieli teraz bąkiewiczów w pałacu prezydenckim! 
+ Brawo wy! 
+ #wybory #wybory2025",1,0,0,0,0,pol,"[LANG=pol] Tak walczyliście z duopolem, że będziecie mieli teraz bąkiewiczów w pałacu prezydenckim! 
+ Brawo wy! 
+ #wybory #wybory2025","[2.6291232109069824, -2.54358172416687, -3.0713961124420166, -2.1182267665863037, -1.4019449949264526]"
+pol_ab29be4ee5a949e642d8ebee7d56a840,"Pan @USER znakomity w @USER 
+ Merytorycznie, konkretnie, przekonująco, z energią. Świeżość, intelekt i znakomita prezencja. 
+ Ma wszystko na doskonałe reprezentowanie Polski, jako przyszły Prezydent. 
+ 
+ #Trzaskowski",0,0,0,0,0,pol,"[LANG=pol] Pan @USER znakomity w @USER 
+ Merytorycznie, konkretnie, przekonująco, z energią. Świeżość, intelekt i znakomita prezencja. 
+ Ma wszystko na doskonałe reprezentowanie Polski, jako przyszły Prezydent. 
+ 
+ #Trzaskowski","[-1.7814692258834839, -3.497980833053589, -3.8553144931793213, -3.6037967205047607, -3.611518144607544]"
+pol_0880a7a5c41aa7b42068158bb739fedc,Wątpię by użyto legalnej broni,0,0,0,0,0,pol,[LANG=pol] Wątpię by użyto legalnej broni,"[-1.2933090925216675, -3.1947684288024902, -3.1597540378570557, -4.165677070617676, -1.7253557443618774]"
+pol_43937a390c4f48a0fc955938421fb073,Pewnie dlatego ze afera zostala rozdmuchana przez prawakow i inne zwierzeta i miala z prawdziwa sytuacja tyle wspolnego co [pseudonym] z kompetencja,1,0,0,0,0,pol,[LANG=pol] Pewnie dlatego ze afera zostala rozdmuchana przez prawakow i inne zwierzeta i miala z prawdziwa sytuacja tyle wspolnego co [pseudonym] z kompetencja,"[2.2123169898986816, -2.133699655532837, -2.7028603553771973, -1.9853638410568237, -1.3937666416168213]"
+pol_5e5d82aec1d20e6d0a60b072209001ca,"on nawija do tego, że to Pan Jezus stworzył człowieka a ewolucja nie istnieje.",0,0,0,0,0,pol,"[LANG=pol] on nawija do tego, że to Pan Jezus stworzył człowieka a ewolucja nie istnieje.","[-2.84281587600708, -3.3284168243408203, -2.8504691123962402, -3.6602399349212646, -3.351588010787964]"
+pol_fa6991f2e8c4d7cdf7fbfa27dae6e1b5,"Giertych twierdzi, że to Kamraci przejęli władzę i sfałszowali wybory. A tu programowe przemówienie ich szefa, nieoficjalnego premiera:",1,0,0,0,0,pol,"[LANG=pol] Giertych twierdzi, że to Kamraci przejęli władzę i sfałszowali wybory. A tu programowe przemówienie ich szefa, nieoficjalnego premiera:","[0.8107775449752808, -0.24022477865219116, -3.352123737335205, -3.1996593475341797, -2.2649343013763428]"
+pol_0513fd9d3cf923a2798d379170f43084,a jak masz na drugie?,0,0,0,0,0,pol,[LANG=pol] a jak masz na drugie?,"[-3.625685691833496, -3.3381307125091553, -3.821467638015747, -3.1766841411590576, -3.6360526084899902]"
+pol_d82ebf3fdc1aaa3fd136e9e137fd9f6c,"Tylko, że Batyr nie ma 5% charyzmy Kaczora. Teraz Trzaskowski ma jeszcze wiec, a Batyr czmychnął.",0,0,0,0,0,pol,"[LANG=pol] Tylko, że Batyr nie ma 5% charyzmy Kaczora. Teraz Trzaskowski ma jeszcze wiec, a Batyr czmychnął.","[1.3835169076919556, -2.7919137477874756, -3.1452524662017822, -2.8272178173065186, -2.4966702461242676]"
+pol_94c5a62af16e539812aece5597a1a88c,Donald Tusk przypomina o ważnym terminie ➡️ @URL,0,0,0,0,0,pol,[LANG=pol] Donald Tusk przypomina o ważnym terminie ➡️ @URL,"[-2.9268031120300293, -3.3448033332824707, -3.45878529548645, -3.416353464126587, -3.9140784740448]"
+pol_1b1e13b021ebca6c6c6cc00aa87786bb,hahahah p0laczki jak się srają o tego fake newsa xd,1,1,0,0,0,pol,[LANG=pol] hahahah p0laczki jak się srają o tego fake newsa xd,"[-0.8601118922233582, -2.2437081336975098, -3.442908763885498, 1.2761627435684204, 0.3267362713813782]"
+pol_45f8861530cbe352c52ea95786b22753,PiS to nie partia tylko zorganizowana grupa przestępcza ( ͡° ͜ʖ ͡°),1,0,0,0,0,pol,[LANG=pol] PiS to nie partia tylko zorganizowana grupa przestępcza ( ͡° ͜ʖ ͡°),"[2.363852024078369, -0.4841807186603546, -2.6563913822174072, -2.820152759552002, -1.8013771772384644]"
+pol_908e04c50ebab2febd18816da0dbaf0f,"Zdjęcie z Bogatyni (R.Maślak). 
+ Do siebie czyli gdzie? Białoruś, Rosja?",1,1,0,0,0,pol,"[LANG=pol] Zdjęcie z Bogatyni (R.Maślak). 
+ Do siebie czyli gdzie? Białoruś, Rosja?","[-1.8403087854385376, -2.4718589782714844, -3.787719488143921, -4.3294267654418945, -3.6675679683685303]"
+pol_4b7199f98fcfcf0669348c98d42979e8,"przez większość świata dzieci wychowywały kobiety faceci ginęli w wojnach krótko żyli, to nie takie prosto",1,0,0,1,0,pol,"[LANG=pol] przez większość świata dzieci wychowywały kobiety faceci ginęli w wojnach krótko żyli, to nie takie prosto","[-2.878847599029541, -3.3820114135742188, -3.957597494125366, -1.3780428171157837, -3.460963249206543]"
+pol_19715bf43829a4951bdddc41121f7589,"Nauka o Gównie - Komunizm [Poland, Punk] (1992) Opened song from 'Bo To Różnie' album. 
+ @URL 
+ @URL",0,0,0,0,0,pol,"[LANG=pol] Nauka o Gównie - Komunizm [Poland, Punk] (1992) Opened song from 'Bo To Różnie' album. 
+ @URL 
+ @URL","[-2.797475576400757, -3.679551362991333, -3.820629596710205, -3.430638074874878, -3.8739163875579834]"
+pol_3084f5bffcec1f60e08905893c00af0c,skad kurwa sie to gowno wzielo to lgbt tak znikad japierdole,0,0,0,1,0,pol,[LANG=pol] skad kurwa sie to gowno wzielo to lgbt tak znikad japierdole,"[-4.040140151977539, -3.831247568130493, -4.206165790557861, -1.8758423328399658, -2.3379952907562256]"
+pol_70436013e863f36dc26ae6dde798ee05,Strzelać do tych którzy przeżyją? Taki jest plan? ( ͡° ͜ʖ ͡°),1,1,0,0,0,pol,[LANG=pol] Strzelać do tych którzy przeżyją? Taki jest plan? ( ͡° ͜ʖ ͡°),"[0.2794734537601471, -2.6233975887298584, -3.5618174076080322, -3.42716908454895, 0.05931706726551056]"
+pol_02fbf86dcc3089788bd4e4ac8461817a,Un saludo nazi po wn,0,0,0,0,0,pol,[LANG=pol] Un saludo nazi po wn,"[0.9430258870124817, -0.9668047428131104, -1.9653472900390625, -2.9714763164520264, -1.7010505199432373]"
+pol_e262eba81e3482350b3cc8c00945679c,kocopoły to nie pomoc,0,0,0,0,0,pol,[LANG=pol] kocopoły to nie pomoc,"[-3.43520450592041, -2.0337014198303223, -4.720324516296387, -3.053917646408081, -1.4029685258865356]"
+pol_47b588e1c7401e8aa4b56c520d9a53bc,"Tak, ten ( ͡° ͜ʖ ͡°)",0,0,0,0,0,pol,"[LANG=pol] Tak, ten ( ͡° ͜ʖ ͡°)","[-3.1698391437530518, -3.012232542037964, -3.7678821086883545, -3.7701034545898438, -3.8619863986968994]"
+pol_e33862d80328e1db07e3782cd27c5597,Jaki smieć.. Przerażające jest bezmózgowie polskich kucy.,1,0,0,0,0,pol,[LANG=pol] Jaki smieć.. Przerażające jest bezmózgowie polskich kucy.,"[1.7138190269470215, 1.3426164388656616, -2.647132158279419, -1.6927250623703003, -0.8727743625640869]"
+pol_4f4677ca06a4fde2af151242eefaf36e,Nie w każdej kategorii jest ten filtr. Dlatego właśnie to powinien być standard i widoczny w każdej jednej kategorii,0,0,0,0,0,pol,[LANG=pol] Nie w każdej kategorii jest ten filtr. Dlatego właśnie to powinien być standard i widoczny w każdej jednej kategorii,"[-2.989652156829834, -3.5380492210388184, -3.959488868713379, -3.4849472045898438, -3.73785662651062]"
+pol_43afe8d55e14a41875426dbdca2a650b,"taguj to gówno chuju zielonko, rodzine se poszkaluj jak tyle wigoru masz",0,0,0,0,0,pol,"[LANG=pol] taguj to gówno chuju zielonko, rodzine se poszkaluj jak tyle wigoru masz","[-3.5396878719329834, -3.2610952854156494, -4.082534313201904, -3.8764450550079346, -3.3295791149139404]"
+pol_64a12bf5666dce37b211e1d48da32f54,"Przecież Polska się zbroi, żeby napaść na Niemcy i odzyskać te biliony reparacji, więc ta inwestycja się spłaci ( ͡° ͜ʖ ͡°)",1,1,0,0,0,pol,"[LANG=pol] Przecież Polska się zbroi, żeby napaść na Niemcy i odzyskać te biliony reparacji, więc ta inwestycja się spłaci ( ͡° ͜ʖ ͡°)","[1.6085015535354614, -1.0721704959869385, -3.465566396713257, -3.2000808715820312, -1.7308961153030396]"
+pol_a9d053e7c78b57be0c16c373498ffeb8,"Eh, po latach (nie)rządów PiS Nazwisko jawi się jak zbawiciel ( ͡º ͜ʖ͡º) 
+ źródło: @URL",1,0,0,0,0,pol,"[LANG=pol] Eh, po latach (nie)rządów PiS Nazwisko jawi się jak zbawiciel ( ͡º ͜ʖ͡º) 
+ źródło: @URL","[0.9874523878097534, -3.528749704360962, -0.8385930061340332, -2.4296696186065674, -2.939927339553833]"
+pol_1970022d3daee75f10c8c6df8cec50dc,nie spamuj dałnie jebany,0,0,0,0,0,pol,[LANG=pol] nie spamuj dałnie jebany,"[-3.701988458633423, -3.2199461460113525, -4.27899169921875, -3.7144927978515625, -1.8510187864303589]"
+pol_50b671c1a94004d8d0b8ffbaeaf8dc63,Ja mam za co jesc a ty siorb swojemu ojcu dalej przychlascie,0,0,0,0,0,pol,[LANG=pol] Ja mam za co jesc a ty siorb swojemu ojcu dalej przychlascie,"[-0.35072973370552063, -2.1731226444244385, -3.587864637374878, -0.7988572716712952, 0.6242092847824097]"
+pol_b98ec63be584288862c177e5d03faa1d,Wybiorą sobie co im pasuje z narracji i powiedzą ze mieli racje jak zawsze,1,1,0,0,0,pol,[LANG=pol] Wybiorą sobie co im pasuje z narracji i powiedzą ze mieli racje jak zawsze,"[-0.14525240659713745, -3.3976686000823975, -3.5395655632019043, -3.4818623065948486, -1.2288264036178589]"
+pol_e40a2cb084db93e41fce185eba505348,Tu wpisujemy co lewica powinna przestać,0,0,0,0,0,pol,[LANG=pol] Tu wpisujemy co lewica powinna przestać,"[-1.1440294981002808, -3.4349091053009033, -3.515836477279663, -3.6144635677337646, -3.466740369796753]"
+pol_44ce624dca5be7e932ab4f79d18af689,"Mam nadzieje, ze z tej kary dostane cos, moje dane pewnie jakies tam polecialy ( ͡° ͜ʖ ͡°)",0,0,0,0,0,pol,"[LANG=pol] Mam nadzieje, ze z tej kary dostane cos, moje dane pewnie jakies tam polecialy ( ͡° ͜ʖ ͡°)","[-3.087796688079834, -3.4561736583709717, -3.7452309131622314, -3.6045448780059814, -3.7154159545898438]"
+pol_7080b884202870b5818ddad0a3df7308,i 6k po 2 latach pracy,0,0,0,0,0,pol,[LANG=pol] i 6k po 2 latach pracy,"[-3.622880458831787, -3.5084116458892822, -4.301305770874023, -3.456920862197876, -3.417447805404663]"
+pol_88591da23b84d9d39aba580c7cfd3829,bo Ukriancy nie chcą już ginąć za swój kraj,0,1,0,0,0,pol,[LANG=pol] bo Ukriancy nie chcą już ginąć za swój kraj,"[1.5510231256484985, -0.8071014285087585, -2.9683752059936523, -2.6809308528900146, -2.3785295486450195]"
+pol_0d2bafbb714854c70cb246b5835db93d,"#!$%@USER taki bank. Na pewno nie założę w nim konta, ostrzegę też znajomych",0,0,0,0,0,pol,"[LANG=pol] #!$%@USER taki bank. Na pewno nie założę w nim konta, ostrzegę też znajomych","[-3.4068150520324707, -3.2749381065368652, -4.063628673553467, -3.6277246475219727, -3.4823453426361084]"
+pol_9fc5d8653c7e13dd75db69c86d9e4794,"pis się nie opierdala, kupują sobie głosy ... 500 + emeryturki ... 
+ kościół za kasę i bogoojczyżniana ideologia",1,0,0,0,0,pol,"[LANG=pol] pis się nie opierdala, kupują sobie głosy ... 500 + emeryturki ... 
+ kościół za kasę i bogoojczyżniana ideologia","[2.1759214401245117, -0.3791988492012024, 1.8399360179901123, -2.1797573566436768, -1.472091555595398]"
+pol_c62c224c48fd15ba7504bf9a2c4ea294,I tak sobie potwierdził i tyle nawet nie powiedział naziole wypierdalac,1,1,0,0,0,pol,[LANG=pol] I tak sobie potwierdził i tyle nawet nie powiedział naziole wypierdalac,"[2.48996639251709, -0.22657890617847443, -1.9646382331848145, -2.2848048210144043, -1.708365797996521]"
+pol_e4dc56664c5832384453b9f6a528d1c5,"Świetny pomysł, Rosja upadnie, Unia się całkowicie zintegruje, wszyscy wkoło będą wydawać na technologię i dobrobyt a my będziemy jak wały kupować nikomu niepotrzebną amunicję i czołgi, bo konstytucja...",1,0,0,0,0,pol,"[LANG=pol] Świetny pomysł, Rosja upadnie, Unia się całkowicie zintegruje, wszyscy wkoło będą wydawać na technologię i dobrobyt a my będziemy jak wały kupować nikomu niepotrzebną amunicję i czołgi, bo konstytucja...","[2.345139265060425, -0.8954030275344849, -3.2616004943847656, -2.5613534450531006, -1.49186372756958]"
+pol_c5dbbbbefb6451093de762b7f2381085,"U nas grzmi, wieje i deszcz leje 😅. PiSiory mają się dobrze, jak dotąd 😠",1,0,0,0,0,pol,"[LANG=pol] U nas grzmi, wieje i deszcz leje 😅. PiSiory mają się dobrze, jak dotąd 😠","[2.7068912982940674, -2.8046634197235107, -1.1133949756622314, -0.6641814112663269, -1.9973753690719604]"
+pol_bb80dda27be610f3a7ad833995fbbd68,"Iza mówiła, że Nawrocki ma tatuaż ze swastyką, więc zero zaskoczenia",1,0,0,0,0,pol,"[LANG=pol] Iza mówiła, że Nawrocki ma tatuaż ze swastyką, więc zero zaskoczenia","[-0.07426979392766953, -2.886176347732544, -3.5288689136505127, -3.6628129482269287, -2.30729603767395]"
+pol_1a704c002adfccba10c179685dfafca6,"Filtrowany wokal Legia to Chuje 
+ @URL",0,0,0,0,0,pol,"[LANG=pol] Filtrowany wokal Legia to Chuje 
+ @URL","[-2.5984702110290527, -2.4862782955169678, -4.600693225860596, -1.7583683729171753, 0.2878224551677704]"
+pol_d44365a753f476f528bc2ac55a1f0c60,"0️⃣3️⃣.0️⃣1️⃣.2️⃣0️⃣2️⃣5️⃣ 
+ Protest Rolników w Warszawie 
+ #rolnictwo #uprawa #ziemia #warszawa #protest",0,0,0,0,0,pol,"[LANG=pol] 0️⃣3️⃣.0️⃣1️⃣.2️⃣0️⃣2️⃣5️⃣ 
+ Protest Rolników w Warszawie 
+ #rolnictwo #uprawa #ziemia #warszawa #protest","[-3.0947394371032715, -3.38263201713562, -4.079657554626465, -4.326971530914307, -3.468346118927002]"
+pol_d95d574bc2973d23d319b666edd342f7,Lublin ( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°),0,0,0,0,0,pol,[LANG=pol] Lublin ( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°),"[-3.2566821575164795, -3.2149088382720947, -4.065790176391602, -3.5342535972595215, -3.859976291656494]"
+pol_6ca3dcbbc19767c9fdb2ad6c2fd95035,">Mein Kampf też? 
+ 
+ Ja, naturlich! Wenn es falsch wäre, hätte Gott die Welt anders geschaffen.( ͡° ͜ʖ ͡°)",0,0,0,0,0,pol,"[LANG=pol] >Mein Kampf też? 
+ 
+ Ja, naturlich! Wenn es falsch wäre, hätte Gott die Welt anders geschaffen.( ͡° ͜ʖ ͡°)","[-2.077479600906372, -3.6112313270568848, -1.9022334814071655, -3.056382417678833, -4.1338090896606445]"
+pol_7d8848b83366a71cbcdb58fd0dafeed7,"No dalej pedalskie nasienia. Minusować i zakopywać - ""informacja niewygodna"".",1,0,0,1,0,pol,"[LANG=pol] No dalej pedalskie nasienia. Minusować i zakopywać - ""informacja niewygodna"".","[1.0714160203933716, -1.8344807624816895, -2.9922091960906982, -2.387631893157959, 0.47732141613960266]"
+pol_16e89484718609b930062dd666d1ab13,Liczby dostaję co miesiąc od księgowej. One mają dla mnie znaczenie. Są takie same jak za PiS.,0,0,0,0,0,pol,[LANG=pol] Liczby dostaję co miesiąc od księgowej. One mają dla mnie znaczenie. Są takie same jak za PiS.,"[-1.9621362686157227, -3.4690303802490234, -3.8860690593719482, -4.119649887084961, -3.468583345413208]"
+pol_75b4b81bccc594290a3abf28eb9935a7,Są politycy którzy wszystko powiedzą dla korzyści.,1,0,0,0,0,pol,[LANG=pol] Są politycy którzy wszystko powiedzą dla korzyści.,"[0.7508050203323364, -3.6327943801879883, -2.9912235736846924, -3.263488531112671, -1.6735976934432983]"
+pol_23d674ade81c7cde4134187c56749b76,"Mnie nie śmieszy, że kaczyński zrobił z tego sędziego TK :/",0,0,0,0,0,pol,"[LANG=pol] Mnie nie śmieszy, że kaczyński zrobił z tego sędziego TK :/","[0.29084888100624084, -3.1159415245056152, -3.684305429458618, -3.3742854595184326, -2.5840389728546143]"
+pol_0a81ee1a60e61a8d5446a3cefd53d49f,"""Obecnie nie potrzeba nam zwyczajnego administrowania. Bądźmy we wszystkich regionach ziemi w permanentnym stanie misji"" 
+ 
+ Papież Franciszek",0,0,0,0,0,pol,"[LANG=pol] ""Obecnie nie potrzeba nam zwyczajnego administrowania. Bądźmy we wszystkich regionach ziemi w permanentnym stanie misji"" 
+ 
+ Papież Franciszek","[-2.9173855781555176, -3.4590983390808105, -3.7451329231262207, -3.877000331878662, -3.7341525554656982]"
+pol_d7a6f540e94a3c60ea0b310227f9bcec,"> jestem syndykalistą 
+ 
+ nie, jesteś zwykłym idiotą.",0,0,0,0,0,pol,"[LANG=pol] > jestem syndykalistą 
+ 
+ nie, jesteś zwykłym idiotą.","[-1.9910091161727905, -3.7479960918426514, -3.924156665802002, -2.9590485095977783, -2.285677909851074]"
+pol_f9e1cf42c49cf703abeee1241c3f62a2,"nie jestem architektem, ja tylko rucham twoją starą.",0,0,0,0,0,pol,"[LANG=pol] nie jestem architektem, ja tylko rucham twoją starą.","[-3.121987819671631, -3.557997465133667, -4.220419883728027, -3.529583215713501, -3.5813519954681396]"
+pol_9ca3443ca4201a2ed366b0dc64ea5a7e,Czyli naziole z poparciem 40%... AfD zazdrości...,1,0,0,0,0,pol,[LANG=pol] Czyli naziole z poparciem 40%... AfD zazdrości...,"[2.1358304023742676, -2.400818109512329, -2.749924898147583, -2.4866926670074463, -2.248049020767212]"
+pol_afbdd0127000b681041dea7835c58537,właśnie jakieś debile wpychaja racjonalnych ludzi do wora z antyszczepionkowcami itd. Chuj wam w dupe kretyni. Zachowujecie się jak 500+ pisowcy.,1,0,0,0,0,pol,[LANG=pol] właśnie jakieś debile wpychaja racjonalnych ludzi do wora z antyszczepionkowcami itd. Chuj wam w dupe kretyni. Zachowujecie się jak 500+ pisowcy.,"[2.709289073944092, -1.0180401802062988, -3.2458152770996094, -2.005800724029541, -1.1287431716918945]"
+pol_00f750af3dfb4dd2878564a7f594e98a,"Zaraz, jeśli ktoś tego wszystkiego nie robi, to skąd mam wiedzieć, że w ogóle jest katolem? Tylko katole są tak agresywni, inni odpuszczają...",0,0,1,0,0,pol,"[LANG=pol] Zaraz, jeśli ktoś tego wszystkiego nie robi, to skąd mam wiedzieć, że w ogóle jest katolem? Tylko katole są tak agresywni, inni odpuszczają...","[0.728219747543335, -0.8970423936843872, 0.9326995611190796, 1.2325382232666016, -2.58434796333313]"
+pol_803b3e605ed16805b8b9021877d71c43,"""Debil nie wie że jest debil, a mądry to wie."" 
+ @URL 
+ 
+ Konfiarze trafili na podatny grunt.",1,0,0,0,0,pol,"[LANG=pol] ""Debil nie wie że jest debil, a mądry to wie."" 
+ @URL 
+ 
+ Konfiarze trafili na podatny grunt.","[1.668448805809021, -2.352971315383911, -3.5329320430755615, -2.752542734146118, -1.2244328260421753]"
+pol_eb070a5c2850df42391facde82e8a9f0,"pozwolę sobie zacytować: 
+ @URL",0,0,0,0,0,pol,"[LANG=pol] pozwolę sobie zacytować: 
+ @URL","[-3.1719887256622314, -3.47072696685791, -3.9142675399780273, -3.588125705718994, -3.7067322731018066]"
+pol_f1c9535dc722505b94989054f6ffbc5c,Wg Johna Graya Putin znacjonalizowal mafię. My tez to robimy. Podobnie jak Putin. Trump i Orban.,1,0,0,0,0,pol,[LANG=pol] Wg Johna Graya Putin znacjonalizowal mafię. My tez to robimy. Podobnie jak Putin. Trump i Orban.,"[1.5433987379074097, -2.448284387588501, -3.061973810195923, -3.000723123550415, -2.115788221359253]"
+pol_590dcd2c29095d7d67b9f4182f414dc6,"zasady się trochę różnią, jednak gdzie sprawdzałem było, że lustro do zmieszanych. 
+ 
+ @URL 
+ @URL 
+ @URL 
+ 
+ Oczywiście najlepiej byłoby zasady zupełnie ujednolicić.",0,0,0,0,0,pol,"[LANG=pol] zasady się trochę różnią, jednak gdzie sprawdzałem było, że lustro do zmieszanych. 
+ 
+ @URL 
+ @URL 
+ @URL 
+ 
+ Oczywiście najlepiej byłoby zasady zupełnie ujednolicić.","[-3.224374294281006, -3.6155588626861572, -4.115102767944336, -3.299896478652954, -3.731424570083618]"
+pol_fa1ece54e684a2139ee4655c27dbc02a,"Sejm. Ustawa obniżająca ceny prądu przyjęta 
+ #Polska",0,0,0,0,0,pol,"[LANG=pol] Sejm. Ustawa obniżająca ceny prądu przyjęta 
+ #Polska","[-2.4355738162994385, -3.297650098800659, -3.853248119354248, -3.8611299991607666, -3.945361375808716]"
+pol_37e17002e76b82a5db7caf7919f7c9bd,"Zapytaj się u mnie na wsi : Tusk , UE, tęczowi , Niemcy choć nie wiem dlaczego 🤣, teraz pewnie Trzaskowski.",1,0,0,1,1,pol,"[LANG=pol] Zapytaj się u mnie na wsi : Tusk , UE, tęczowi , Niemcy choć nie wiem dlaczego 🤣, teraz pewnie Trzaskowski.","[1.4102717638015747, -2.7948291301727295, -2.98474383354187, -2.5618865489959717, -2.3773767948150635]"
+pol_222ac4b66c50ba56a2baf3da30136276,„Uproszczony film historyczny dla nastolatków” to nie gatunek:).,0,0,0,0,0,pol,[LANG=pol] „Uproszczony film historyczny dla nastolatków” to nie gatunek:).,"[-3.2545547485351562, -3.2936503887176514, -4.261449813842773, -3.8519060611724854, -3.304769992828369]"
+pol_3981998fb9328067a32e71b8c6f8cb1d,"Nasze przedsiębiorstwa są kupowane za pokute przez zagranicznych inwestorów, podczas gdy rząd nic nie robi, aby chronić naszą gospodarkę. To hańba!",1,0,0,0,1,pol,"[LANG=pol] Nasze przedsiębiorstwa są kupowane za pokute przez zagranicznych inwestorów, podczas gdy rząd nic nie robi, aby chronić naszą gospodarkę. To hańba!","[1.1620320081710815, -1.5205707550048828, -3.509145975112915, -2.8338210582733154, 0.7797509431838989]"
+pol_a2acdee3b06b2164ef3f8eff9fd716d5,"Kiedy mieszkałam w Polsce, często czułam frustrację z powodu rządu. Byłam tam na Czarnym Proteście, na przykład. Ale to naprawdę świetna wiadomość. Ciekawe, czy UE zakaże Twittera jako następnego…",0,0,0,0,0,pol,"[LANG=pol] Kiedy mieszkałam w Polsce, często czułam frustrację z powodu rządu. Byłam tam na Czarnym Proteście, na przykład. Ale to naprawdę świetna wiadomość. Ciekawe, czy UE zakaże Twittera jako następnego…","[-1.596670150756836, -3.217205762863159, -3.6159605979919434, -3.7422194480895996, -3.434861421585083]"
+pol_acb46b0f532e174dc639f5ff6cb08bce,A idz do piekla kurwo wsciekla,0,0,0,0,0,pol,[LANG=pol] A idz do piekla kurwo wsciekla,"[-3.71856689453125, -3.4121739864349365, -4.44160270690918, -3.7912991046905518, -2.505164384841919]"
+pol_c496acddd3d9006e1690f05df8e3fec9,Xxxl dla każdego cpuna głęboko w dupe.,1,0,0,0,1,pol,[LANG=pol] Xxxl dla każdego cpuna głęboko w dupe.,"[-2.7234625816345215, -1.9503326416015625, -3.5008151531219482, -2.4006001949310303, -2.0134027004241943]"
+pol_781f2f625852322ec538354d93e45ef0,"Tego inaczej jak desperacją nazwać nie można😡🤣🤮 Lech Kaczyński brał udział w ustawkach niczym Alfons, no, ojżesz Cavour!!!",1,0,0,0,0,pol,"[LANG=pol] Tego inaczej jak desperacją nazwać nie można😡🤣🤮 Lech Kaczyński brał udział w ustawkach niczym Alfons, no, ojżesz Cavour!!!","[1.2539318799972534, -2.5094316005706787, -3.3574037551879883, -3.4648420810699463, -1.9774540662765503]"
+pol_e4dc95fd65b98950352c57ab98d32531,Batyr lekko wkurwiony po debacie 😁😂,0,0,0,0,0,pol,[LANG=pol] Batyr lekko wkurwiony po debacie 😁😂,"[-2.2985591888427734, -3.499459981918335, -3.7488362789154053, -3.885996103286743, -3.3750898838043213]"
+pol_1d6ca20d11f1967770a9a211e46bcfd3,"no taki zjeb jak ty, to musiał być mix jakichś dzikich genów",0,0,0,0,0,pol,"[LANG=pol] no taki zjeb jak ty, to musiał być mix jakichś dzikich genów","[-3.628920555114746, -2.1155292987823486, -4.20967435836792, -2.8675520420074463, -2.2034718990325928]"
+pol_9f6959ff5ac9258b81e9f698e1772e1f,"wiem, że dostałbym bana, bo inni dostawali bana właśnie za napisanie że są dwie płcie.",0,0,0,0,0,pol,"[LANG=pol] wiem, że dostałbym bana, bo inni dostawali bana właśnie za napisanie że są dwie płcie.","[-3.271630048751831, -3.1875476837158203, -3.9108378887176514, -0.9683306217193604, -3.6678824424743652]"
+pol_742579eb81e04cd5bfaf738fa413c0e7,"Skoro Węgry chcą być republiką putinowską to droga wolna. Niech opuszczą ten ""eurokołchoz"" taki okropny, lewacki i ograniczający ich wolność.",1,1,0,0,0,pol,"[LANG=pol] Skoro Węgry chcą być republiką putinowską to droga wolna. Niech opuszczą ten ""eurokołchoz"" taki okropny, lewacki i ograniczający ich wolność.","[2.1810832023620605, 1.3561344146728516, -1.7993700504302979, -2.1085660457611084, -1.6865122318267822]"
+pol_d281b5cb092fe6a75be6c22455296be1,"zasługa partii i wodza naszego pewnie nie, ale z faktu, że zwykłemu amerykanowi żyje się jeszcze gorzej niż w polsce.",1,0,0,0,0,pol,"[LANG=pol] zasługa partii i wodza naszego pewnie nie, ale z faktu, że zwykłemu amerykanowi żyje się jeszcze gorzej niż w polsce.","[1.6439481973648071, 0.801171600818634, -2.618088960647583, -2.788292169570923, -0.8573898077011108]"
+pol_3f7a67790996047c2b4d352662a59c59,"no i bardzo dobrze, ze polscy politycy biorą udział w takich spotkaniach. Gorzej jakby nikogo od nas tam nie było.",0,0,0,0,0,pol,"[LANG=pol] no i bardzo dobrze, ze polscy politycy biorą udział w takich spotkaniach. Gorzej jakby nikogo od nas tam nie było.","[-1.135609745979309, -3.450132131576538, -3.647813320159912, -3.9285967350006104, -3.1962945461273193]"
+pol_9055d49705d5fe43c486dffdd9cbaa92,"[pseudonym] zabieraj kukłę pod pachę i wykurwiaj 
+ #mecz",0,0,0,0,0,pol,"[LANG=pol] [pseudonym] zabieraj kukłę pod pachę i wykurwiaj 
+ #mecz","[-2.6382088661193848, -3.0371992588043213, -4.057811737060547, -3.5686135292053223, -2.738689661026001]"
+pol_5ff2222fa5ca7d42f6c05da049e8fa9f,"》Jutro w Wyborczej. Jako prezes IPN Nawrocki zwiedził kawał świata. Jako dyrektor MIIWŚ, jeszcze większy《 
+ 
+ No poczytamy. 
+ A dziennikarze, mam nadzieję, dojadą. 
+ @URL",0,0,0,0,0,pol,"[LANG=pol] 》Jutro w Wyborczej. Jako prezes IPN Nawrocki zwiedził kawał świata. Jako dyrektor MIIWŚ, jeszcze większy《 
+ 
+ No poczytamy. 
+ A dziennikarze, mam nadzieję, dojadą. 
+ @URL","[-0.8774558305740356, -3.2909090518951416, -3.560213565826416, -3.595921277999878, -3.4673681259155273]"
+pol_9faf0dc4dba96df5694367c9f4d1b19a,"Skoda z okazji 130 - lecia dała rabat 7 tys. euro, 3 tys. mniej za podatek NOVA, bo jestem ♿, czyli wyszło dychę taniej. No to kupiłem.",0,0,0,0,0,pol,"[LANG=pol] Skoda z okazji 130 - lecia dała rabat 7 tys. euro, 3 tys. mniej za podatek NOVA, bo jestem ♿, czyli wyszło dychę taniej. No to kupiłem.","[-3.2809553146362305, -3.690936326980591, -4.120614051818848, -3.309314012527466, -3.4627139568328857]"
+pol_87c246f0ea70029b2f2c22cf62dd3bf5,ale bardziej zaawansowani mają magiska i ukryty ten fakt przed resztą aplikacji. Działa wszystko.,0,0,0,0,0,pol,[LANG=pol] ale bardziej zaawansowani mają magiska i ukryty ten fakt przed resztą aplikacji. Działa wszystko.,"[-3.1630606651306152, -3.6715269088745117, -4.1844482421875, -2.9501430988311768, -3.502108097076416]"
+pol_583e5c14dc3f8541dbf2a466c2140fd7,"Wybić Hamas do ostatniego, Hezbolah zresztą też .",1,1,1,0,0,pol,"[LANG=pol] Wybić Hamas do ostatniego, Hezbolah zresztą też .","[1.2556407451629639, -0.014772504568099976, 1.014280080795288, -3.0034470558166504, -1.7997627258300781]"
+pol_08774e67f361be37ad166653715c85ff,"I STAND WITH ROSIE. 
+ FU trump. 
+ 
+ #ISTANDWITHKIDRO 
+ 
+ @URL",0,0,0,0,0,pol,"[LANG=pol] I STAND WITH ROSIE. 
+ FU trump. 
+ 
+ #ISTANDWITHKIDRO 
+ 
+ @URL","[0.6401472091674805, -1.0207619667053223, -2.025367498397827, -0.9818063974380493, -1.3248966932296753]"
+pol_6685cef5e46fdaed9895a6103b93906f,"No, ale wszyscy razem ręce na pokład, bo PiS. Ja się poważnie zastanawiam, by olać wybory albo głosować na Nawrockiego.",0,0,0,0,0,pol,"[LANG=pol] No, ale wszyscy razem ręce na pokład, bo PiS. Ja się poważnie zastanawiam, by olać wybory albo głosować na Nawrockiego.","[1.4643120765686035, -2.6838338375091553, -2.3756816387176514, -2.5880162715911865, -2.5311355590820312]"
+pol_a74220090430ec252a4fa48d2b7deb43,Cała przyjemność po mojej stronie. 🙂,0,0,0,0,0,pol,[LANG=pol] Cała przyjemność po mojej stronie. 🙂,"[-3.614274740219116, -3.296081781387329, -3.62915301322937, -3.105999231338501, -3.5936691761016846]"
+pol_9095861e5be5d5db5ee0ce6a8ed2a236,"Zimna wojna 🇭🇺węgiersko-ukraińska🇺🇦 
+ Na Węgrzech trwa antyukraińska kampania oszczerstw: @URL 
+ Tymczasem Ukraińcy łapią węgierskich szpiegów: @URL 
+ W co gra Orban wyjaśnia Dominik Héjj: @URL",0,0,0,0,0,pol,"[LANG=pol] Zimna wojna 🇭🇺węgiersko-ukraińska🇺🇦 
+ Na Węgrzech trwa antyukraińska kampania oszczerstw: @URL 
+ Tymczasem Ukraińcy łapią węgierskich szpiegów: @URL 
+ W co gra Orban wyjaśnia Dominik Héjj: @URL","[1.3252208232879639, 0.8297589421272278, -2.3816564083099365, -2.7799570560455322, -1.7734650373458862]"
+pol_7ba8752cce9a877fe3611886127f1c5d,O tak! Inżynier dźwięku też się na bank do tego przyczynił 😂,0,0,0,0,0,pol,[LANG=pol] O tak! Inżynier dźwięku też się na bank do tego przyczynił 😂,"[-3.4378719329833984, -3.63541316986084, -3.826390027999878, -3.3953230381011963, -3.371476888656616]"
+pol_d243d9dd0b4247d5c6803796d269f35c,"Unia Europejska, zamiast pomagać, wykorzystuje nasze zasoby. To czas, aby się przebudzić i bronić naszych interesów.",1,0,0,0,0,pol,"[LANG=pol] Unia Europejska, zamiast pomagać, wykorzystuje nasze zasoby. To czas, aby się przebudzić i bronić naszych interesów.","[1.9085241556167603, -1.9634315967559814, -3.7430150508880615, -3.4196889400482178, -0.501055896282196]"
+pol_f77a3743e23205b816c70770203ba766,"Zakop za idiotyczny "" Ojj, alez im musi brakowac kasy na cokolwiek. "" sugerowanie jak debilom jak mają myśleć",0,0,0,0,0,pol,"[LANG=pol] Zakop za idiotyczny "" Ojj, alez im musi brakowac kasy na cokolwiek. "" sugerowanie jak debilom jak mają myśleć","[0.5125772953033447, -1.6596182584762573, -3.0637660026550293, -1.7704356908798218, 0.3781820833683014]"
+pol_6dd191c58d8b3beae596b8cdf53dccfc,"Braun to Braun - zawsze był głupim naziolem i zjebem... największymi idiotami są ludzie, którzy na niego zagłosowali i posłali naziola do PE!!!",1,0,0,0,0,pol,"[LANG=pol] Braun to Braun - zawsze był głupim naziolem i zjebem... największymi idiotami są ludzie, którzy na niego zagłosowali i posłali naziola do PE!!!","[2.567690849304199, -1.8075264692306519, -3.0753049850463867, -2.326486349105835, -1.5859586000442505]"
+pol_d04165dcd0a9e5066b551842d657a94b,Witaj nasz djabełku - jebać pis jebać i się nie bać💪💪💪👊👊💪💪💪,1,0,0,0,0,pol,[LANG=pol] Witaj nasz djabełku - jebać pis jebać i się nie bać💪💪💪👊👊💪💪💪,"[2.315951347351074, -0.018686149269342422, 1.8311164379119873, -1.9530788660049438, -0.9487376809120178]"
+pol_ea2d8b2c2a2d60e03244edf1a4d35275,ludzie skonczcie latac na ten skur.. turecki syf.,0,1,0,0,0,pol,[LANG=pol] ludzie skonczcie latac na ten skur.. turecki syf.,"[0.07826635241508484, 1.674842357635498, -2.3693959712982178, -2.4048337936401367, -0.05450654774904251]"
+pol_f7d94eb513433d079244e6dc9dad4ad3,"ale jesteś ignorantem historiczynym xD ""olali"" 
+ zupełnie nie orientujesz się chociażby w możliwościach mobilizacyjnych Anglii i Francji w 39 
+ nie kompromituj się",0,0,0,0,0,pol,"[LANG=pol] ale jesteś ignorantem historiczynym xD ""olali"" 
+ zupełnie nie orientujesz się chociażby w możliwościach mobilizacyjnych Anglii i Francji w 39 
+ nie kompromituj się","[-1.5745391845703125, -3.273691177368164, -4.231202125549316, -3.3939578533172607, -2.652272939682007]"
+pol_32e3853542204e239ab6209f043a9f58,"Dobra muzyka, jebać pewne sztuczne państwo",1,1,0,0,0,pol,"[LANG=pol] Dobra muzyka, jebać pewne sztuczne państwo","[1.8866413831710815, -0.23281671106815338, -3.0157907009124756, -2.0598199367523193, 0.7787240147590637]"
+pol_31f6f3e59d19ba20de474c90d211de72,Konstytucja to tylko sugestie ¯⁠\⁠_⁠(⁠ツ⁠)../⁠¯,0,0,0,0,0,pol,[LANG=pol] Konstytucja to tylko sugestie ¯⁠\⁠_⁠(⁠ツ⁠)../⁠¯,"[0.24311032891273499, -1.8756150007247925, -3.2756640911102295, -3.4656031131744385, -2.5138638019561768]"
+pol_cdb601a6e64f75126e98d3a019c98b05,"Że też się tak cackają z tymi czubkami. Pała , armatki wodne , dwie godzi i jest spokój ( ͡° ͜ʖ ͡°)",1,0,0,0,1,pol,"[LANG=pol] Że też się tak cackają z tymi czubkami. Pała , armatki wodne , dwie godzi i jest spokój ( ͡° ͜ʖ ͡°)","[-3.104384183883667, -3.6524369716644287, -4.39188289642334, -3.525407552719116, -3.2852108478546143]"
+pol_2388ca94d25a24c5f0de3364232383db,Ja zawsze odseparowuję się od takich popierdoleńców jak ty ale spróbuj mi tylko jakąś szprycę wmuszać to cię zdepczę jak robaka którym jesteś.,0,0,0,0,0,pol,[LANG=pol] Ja zawsze odseparowuję się od takich popierdoleńców jak ty ale spróbuj mi tylko jakąś szprycę wmuszać to cię zdepczę jak robaka którym jesteś.,"[0.6153994798660278, -1.0747272968292236, -2.2604422569274902, 0.2527616620063782, 0.4957289397716522]"
+pol_2ce0b3764af57228244fe128772c80ac,Wielowarstwowy monitoring na podstawie zależności profil/IP i innych rzeczy podobno.,0,0,0,0,0,pol,[LANG=pol] Wielowarstwowy monitoring na podstawie zależności profil/IP i innych rzeczy podobno.,"[-3.2230029106140137, -3.5274453163146973, -3.949253797531128, -3.5293784141540527, -3.4353530406951904]"
+pol_8a5616a51575994dfb8584430ebc610c,Przecież Radomir Witt czytał tego mejla na antenie TVN i to żadna inwigilacja.,0,0,0,0,0,pol,[LANG=pol] Przecież Radomir Witt czytał tego mejla na antenie TVN i to żadna inwigilacja.,"[-2.967839002609253, -3.7774136066436768, -4.049633502960205, -3.923207998275757, -3.4607224464416504]"
+pol_052f8acc86064f40fd68ad5fb3d48d7b,"Oni fasolkę po bretońsku nazwali pomidorówką z fasolą. Xd 
+ 
+ Ramen jest zupa jak fasolka.",0,0,0,0,0,pol,"[LANG=pol] Oni fasolkę po bretońsku nazwali pomidorówką z fasolą. Xd 
+ 
+ Ramen jest zupa jak fasolka.","[-3.444882869720459, -3.0798180103302, -3.7577385902404785, -3.457695960998535, -3.980717897415161]"
+pol_5eeedd9287207feee7bfb7aeccf5740b,"Ty o marzeniach opowiadasz :) 
+ 
+ Eee, nie ogladanie transmisi to marzenie? Az tak ciężko ci sie oderwać? To uzalezneinie kolego.",0,0,0,0,0,pol,"[LANG=pol] Ty o marzeniach opowiadasz :) 
+ 
+ Eee, nie ogladanie transmisi to marzenie? Az tak ciężko ci sie oderwać? To uzalezneinie kolego.","[-3.733142614364624, -3.637751817703247, -4.325649261474609, -3.2996177673339844, -2.9826366901397705]"
+pol_c2147ec125a67c59865cc88c82955707,"🇮🇱 Premier Izraela idzie na jakiś czas do szpitala. 
+ 
+ Benjamin Netanyahu ma dzisiaj operację usunięcia prostaty. 
+ #Izrael #Netanyahu 
+ @URL",0,0,0,0,0,pol,"[LANG=pol] 🇮🇱 Premier Izraela idzie na jakiś czas do szpitala. 
+ 
+ Benjamin Netanyahu ma dzisiaj operację usunięcia prostaty. 
+ #Izrael #Netanyahu 
+ @URL","[-3.3343753814697266, -3.4871108531951904, -3.7174205780029297, -3.291860342025757, -3.871467351913452]"
+pol_ae12916c3ed8a022a308283e8c6a298c,Panie premierze Tusk - tak się spełnia obietnice!,0,0,0,0,0,pol,[LANG=pol] Panie premierze Tusk - tak się spełnia obietnice!,"[-0.31926900148391724, -3.0645415782928467, -3.298225164413452, -3.622208833694458, -3.054832935333252]"
+pol_014a109f843b726f44256a66a663e064,"Doszlo do starc z policja i jeszcze ich kurwa wpuszcza zobaczycie. Co za kretyni, z miejsca powinno sie ich wystrzelac",1,1,0,0,0,pol,"[LANG=pol] Doszlo do starc z policja i jeszcze ich kurwa wpuszcza zobaczycie. Co za kretyni, z miejsca powinno sie ich wystrzelac","[-0.06931206583976746, 1.4048643112182617, -2.6331584453582764, -1.440728783607483, -0.02049502357840538]"
+pol_fc7b6460de20c04b0c6b460c14fd6af4,To i tak lepiej niż Polska która została wasalem Ukrainy,1,1,0,0,1,pol,[LANG=pol] To i tak lepiej niż Polska która została wasalem Ukrainy,"[1.6398173570632935, 0.23225107789039612, -2.7590537071228027, -2.5338423252105713, -1.7620700597763062]"
+pol_f2baf14a9d3945a1b05aba11fe6943b2,"Poseł PiS zapędzony w kozi róg... 
+ 
+ ⚙️ ""Bez trybu"" Justyny Dobrosz-Oracz w środę o 20.18 w TVP Info!",0,0,0,0,0,pol,"[LANG=pol] Poseł PiS zapędzony w kozi róg... 
+ 
+ ⚙️ ""Bez trybu"" Justyny Dobrosz-Oracz w środę o 20.18 w TVP Info!","[0.7441202402114868, -3.811110734939575, -3.251807451248169, -3.17453670501709, -2.6785943508148193]"
+pol_02f71c2cfa69b9ab22083670eeb18513,"Jakie imię wybralibyście dla dziewczynki, która urodzi się 3 maja? Ja zaproponowałam Maja Konstytucja ale nie było zgody. Ewentualnie Konstytucję można zmienić na Konstancję przecież. O co chodzi?",0,0,0,0,0,pol,"[LANG=pol] Jakie imię wybralibyście dla dziewczynki, która urodzi się 3 maja? Ja zaproponowałam Maja Konstytucja ale nie było zgody. Ewentualnie Konstytucję można zmienić na Konstancję przecież. O co chodzi?","[-3.2066898345947266, -3.2744662761688232, -3.6796720027923584, -3.597341537475586, -3.910855531692505]"
+pol_8891abe9ee9b5480f8f75f8dc13645f2,"Kolejna świetna książka. Jeśli ktoś chce poczytać o tym, jak manipuluje i działa Rosja, niech czyta. Obojętnie którą lekturę p. Severskiego. Polecam!",0,0,0,0,0,pol,"[LANG=pol] Kolejna świetna książka. Jeśli ktoś chce poczytać o tym, jak manipuluje i działa Rosja, niech czyta. Obojętnie którą lekturę p. Severskiego. Polecam!","[-1.0942975282669067, -2.7131845951080322, -3.6046195030212402, -4.1595354080200195, -3.3533740043640137]"
+pol_9ae660ffe1e5e58aa8262949335ffa84,niedługo osiągnię pelnoletnosc w wstrzemięźliwości od nieletnich( ͡º ͜ʖ͡º),0,0,0,0,0,pol,[LANG=pol] niedługo osiągnię pelnoletnosc w wstrzemięźliwości od nieletnich( ͡º ͜ʖ͡º),"[-3.531144857406616, -3.2199394702911377, -4.1117730140686035, -3.782241106033325, -3.604149341583252]"
+pol_584f089ceeb98b649da2a429d42faa80,"> zgłosiłeś wszystkie moje wpisy 
+ 
+ i do tego kłamiesz. Matka Cię oddała suce na wykarmienie że łżesz jak pies?",0,0,0,0,0,pol,"[LANG=pol] > zgłosiłeś wszystkie moje wpisy 
+ 
+ i do tego kłamiesz. Matka Cię oddała suce na wykarmienie że łżesz jak pies?","[-1.7574690580368042, -3.7596805095672607, -4.513182640075684, -2.5322580337524414, 0.31157878041267395]"
+pol_0d29f1b8b8ccadc03682004223d9ff09,"Mam pytanie w kwestii formalnej: 
+ - czy prezes @USER niejaki #Kaczyński posegregował już wszystkich Polaków na poszczególne rodzaje śmieci, odpady, odpadki i zrzynki..? 
+ Dla zdezorientowanej sąsiadki pytam.. 
+ #ŚmiećKaczyński",1,0,0,0,0,pol,"[LANG=pol] Mam pytanie w kwestii formalnej: 
+ - czy prezes @USER niejaki #Kaczyński posegregował już wszystkich Polaków na poszczególne rodzaje śmieci, odpady, odpadki i zrzynki..? 
+ Dla zdezorientowanej sąsiadki pytam.. 
+ #ŚmiećKaczyński","[1.430440068244934, -1.2732534408569336, -3.262317419052124, -2.8487093448638916, -2.059812545776367]"
+pol_766abd8777ea59b2594d74d1338d9069,"Wszyscy z pisowskiej sekty niech od razu... spier.. yyy szybko oddalą się do Orbana lub Putina..! 
+ 
+ To ich ""naturalne środowisko.."" ‼️🤦‍♂️ 
+ 
+ PS.. Przy okazji będzie większość pozwalająca odrzucić WETO...😂",1,0,0,0,0,pol,"[LANG=pol] Wszyscy z pisowskiej sekty niech od razu... spier.. yyy szybko oddalą się do Orbana lub Putina..! 
+ 
+ To ich ""naturalne środowisko.."" ‼️🤦‍♂️ 
+ 
+ PS.. Przy okazji będzie większość pozwalająca odrzucić WETO...😂","[2.519587278366089, -2.0529589653015137, -0.46308669447898865, -1.9904519319534302, -2.6130526065826416]"
+pol_58e2ccaa91adf9e74c6a87633d17b484,"🤷‍♂️Jako, że dochodzenie się toczy - nie oceniam czy to policja się pogubiła czy OP. Jak na razie nigdzie nie znalazłem info o umorzeniu. Odnośnie Syrenki jest po pierwszej rozprawie.",0,0,0,0,0,pol,"[LANG=pol] 🤷‍♂️Jako, że dochodzenie się toczy - nie oceniam czy to policja się pogubiła czy OP. Jak na razie nigdzie nie znalazłem info o umorzeniu. Odnośnie Syrenki jest po pierwszej rozprawie.","[-3.218052864074707, -3.874337673187256, -4.078981876373291, -3.4845054149627686, -3.5528149604797363]"
+pol_a56f4495d304f5ccfedffc60ffab6d47,"Pytanie kogo i kiedy odsyłano skutecznie, ale jeżeli tak było to na pewno będziesz w stanie podać na ten temat jakieś konkretne informacje.",0,0,0,0,0,pol,"[LANG=pol] Pytanie kogo i kiedy odsyłano skutecznie, ale jeżeli tak było to na pewno będziesz w stanie podać na ten temat jakieś konkretne informacje.","[-3.4177098274230957, -3.3927152156829834, -3.887904167175293, -3.62382435798645, -3.6833791732788086]"
+pol_54669ca9f67944dd25b6faf277f3b912,"A to jest jeszcze co wycinać? Myślałam, że pisiory wszystkie lasy wyrżnęły.",1,0,0,0,0,pol,"[LANG=pol] A to jest jeszcze co wycinać? Myślałam, że pisiory wszystkie lasy wyrżnęły.","[1.4166821241378784, -2.0721778869628906, -3.791334867477417, -3.4099695682525635, -1.2588846683502197]"
+pol_2d5db909bf096cb0beebff045bfc8213,"doktornauk: ""jebani spermiarze są debilami"" 
+ 
+ odkrycie kurwa roku xD",0,0,0,0,0,pol,"[LANG=pol] doktornauk: ""jebani spermiarze są debilami"" 
+ 
+ odkrycie kurwa roku xD","[-1.4525049924850464, -2.3339507579803467, -3.026925802230835, 1.1278482675552368, -1.487130045890808]"
+pol_fc9f0c35109f1d7d4bd914c422ad0ec6,"Iran stał za 9/11, Polacy odpowiadają za Holocaust i pogromy. Jak odpuścisz tym pejsatym pastuchom to napiszą historię na nowo.",1,1,1,0,1,pol,"[LANG=pol] Iran stał za 9/11, Polacy odpowiadają za Holocaust i pogromy. Jak odpuścisz tym pejsatym pastuchom to napiszą historię na nowo.","[2.2802224159240723, 1.7484732866287231, 0.223521888256073, -1.3457080125808716, 0.15109162032604218]"
+pol_847b8ecde46602db1a3ea11477177735,No niezbyt. A po co mieliby udawać konflikt w partii?,0,0,0,0,0,pol,[LANG=pol] No niezbyt. A po co mieliby udawać konflikt w partii?,"[-1.5041065216064453, -3.2754175662994385, -3.5758378505706787, -3.7746570110321045, -3.515782356262207]"
+pol_99e5aba1d08867c3a925f900bea571e8,"on po prostu nie rozumie, co oznacza połączenie słów ""progresywne"" i ""podatki""",0,0,0,0,0,pol,"[LANG=pol] on po prostu nie rozumie, co oznacza połączenie słów ""progresywne"" i ""podatki""","[-2.648461103439331, -3.2036094665527344, -4.050776958465576, -3.8834502696990967, -3.49943470954895]"
+pol_f59640139478e0b1432ff8d5b8b22fd4,"Nazwisko juz to tłumaczył, że mamy wtyczki do dupy. On ma jedna właściwą i widzi prawde. To sie nazywa szklana kula",0,0,0,0,0,pol,"[LANG=pol] Nazwisko juz to tłumaczył, że mamy wtyczki do dupy. On ma jedna właściwą i widzi prawde. To sie nazywa szklana kula","[-2.702268123626709, -3.5768001079559326, -4.152720928192139, -3.3746445178985596, -3.0589122772216797]"
+pol_cdafe979f5f5c8ff9b4478a5e4f1b31b,Chłopaki dali radę. Oby w przyszłości również takie medale zdobywali! A nawet lepsze! (｡◕‿‿◕｡),0,0,0,0,0,pol,[LANG=pol] Chłopaki dali radę. Oby w przyszłości również takie medale zdobywali! A nawet lepsze! (｡◕‿‿◕｡),"[-3.0990021228790283, -3.6393187046051025, -3.9639551639556885, -3.3368728160858154, -3.065070390701294]"
+pol_a3f8f4e51bb4ba00627d899c99df24db,Biologia jest przeciwko. Rozkład głosów 18-39l w I Turze. Liczy się Mentzen i Grigorij... Kolejni młodzi podłączeni do titkota wejdą na polityczny rynek za 2-5lat...,1,0,0,0,1,pol,[LANG=pol] Biologia jest przeciwko. Rozkład głosów 18-39l w I Turze. Liczy się Mentzen i Grigorij... Kolejni młodzi podłączeni do titkota wejdą na polityczny rynek za 2-5lat...,"[0.43957284092903137, -3.4823033809661865, -3.5073580741882324, -2.1233201026916504, -1.9740477800369263]"
+pol_a70a5c51df0590ed8bd6f7af734500a4,"co mnie jakies czarnuchy obchodzą, dawac marysie 
+ #tokio2020",0,1,0,0,0,pol,"[LANG=pol] co mnie jakies czarnuchy obchodzą, dawac marysie 
+ #tokio2020","[-2.7010445594787598, -0.49913889169692993, -3.153218984603882, -2.692403554916382, -3.66519832611084]"
+pol_e72d599dfcd4e252802bf3e2598d10cb,"Podobno rfk rozpowszechniał teorie spiskowe, wg których szczepionki powodują alergie na orzeszki",0,0,0,0,0,pol,"[LANG=pol] Podobno rfk rozpowszechniał teorie spiskowe, wg których szczepionki powodują alergie na orzeszki","[1.3136368989944458, -2.83189058303833, -2.7575900554656982, -3.0430188179016113, -0.3227734863758087]"
+pol_5e986542f20f87d8325bac46e7c78415,">to marsz bogaczy i Elit 
+ 
+ czyli każdego kto zarabia ponad minimalną? ( ͡° ͜ʖ ͡°)",1,0,0,0,1,pol,"[LANG=pol] >to marsz bogaczy i Elit 
+ 
+ czyli każdego kto zarabia ponad minimalną? ( ͡° ͜ʖ ͡°)","[-0.4157506823539734, -3.439034938812256, -3.0260508060455322, -2.016277551651001, -0.3843165338039398]"
+pol_ccc8c3de68fd9ce9c09cc848ccbe7103,jebać Niemców. Zapomnieli im odjąć punktów za dwie wojny światowe.,0,1,0,0,0,pol,[LANG=pol] jebać Niemców. Zapomnieli im odjąć punktów za dwie wojny światowe.,"[1.8103687763214111, 0.969633162021637, -2.952410936355591, -2.95912766456604, -1.1242960691452026]"
+pol_6cf9bba2cef74dc36c041b6852aeed4a,"Posłanka Matysiak już nie kryje, PiS to jej naturalne środowisko.",1,0,0,0,0,pol,"[LANG=pol] Posłanka Matysiak już nie kryje, PiS to jej naturalne środowisko.","[0.09388324618339539, -3.497314214706421, -3.60548996925354, -3.1173431873321533, -2.5653345584869385]"
+pol_648f2af2a694ff8a1795295b6d3a9612,"weganie z samej nazwy to nie ludzi, powinno się im specjalne paszporty zrobić, wtedy byśmy wiedzieli czy są lewakami czy nie xd",1,0,0,0,1,pol,"[LANG=pol] weganie z samej nazwy to nie ludzi, powinno się im specjalne paszporty zrobić, wtedy byśmy wiedzieli czy są lewakami czy nie xd","[1.159838080406189, 1.7491000890731812, -1.4228135347366333, -2.176203727722168, -1.3304357528686523]"
+pol_2c8a3bb8bdc7d1510bed44b13fb0cb6c,"Jak mąż wróci z pracy zrobię mu test ciążowy. 
+ Będzie tak samo wiarygodny, jak ten ćpuna Nawrockiego..😜 
+ @URL",1,0,0,0,0,pol,"[LANG=pol] Jak mąż wróci z pracy zrobię mu test ciążowy. 
+ Będzie tak samo wiarygodny, jak ten ćpuna Nawrockiego..😜 
+ @URL","[2.341020107269287, -2.075545072555542, -2.993149757385254, -1.0197820663452148, -0.5739282369613647]"
+pol_2b0182c2a87038c77f0e4ae47e537c3a,"Ponad 695 tysięcy polskich obywateli zarejestrowało się za granicą na wybory prezydenckie. To rekordowa liczba – przyznaje MSZ. 
+ 
+ Więcej ⬇️",0,0,0,0,0,pol,"[LANG=pol] Ponad 695 tysięcy polskich obywateli zarejestrowało się za granicą na wybory prezydenckie. To rekordowa liczba – przyznaje MSZ. 
+ 
+ Więcej ⬇️","[-2.583200693130493, -3.151273488998413, -3.5326087474823, -3.5242412090301514, -3.8869736194610596]"
+pol_91a4758f917711e708eff288b57b8b00,"Nazwisko bardziej od uniformu Mercedesa, pasowałby bardziej mundur ss, i ten jego akcent... 
+ #f1",0,0,0,0,0,pol,"[LANG=pol] Nazwisko bardziej od uniformu Mercedesa, pasowałby bardziej mundur ss, i ten jego akcent... 
+ #f1","[-3.102125644683838, -3.5525524616241455, -3.854807138442993, -3.5542123317718506, -3.68198823928833]"
+pol_193fb04c2125af875c2d1f6ca05068e1,"A jeszcze 10 lat temu, ciepła woda w kranie, stadiony, koniec historii. 
+ Żyjemy w cyrku rządzonym przez klałnów.",1,0,0,0,0,pol,"[LANG=pol] A jeszcze 10 lat temu, ciepła woda w kranie, stadiony, koniec historii. 
+ Żyjemy w cyrku rządzonym przez klałnów.","[1.7108925580978394, -1.1913316249847412, -2.275609254837036, -1.4706000089645386, -0.25766387581825256]"
+pol_5b7b8729a64facfe2a7ac96c9e532d54,"Znam to od podszewki. Czarne za PiSu równożądziło. Na szczęście teraz do TVP przyszli ludzie normalnie, nie na klęczkach....",1,0,0,0,0,pol,"[LANG=pol] Znam to od podszewki. Czarne za PiSu równożądziło. Na szczęście teraz do TVP przyszli ludzie normalnie, nie na klęczkach....","[2.3783199787139893, -2.139867067337036, -2.0121726989746094, -1.3148738145828247, -2.356013298034668]"
+pol_1fe169c34435f3c2426b68ee65633428,no aż się prosi o bombę.,0,0,0,0,0,pol,[LANG=pol] no aż się prosi o bombę.,"[-3.542736053466797, -3.594322919845581, -4.620226860046387, -3.4145569801330566, -2.59102725982666]"
+pol_f937218afe6b73e74f456ea9d7b324f1,"800 : 27 = 5 
+ Panie, ja kończyłem podstawówkę, a nie matematykę",0,0,0,0,0,pol,"[LANG=pol] 800 : 27 = 5 
+ Panie, ja kończyłem podstawówkę, a nie matematykę","[-3.0898733139038086, -3.5129001140594482, -4.0467634201049805, -3.678889751434326, -3.630592107772827]"
+pol_8c501284345e4334230dcf445723da0c,"Też słyszałem. 
+ Zadziwiająca jest tępota części wyborców lewicy. 
+ Dla nich Trzaskowski i Mentzen to to samo. Beton gorszy niż pisowski",1,0,0,0,0,pol,"[LANG=pol] Też słyszałem. 
+ Zadziwiająca jest tępota części wyborców lewicy. 
+ Dla nich Trzaskowski i Mentzen to to samo. Beton gorszy niż pisowski","[1.9305745363235474, -2.8861496448516846, -3.113499641418457, -2.9604666233062744, -1.6720536947250366]"
+pol_d60aa9a32907b130177b2661988c22cf,a pisiory przyszli? czy też olali?,1,0,0,0,0,pol,[LANG=pol] a pisiory przyszli? czy też olali?,"[1.4103025197982788, -2.9449408054351807, -3.108508825302124, -0.45209142565727234, -1.150839924812317]"
+pol_3ce9c46d594209480d0cf34866344dab,no jesteś głupi. Mówiłem nie pisz amebo.,0,0,0,0,0,pol,[LANG=pol] no jesteś głupi. Mówiłem nie pisz amebo.,"[-3.02548885345459, -3.6158249378204346, -4.389023780822754, -3.2994792461395264, -2.890819787979126]"
+pol_bf67676e5b3ea30d262cda20bc5cf2db,"- Puk, Puk 
+ - Kto tam? 
+ - Policja 
+ - Ziobry nie ma 
+ - A to przepraszamy",1,0,0,0,0,pol,"[LANG=pol] - Puk, Puk 
+ - Kto tam? 
+ - Policja 
+ - Ziobry nie ma 
+ - A to przepraszamy","[-1.2209302186965942, -3.9066078662872314, -3.980569839477539, -4.136196136474609, -2.6335222721099854]"
+pol_d6c5506181223816ec4eebfd49c47809,"Przecież ktoś się pod tymi przelewami podpisał. Wziąć go za doope a nie zubażac budżet. 
+ No żesz",1,0,0,0,0,pol,"[LANG=pol] Przecież ktoś się pod tymi przelewami podpisał. Wziąć go za doope a nie zubażac budżet. 
+ No żesz","[-0.30207961797714233, -2.910202980041504, -3.533521890640259, -3.792529821395874, -2.4485113620758057]"
+pol_e3ca14851a0d3785eae098417ecd8f65,"przygłupie, idź do jakiegoś dorosłego niech ci wytłumaczy co to jest argument.",0,0,0,0,0,pol,"[LANG=pol] przygłupie, idź do jakiegoś dorosłego niech ci wytłumaczy co to jest argument.","[-2.8990163803100586, -3.743101119995117, -4.3233747482299805, -3.504185914993286, -2.226466417312622]"
+pol_857a28268cf81e375a3a3b13171fee9d,"J*bał mnie pies, j*bała cała wieś",0,0,0,0,0,pol,"[LANG=pol] J*bał mnie pies, j*bała cała wieś","[-1.2288097143173218, -2.59436297416687, -4.452968597412109, -2.642235517501831, 0.7475268840789795]"
+pol_0ec1beb17fea12f09c96caeccd5e8644,Ja bym tam wstawił zdjęcie Nazwisko .,0,0,0,0,0,pol,[LANG=pol] Ja bym tam wstawił zdjęcie Nazwisko .,"[-3.4558212757110596, -3.4132089614868164, -3.887247085571289, -3.3502585887908936, -3.5540575981140137]"
+pol_af56d0df1efd8e3d0f217aefd7ef5b0c,Całkiem udany ta wycieczka i nawet ładne suweniry chłopaki zebrały.,0,0,0,0,0,pol,[LANG=pol] Całkiem udany ta wycieczka i nawet ładne suweniry chłopaki zebrały.,"[-3.4923295974731445, -3.232853651046753, -3.951036214828491, -3.194260835647583, -3.7504827976226807]"
+pol_f8738711481c5be3f4d9784c0e1cc4b5,Lewaki marzą sobie o tym xD,1,0,0,0,0,pol,[LANG=pol] Lewaki marzą sobie o tym xD,"[2.1072535514831543, -1.457643747329712, -3.1274962425231934, -2.744640827178955, -2.133852005004883]"
+pol_27803bf45fb94562394c522f89e09049,Ciekawe jak bardo trzeba mieć najebane we łbie żeby tworzyć takie grafiki.,0,0,0,0,0,pol,[LANG=pol] Ciekawe jak bardo trzeba mieć najebane we łbie żeby tworzyć takie grafiki.,"[-0.6203098297119141, -1.4029412269592285, -3.04245924949646, -2.451403856277466, -0.17382508516311646]"
+pol_6a38802102e78c7a017d230995df84d2,te osobniki od razu chcą mordować i gwałcić...,1,1,0,0,1,pol,[LANG=pol] te osobniki od razu chcą mordować i gwałcić...,"[1.7115463018417358, -1.4249882698059082, -2.032275438308716, -1.4903374910354614, 1.2018005847930908]"
+pol_22062064596fe68a620fb8adfbaae1e4,Komiksy Nazwisko to była jazda bez trzymanki.,0,0,0,0,0,pol,[LANG=pol] Komiksy Nazwisko to była jazda bez trzymanki.,"[-2.792511463165283, -3.455984354019165, -4.659671306610107, -3.1922190189361572, -2.8941609859466553]"
+pol_0050017a030d32cc5bc186cbff6e0a65,"Tragiczne były losy tych Polaków, którzy zamiast powrócić do Polski ulegli podszeptom i wybrali trwanie na Węgrzech. Aktualny serial ""Królowie"" w TVP i TVPVod...",0,0,0,0,0,pol,"[LANG=pol] Tragiczne były losy tych Polaków, którzy zamiast powrócić do Polski ulegli podszeptom i wybrali trwanie na Węgrzech. Aktualny serial ""Królowie"" w TVP i TVPVod...","[0.08301754295825958, -0.5676490068435669, -3.6006059646606445, -2.719325542449951, -2.627344846725464]"
+pol_7f9d7dcaa2655c36322e6889e695a1ae,Włącz dziś TVP3 Katowice ❗🫶 Godz. 17:30 ⏰ Emisja reportażu 'Gwiazdy z Podlesic' ⭐️✨ 28 MAJA 2025 R. (ŚRODA),0,0,0,0,0,pol,[LANG=pol] Włącz dziś TVP3 Katowice ❗🫶 Godz. 17:30 ⏰ Emisja reportażu 'Gwiazdy z Podlesic' ⭐️✨ 28 MAJA 2025 R. (ŚRODA),"[-3.4581704139709473, -3.3818023204803467, -3.8384132385253906, -3.622929811477661, -3.696043014526367]"
+pol_f9c2be12ad50ebe0db8cc7a997266cce,Tymczasem u nas Braun czytając o tym:,0,0,0,0,0,pol,[LANG=pol] Tymczasem u nas Braun czytając o tym:,"[-2.8397305011749268, -3.5397603511810303, -3.9232571125030518, -3.6352500915527344, -3.903155565261841]"
+pol_3fb3ff1e2999af78ce1cb50fd8d36c01,Słuszną linie ma nasza partia oby znów Tusk nie zostawił nadwyżki pisdzielcom,1,0,0,0,0,pol,[LANG=pol] Słuszną linie ma nasza partia oby znów Tusk nie zostawił nadwyżki pisdzielcom,"[1.4187769889831543, -2.839916944503784, -2.753493070602417, -3.4554927349090576, -2.6158828735351562]"
+pol_4efbe543f8f8c8813db9aaefd3b09687,"Znaczy się a którzy nielegalni imigranci są na 'tak' ? 
+ Bo mnie się zdaje, że każdy nielegalny jest na 'nie' obecnie też. 
+ 
+ Co za bełkot.",0,0,0,0,0,pol,"[LANG=pol] Znaczy się a którzy nielegalni imigranci są na 'tak' ? 
+ Bo mnie się zdaje, że każdy nielegalny jest na 'nie' obecnie też. 
+ 
+ Co za bełkot.","[-0.19269606471061707, -0.6806719303131104, -2.9174270629882812, -3.4711756706237793, -2.691800355911255]"
+pol_60960112274a217bdfcc13f6b7090fb7,"Płaciliście podatki, mimo, iż nie mieliście zalegalizowanego pobytu i nie mogliście korzytać choćby z tych minimalnych (z europejskiego pkt widzenia) świadczeń jak Medicare/Medicaid? No to teraz was wyruchamy i wypierdolimy.",1,1,0,0,0,pol,"[LANG=pol] Płaciliście podatki, mimo, iż nie mieliście zalegalizowanego pobytu i nie mogliście korzytać choćby z tych minimalnych (z europejskiego pkt widzenia) świadczeń jak Medicare/Medicaid? No to teraz was wyruchamy i wypierdolimy.","[-0.2038244754076004, -1.322238802909851, -3.9583332538604736, -2.829937696456909, 0.7146561741828918]"
+pol_c659155858ac13f253ae20afdde32a9f,"ładnie was wytresowal wasz pan, piękny skowyt. Zielony daj głos, kundelku",1,0,0,0,1,pol,"[LANG=pol] ładnie was wytresowal wasz pan, piękny skowyt. Zielony daj głos, kundelku","[-0.09845440834760666, -3.475285291671753, -4.020708084106445, -3.646411895751953, -1.3952430486679077]"
+pol_f3a1bc58fdd3742ca8151046f113cc26,"Tutaj dodatkiem jest madka, która chłopakom dała petardy.",0,0,0,0,0,pol,"[LANG=pol] Tutaj dodatkiem jest madka, która chłopakom dała petardy.","[-2.818418025970459, -3.6799957752227783, -4.011719226837158, -0.1125381737947464, -2.9741897583007812]"
+pol_6bb0b39af621083f86311a0291101901,Sejm będzie lśniący. Do tej pory był sprzątany kukiszmatą. Teraz doszła hołoszmata.,1,0,0,0,0,pol,[LANG=pol] Sejm będzie lśniący. Do tej pory był sprzątany kukiszmatą. Teraz doszła hołoszmata.,"[2.4343457221984863, -2.5179316997528076, -1.2619867324829102, -0.967868983745575, -2.5052101612091064]"
+pol_259973142c05e152cd25c201c9cd7f81,"Na początku 2025 roku, w zaledwie dwa dni, na Wyspy Kanaryjskie przybyło blisko 800 migrantów. Mają rozmach postępowcy 😡👇 
+ @URL",1,1,0,0,0,pol,"[LANG=pol] Na początku 2025 roku, w zaledwie dwa dni, na Wyspy Kanaryjskie przybyło blisko 800 migrantów. Mają rozmach postępowcy 😡👇 
+ @URL","[-2.041200637817383, -2.1219730377197266, -3.4278202056884766, -3.727961540222168, -4.090237617492676]"
+pol_698cf3e80cd1ad29e8d6d279fc69fcd9,To znaczy że pisiory mają lepszych PRowcòw,1,0,0,0,0,pol,[LANG=pol] To znaczy że pisiory mają lepszych PRowcòw,"[2.323284149169922, -2.960038900375366, -3.1615941524505615, -1.5055705308914185, -1.7508882284164429]"
+pol_915228032227e01e9763f7c03cd6835f,"Edukacja zdrowotna zła, rozwód dobry. Zabijanie embrionów złe, zabijanie ludzi w lesie dobre. Hołownia złym kandydatem peezelu, Hołownia dobrym kandydatem peezelu. 
+ 🤷‍♀️",1,0,0,0,0,pol,"[LANG=pol] Edukacja zdrowotna zła, rozwód dobry. Zabijanie embrionów złe, zabijanie ludzi w lesie dobre. Hołownia złym kandydatem peezelu, Hołownia dobrym kandydatem peezelu. 
+ 🤷‍♀️","[0.800724446773529, -3.466318368911743, -3.5175139904022217, -2.798328161239624, -0.6125417947769165]"
+pol_437e16aa2dacce810a06ff0e93743b27,"Bo oni nie głosują na Nawrockiego tylko przeciwko Tuskowi, UE, LGBT, etc",1,0,0,0,0,pol,"[LANG=pol] Bo oni nie głosują na Nawrockiego tylko przeciwko Tuskowi, UE, LGBT, etc","[2.2506215572357178, -1.0602915287017822, -0.341623455286026, 1.7645106315612793, -1.3993269205093384]"
+pol_9eb0e20a846d874ac9139109adb9da3a,"Nawrocki,Batyr czy 
+ to nie jest za trudne 
+ dla jego wyborców?",1,0,0,0,0,pol,"[LANG=pol] Nawrocki,Batyr czy 
+ to nie jest za trudne 
+ dla jego wyborców?","[1.8836698532104492, -2.816101551055908, -2.2706141471862793, -2.46504807472229, -2.6934454441070557]"
+pol_18a0c997c789cbac8915fbff079d0605,"Bezpośrednio trafieni artylerią 
+ 
+ #ukraina #wojna #rosja",0,0,0,0,0,pol,"[LANG=pol] Bezpośrednio trafieni artylerią 
+ 
+ #ukraina #wojna #rosja","[0.8660783767700195, 0.2890997529029846, -2.4782097339630127, -3.3018410205841064, -2.0935873985290527]"
+pol_6e74c14463110c576c553e0437353678,W sumie Legia niedaleko i chyba nawet we właściwym kierunku popylają pacyfikować,0,0,0,0,0,pol,[LANG=pol] W sumie Legia niedaleko i chyba nawet we właściwym kierunku popylają pacyfikować,"[-3.0500802993774414, -3.5237083435058594, -4.914825439453125, -2.509673595428467, -1.6162374019622803]"
+pol_9f527c2cc733b3ba9d8a78daf8bba3b8,"Rosja nie ugięła się pod żądania finansowe Ukrainy, stąd nienawiść Kijowa do Moskwy. To gra na wypalenie.",1,1,0,0,0,pol,"[LANG=pol] Rosja nie ugięła się pod żądania finansowe Ukrainy, stąd nienawiść Kijowa do Moskwy. To gra na wypalenie.","[1.843392014503479, 0.5472602248191833, -2.9598381519317627, -2.3458025455474854, -1.6266676187515259]"
+pol_d233a90f475fa4e82c435a91c22355fa,Oni są głupsi niż ustawa przewiduje 😆,0,0,0,0,1,pol,[LANG=pol] Oni są głupsi niż ustawa przewiduje 😆,"[2.022782802581787, -1.2880308628082275, -2.9311752319335938, -1.3215395212173462, 0.05811987817287445]"
+pol_efcdd397d77ca05276a14da380a558b8,"Powinni jej zdjąć gacie i pałą zlać gołą dupę! W głowach już się pojebało od bezstresowego wychowania i wzorów od hasła ""wypierdalaj"".",1,0,0,1,1,pol,"[LANG=pol] Powinni jej zdjąć gacie i pałą zlać gołą dupę! W głowach już się pojebało od bezstresowego wychowania i wzorów od hasła ""wypierdalaj"".","[-0.9007145166397095, -3.7893025875091553, -3.9091098308563232, -1.5900428295135498, -0.8459258675575256]"
+pol_8fdfefe34ef31d6dbcbad5add558d658,"utkaj 
+ Matkę i ojca cwelu, co mnie twoja opinia obchodzi pizdo",0,0,0,0,0,pol,"[LANG=pol] utkaj 
+ Matkę i ojca cwelu, co mnie twoja opinia obchodzi pizdo","[-1.7530285120010376, -2.3443615436553955, -3.3610899448394775, -2.5125887393951416, -0.1633395105600357]"
+pol_fbc477cb4467b9663710b96627862bc1,Pisałem o TVP. Pobudka! Jesteś w pracy.,0,0,0,0,0,pol,[LANG=pol] Pisałem o TVP. Pobudka! Jesteś w pracy.,"[-3.2224550247192383, -3.6044976711273193, -4.099496841430664, -3.7670154571533203, -3.4361276626586914]"
+pol_f82c387292b412144b470c24f7af2ed0,Fińska granica wschodnia pozostanie zamknięta – oświadczył premier tego kraju Petteri Orpo.,0,0,0,0,0,pol,[LANG=pol] Fińska granica wschodnia pozostanie zamknięta – oświadczył premier tego kraju Petteri Orpo.,"[-2.2556631565093994, -3.047309398651123, -3.770670175552368, -3.8561344146728516, -3.670666456222534]"
+pol_33250977db7a28ba8461b02155c6d2ce,"Przepraszam, nie chce się kłócić, ale kompletnie tego nie rozumiem. Edukacja zdrowotna powinna być obowiązkowa, religie, etyki i inne dla chętnych. Przecież tych 'przedmiotów' nie można porównywać, zastępować itp.",1,0,1,0,0,pol,"[LANG=pol] Przepraszam, nie chce się kłócić, ale kompletnie tego nie rozumiem. Edukacja zdrowotna powinna być obowiązkowa, religie, etyki i inne dla chętnych. Przecież tych 'przedmiotów' nie można porównywać, zastępować itp.","[-1.695239543914795, -3.8114163875579834, -2.6251564025878906, -3.0440824031829834, -3.5353710651397705]"
+pol_53ce714a42ad1ec17bb306eacb70a595,Jej teksty powinien przytaczać Jan Nazwisko jako zgubne skutki wieloletniego nadużywania alkoholu,0,0,0,0,0,pol,[LANG=pol] Jej teksty powinien przytaczać Jan Nazwisko jako zgubne skutki wieloletniego nadużywania alkoholu,"[-3.1447367668151855, -3.6315560340881348, -4.0118489265441895, -3.132667303085327, -3.4541189670562744]"
+pol_bb88c62c627f53aecd05f823e7c13622,"Czyli,że Trump lubi Polaków i trzeba budować fort Trump",0,0,0,0,0,pol,"[LANG=pol] Czyli,że Trump lubi Polaków i trzeba budować fort Trump","[1.7504173517227173, -2.693913698196411, -3.53877854347229, -2.5898873805999756, -2.0061981678009033]"
+pol_58df9c3100e3476e82cf5f1fd2b8d8ed,Elity żyją w trwałych związkach??? Teraz padłem.,1,0,0,0,1,pol,[LANG=pol] Elity żyją w trwałych związkach??? Teraz padłem.,"[1.099707007408142, -3.245661497116089, -3.2064263820648193, -1.4448872804641724, -1.1310867071151733]"
+pol_26e70767b9c778ede51aa462aa6b375d,nie wsadzili tylko kaczor wsadził!,1,0,0,0,0,pol,[LANG=pol] nie wsadzili tylko kaczor wsadził!,"[0.8216949105262756, -1.659705638885498, -3.1218433380126953, -3.5567567348480225, 0.42574211955070496]"
+pol_f99d4473b7520cbd62ac9759fb48a591,ja sie chyba po tym po prostu położę,0,0,0,0,0,pol,[LANG=pol] ja sie chyba po tym po prostu położę,"[-3.6441664695739746, -3.3710901737213135, -4.083630561828613, -3.6284682750701904, -3.509187698364258]"
+pol_808cd84ff65da87970daea73574fb69c,"Dlatego użyłem wykresu zadłużenia, który je (przynajmniej częściowo) obejmował. 
+ No, ale ja inżynier i informatyk jestem i liczby, bez komentarza, mówią mi więcej niż słowa, nawet te sarkastyczne.",0,0,0,0,0,pol,"[LANG=pol] Dlatego użyłem wykresu zadłużenia, który je (przynajmniej częściowo) obejmował. 
+ No, ale ja inżynier i informatyk jestem i liczby, bez komentarza, mówią mi więcej niż słowa, nawet te sarkastyczne.","[-3.2025132179260254, -3.703760862350464, -4.246899604797363, -3.4270541667938232, -3.43650484085083]"
+pol_872792e4676c34e6c20a22dea65dd8e5,I to jest niebezpieczna mieszanka właśnie. Nieobliczalna ruska onuca z dużą władzą i małym rozumkiem.,1,1,0,0,0,pol,[LANG=pol] I to jest niebezpieczna mieszanka właśnie. Nieobliczalna ruska onuca z dużą władzą i małym rozumkiem.,"[2.0208663940429688, 1.4847320318222046, -1.7462430000305176, -1.9645658731460571, -1.5059258937835693]"
+pol_327e26e2c09dfd64214163c9d8638699,"Nie powinno się też na pierwszej stronie umieszczać artykułu, że przestępca Romanowski napisał jakieś bzdety do Premiera RP! To jest kompletna aberracja!!!! Kto to jest Romanowski??!!! Zwykły zdrajca i kryminalista!!!",0,0,0,0,0,pol,"[LANG=pol] Nie powinno się też na pierwszej stronie umieszczać artykułu, że przestępca Romanowski napisał jakieś bzdety do Premiera RP! To jest kompletna aberracja!!!! Kto to jest Romanowski??!!! Zwykły zdrajca i kryminalista!!!","[0.5600466728210449, -2.7654054164886475, -3.3876755237579346, -3.634535551071167, -2.5252907276153564]"
+pol_8e777a65204f03da747b48ba1a5e36a7,"Zmarnowane lata KPO. Jak PiS przegrał własną grę z Brukselą · @URL 
+ 
+ @URL",1,0,0,0,0,pol,"[LANG=pol] Zmarnowane lata KPO. Jak PiS przegrał własną grę z Brukselą · @URL 
+ 
+ @URL","[0.03997403010725975, -3.5169832706451416, -3.7481460571289062, -3.9793646335601807, -2.568934202194214]"
+pol_1e0ffc5e35fa2e3e73532947e7d21b35,W związku z organizacją meczu #PogońSzczecin – #Cracovia w dniu 14.03.2025 r. o godzinie 20:30 nastąpią zmiany funkcjonowaniu komunikacji miejskiej. Uruchomione zostaną dodatkowe linie autobusowe.,0,0,0,0,0,pol,[LANG=pol] W związku z organizacją meczu #PogońSzczecin – #Cracovia w dniu 14.03.2025 r. o godzinie 20:30 nastąpią zmiany funkcjonowaniu komunikacji miejskiej. Uruchomione zostaną dodatkowe linie autobusowe.,"[-3.4996731281280518, -3.272825002670288, -3.8666605949401855, -3.324775457382202, -3.851389169692993]"
+pol_d2200f71e6be0ab946a86a430db49383,"Nazwisko ty kurwo jebano! 
+ #zuzel",0,0,0,0,0,pol,"[LANG=pol] Nazwisko ty kurwo jebano! 
+ #zuzel","[-3.7329022884368896, -3.5297980308532715, -3.967290163040161, -2.7558557987213135, -3.362659215927124]"
+pol_10c1ebee408ac9142ec164476c7dd181,Ostatnie pół godziny jebania PiSu #wybory,1,0,0,0,0,pol,[LANG=pol] Ostatnie pół godziny jebania PiSu #wybory,"[1.8325618505477905, -2.561997652053833, -3.2588984966278076, -2.8347554206848145, -2.042444944381714]"
+pol_cfed51482d51f5b9b6a10e4327379446,No i co? Liczba saren rośnie z roku na rok.,0,0,0,0,0,pol,[LANG=pol] No i co? Liczba saren rośnie z roku na rok.,"[-3.123541831970215, -3.264450788497925, -3.7652957439422607, -3.7777810096740723, -3.8083698749542236]"
+pol_7bb8f7d999229aaa0b1f10ba106a1e6b,"o, zestrzelę zobaczę, chyba dron 
+ ale wina strony ukraińskiej 
+ @URL",1,1,0,0,0,pol,"[LANG=pol] o, zestrzelę zobaczę, chyba dron 
+ ale wina strony ukraińskiej 
+ @URL","[-3.298449993133545, -2.944303274154663, -3.94639253616333, -3.7601723670959473, -3.923363447189331]"
+pol_83e8cad97fcc37691fb6d432a59dc993,Może mi w końcu powiedzą czy wybory oszukane 😏,0,0,0,0,0,pol,[LANG=pol] Może mi w końcu powiedzą czy wybory oszukane 😏,"[-0.3273472785949707, -3.372154474258423, -3.135563373565674, -4.067523956298828, -1.761127233505249]"
+pol_c31dd3208a6d9feb5a92af218a3b30bf,"Tylko powiedz, który facet chce mieć ciągłą wojnę w chałupie. Albo odpuszcza i wieje, albo zamienia się w pantofla.",0,0,0,1,0,pol,"[LANG=pol] Tylko powiedz, który facet chce mieć ciągłą wojnę w chałupie. Albo odpuszcza i wieje, albo zamienia się w pantofla.","[-2.8837244510650635, -3.806339740753174, -4.167398452758789, -0.23629780113697052, -2.937669038772583]"
+pol_35a86539b0e7273853e4c5cd188da3ee,"czarna zaraza mówi o tęczowej zarazie xD 
+ 
+ 
+ 
+ Przecież to jest jedna i ta sama zaraza: LGBTKK+",1,0,1,1,0,pol,"[LANG=pol] czarna zaraza mówi o tęczowej zarazie xD 
+ 
+ 
+ 
+ Przecież to jest jedna i ta sama zaraza: LGBTKK+","[-0.10671847313642502, -0.44400081038475037, 0.46860912442207336, 2.2612087726593018, -1.260185956954956]"
+pol_2b4b0ffdcf20d775e9f0774703ec0047,"Ale mamy dowody na to, ze migranci podnosza nasze pkb i zapelniaja miejsca pracy, e ktorych nikt inny nie chce pracowac",0,0,0,0,0,pol,"[LANG=pol] Ale mamy dowody na to, ze migranci podnosza nasze pkb i zapelniaja miejsca pracy, e ktorych nikt inny nie chce pracowac","[0.8074479103088379, 1.3429560661315918, -1.6367183923721313, -1.8803716897964478, -1.011307716369629]"
+pol_101a2f594863866dc24c77e667181e54,"Róbcie zasięgi Trzaskowskiemu, nievtraccie czasu na Nawrockiego bo chodzą słuchy że ma być podmieniony więc nie traccie siły TYLKO TRZASKOWSKI!!",1,0,0,0,0,pol,"[LANG=pol] Róbcie zasięgi Trzaskowskiemu, nievtraccie czasu na Nawrockiego bo chodzą słuchy że ma być podmieniony więc nie traccie siły TYLKO TRZASKOWSKI!!","[1.513675570487976, -2.33148193359375, -3.0923871994018555, -3.18070912361145, -2.387071132659912]"
+pol_9f66c031e8aa8c03d68095bb935ca14a,Strzelać do kurw* po co takie ścierwo ma żyć.,1,1,0,0,1,pol,[LANG=pol] Strzelać do kurw* po co takie ścierwo ma żyć.,"[0.795427143573761, -1.5813491344451904, -2.5744998455047607, -2.6068475246429443, 0.4390977621078491]"
+pol_203664eccf3663e07122e13ee541135c,no przecież nie walczy o lewicowy elektorat,0,0,0,0,0,pol,[LANG=pol] no przecież nie walczy o lewicowy elektorat,"[-0.3191608488559723, -3.466907501220703, -3.614898920059204, -4.201396942138672, -2.7881438732147217]"
+pol_829e7772125449bd102f23b9e14a5afb,"tak , ręce bym polamal za dewastacje obiektu",0,0,0,0,0,pol,"[LANG=pol] tak , ręce bym polamal za dewastacje obiektu","[-2.412095546722412, -3.404688596725464, -4.059325695037842, -4.399837493896484, -3.0378644466400146]"
+pol_b129c3534b1ba2fd4c74d53e828709ac,"a pamiętacie, jak nas zmroziło, jak Tusk, pytany o dowody w sprawie Nawrockiego, powiedział „moje słowo panu nie wystarczy?” miałam wtedy: przerżną te wybory 🗳️",1,0,0,0,0,pol,"[LANG=pol] a pamiętacie, jak nas zmroziło, jak Tusk, pytany o dowody w sprawie Nawrockiego, powiedział „moje słowo panu nie wystarczy?” miałam wtedy: przerżną te wybory 🗳️","[0.4694878160953522, -3.1003851890563965, -3.3164222240448, -3.5399281978607178, -2.829922676086426]"
+pol_bd668ff89df3e340b3c211e00972b443,"zabolała prawda piesku [pseudonym] nie? 
+ #[pseudonym] #patostreamy",0,0,0,0,0,pol,"[LANG=pol] zabolała prawda piesku [pseudonym] nie? 
+ #[pseudonym] #patostreamy","[-3.6468775272369385, -3.3651788234710693, -4.233293533325195, -3.6686065196990967, -3.2460062503814697]"
+pol_cff3f071026585b0133506ebf0cddd84,jaka ekonomia? Parówkowa? Udowodnij.,0,0,0,0,0,pol,[LANG=pol] jaka ekonomia? Parówkowa? Udowodnij.,"[-3.1432275772094727, -3.539738416671753, -4.037383079528809, -3.6662306785583496, -3.4009976387023926]"
+pol_12a3f93aa6eded697c981fa0d6d9637e,Pocięli pisiory lub konfiarze.Jedna mać.,1,0,0,0,0,pol,[LANG=pol] Pocięli pisiory lub konfiarze.Jedna mać.,"[2.668124198913574, -1.3198093175888062, -1.7388852834701538, -0.11264993250370026, -1.797928810119629]"
+pol_71ea4cd6863a2b59265a4cf2a6c18461,"więcej socjalu jakiego daje piss to takich patusów będzie więcej. Po co ma chodzić do roboty, wystarczy robić dzieci i sobie takie żyje",1,0,0,0,1,pol,"[LANG=pol] więcej socjalu jakiego daje piss to takich patusów będzie więcej. Po co ma chodzić do roboty, wystarczy robić dzieci i sobie takie żyje","[1.338297724723816, -1.0263397693634033, -2.687976598739624, -0.8662384152412415, 1.0686006546020508]"
+pol_b4ad29a6e0018841564d29d4e8533366,"Wygrają na jesieni zmienia rząd,nie będą czekać do 2027 . PiS już przebiera nóżkami,żeby zająć się @USER",0,0,0,0,0,pol,"[LANG=pol] Wygrają na jesieni zmienia rząd,nie będą czekać do 2027 . PiS już przebiera nóżkami,żeby zająć się @USER","[1.770285964012146, -3.003807783126831, -2.9233739376068115, -2.5361835956573486, -2.4419078826904297]"
+pol_37dd9af38ea242c2604a5a569dc5e35a,"Kiedy Maja upadła, rowerzystka skomentowała to tak: ""wyuczonym manewrem usiadła siadem krzyżnym, podpierając się głową. 
+ 
+ Witki opadają. Toć dres by tak nie wytłumaczył pobicia.",0,0,0,0,0,pol,"[LANG=pol] Kiedy Maja upadła, rowerzystka skomentowała to tak: ""wyuczonym manewrem usiadła siadem krzyżnym, podpierając się głową. 
+ 
+ Witki opadają. Toć dres by tak nie wytłumaczył pobicia.","[-3.319471597671509, -3.591064214706421, -4.196643829345703, -2.8174922466278076, -3.780264377593994]"
+pol_3a60fbb3680707da8eaeb61ae64fd6a0,"> Polscy nacjonaliści to jebane ścierwo, z którym nie można dyskutować, tylko trzeba do niego strzelać 
+ przecież samą prawdę napisał, widać że mądry człowiek",1,0,0,0,0,pol,"[LANG=pol] > Polscy nacjonaliści to jebane ścierwo, z którym nie można dyskutować, tylko trzeba do niego strzelać 
+ przecież samą prawdę napisał, widać że mądry człowiek","[1.980838656425476, 0.7896475195884705, -2.7046046257019043, -2.2184994220733643, -1.6208919286727905]"
+pol_e27de0349b50dd08e11d6113ccf91edb,"Dalej głosujcie na dziadów co przy korycie siedzą dłużej niż ja żyję, na pewno mają plan lepszy niż tylko się nachapać, nie?",1,0,0,0,0,pol,"[LANG=pol] Dalej głosujcie na dziadów co przy korycie siedzą dłużej niż ja żyję, na pewno mają plan lepszy niż tylko się nachapać, nie?","[2.0925045013427734, -1.2231817245483398, -2.92759108543396, -1.9590522050857544, 0.8406558036804199]"
+pol_76488909df9742754d2316d61807b9c0,"niczyim, o już zglosila ciota bo napisałem prawdę",0,0,0,0,0,pol,"[LANG=pol] niczyim, o już zglosila ciota bo napisałem prawdę","[-2.138354778289795, -1.8642762899398804, -3.4896180629730225, -2.8165218830108643, -0.9622052311897278]"
+pol_0ca55805a051003785aa69f519ae41a9,"Pol Pot kiedyś rzekł, że należy zniszczyć stare zwyczaje autorytety itp. PiS udało się to drugie. Teraz mamy terror chamów z celebrytami. Autorytetów brak.",1,0,0,0,0,pol,"[LANG=pol] Pol Pot kiedyś rzekł, że należy zniszczyć stare zwyczaje autorytety itp. PiS udało się to drugie. Teraz mamy terror chamów z celebrytami. Autorytetów brak.","[2.5111002922058105, -2.323446035385132, -1.841468334197998, -2.0741114616394043, -2.2506487369537354]"
+pol_d7e4e6b14666379e951580acd9b935aa,"Może by tak przestać przejmować się tym co robią nazistowskie organizacje, które piszą donosy i piętnują ludzi na podstawie swoich zakłamanych i schizofrenicznych poglądów",1,0,0,0,0,pol,"[LANG=pol] Może by tak przestać przejmować się tym co robią nazistowskie organizacje, które piszą donosy i piętnują ludzi na podstawie swoich zakłamanych i schizofrenicznych poglądów","[1.646246075630188, -1.0825629234313965, -3.0617029666900635, -3.196958303451538, -1.8894113302230835]"
+pol_c551de0da89bf290370954f5e32646d1,Lider Konfederacji Sławomir Mentzen zareagował na słowa członka sztabu kandydata na prezydenta popieranego przez PiS o swej rzekomej znajomości z Karolem Nawrockim.,0,0,0,0,0,pol,[LANG=pol] Lider Konfederacji Sławomir Mentzen zareagował na słowa członka sztabu kandydata na prezydenta popieranego przez PiS o swej rzekomej znajomości z Karolem Nawrockim.,"[-1.2943545579910278, -3.4235103130340576, -3.357896566390991, -3.523402690887451, -3.607952833175659]"
+pol_36a4fda65cbd0b6f61ed0b754a6a90dc,"wypierdalaj, bo lepe na pysk wyrwiesz leszczu",0,0,0,0,0,pol,"[LANG=pol] wypierdalaj, bo lepe na pysk wyrwiesz leszczu","[-2.4083738327026367, -2.1525075435638428, -3.8873276710510254, -3.35689115524292, -0.653779149055481]"
+pol_809372b790e03a1b0cf0680812e0848b,😆 Na pewno - klasyczny dron w zasadzie odwala całą robotę za pilota 😆,0,0,0,0,0,pol,[LANG=pol] 😆 Na pewno - klasyczny dron w zasadzie odwala całą robotę za pilota 😆,"[-3.4119679927825928, -3.575404644012451, -3.981908082962036, -3.1643142700195312, -3.5711028575897217]"
+pol_52f8a92382cfa9d9b9a3c07cd99139ac,"problem polega na tym, ze albo przyjmujemy czas zimowy na caly rok, albo przechodzimy do innej strefy czasowej niz wiekszosc UE",0,0,0,0,0,pol,"[LANG=pol] problem polega na tym, ze albo przyjmujemy czas zimowy na caly rok, albo przechodzimy do innej strefy czasowej niz wiekszosc UE","[-1.8947649002075195, -2.917407274246216, -4.015585899353027, -4.049768924713135, -3.806339740753174]"
+pol_0555af3ee3d4f3a2532c0c184141abc5,"bo to jedna banda realizująca plany globalistów, kiedy do was dojdzie że Polsko-Polska wojna pis-po to tylko teatrzyk dla goja?",1,1,1,0,1,pol,"[LANG=pol] bo to jedna banda realizująca plany globalistów, kiedy do was dojdzie że Polsko-Polska wojna pis-po to tylko teatrzyk dla goja?","[2.8414573669433594, -1.1577565670013428, -2.3590261936187744, -1.7754727602005005, -1.8547403812408447]"
+pol_b22a462b7afc85816c7eaff8e44f1679,">Szpital w Nowym Targu zadeklarował: Żadnych aborcji,bo patronem jest Jan Paweł2 
+ 
+ A gdzie to zadeklarował, bo jakoś nie zauważyłem. 
+ Kolejna manipulacja neurosji?",1,1,0,0,0,pol,"[LANG=pol] >Szpital w Nowym Targu zadeklarował: Żadnych aborcji,bo patronem jest Jan Paweł2 
+ 
+ A gdzie to zadeklarował, bo jakoś nie zauważyłem. 
+ Kolejna manipulacja neurosji?","[-1.4672760963439941, -3.9728195667266846, -2.559725284576416, -3.0502378940582275, -3.325331926345825]"
+pol_4b0ba1c80a7f2e06c411d3c746926a55,to dzbany to gówno Nazwisko to nie #patostreamy #bekazlewactwa i ogólnie dobrze mi przerwa zrobi HHAAAAAA TFUUUU #heheszki,0,0,0,0,0,pol,[LANG=pol] to dzbany to gówno Nazwisko to nie #patostreamy #bekazlewactwa i ogólnie dobrze mi przerwa zrobi HHAAAAAA TFUUUU #heheszki,"[2.0625662803649902, -2.382254123687744, -3.448927402496338, -2.6137595176696777, -1.520362138748169]"
+pol_4b86f22e4d73db88cbc3c31a3c3110e6,"No tak, bo jak prawie wjeżdża w ciebie samochód, to idealnie zachowujesz spokój.",0,0,0,0,0,pol,"[LANG=pol] No tak, bo jak prawie wjeżdża w ciebie samochód, to idealnie zachowujesz spokój.","[-3.586491584777832, -3.457292079925537, -3.9700992107391357, -3.1213858127593994, -3.532541036605835]"
+pol_b70ef9455feef1cf1eb0853cd27a6dcc,"Wyjdźmy z UE, aby nasze dzieci i wnuki mogły żyć w wolnym i niezależnym kraju, a nie w europejskim protektoracie.",1,0,0,0,0,pol,"[LANG=pol] Wyjdźmy z UE, aby nasze dzieci i wnuki mogły żyć w wolnym i niezależnym kraju, a nie w europejskim protektoracie.","[0.555855393409729, -1.6786481142044067, -3.275728464126587, -3.1871798038482666, -3.0264687538146973]"
+pol_9d9d067c718de3631069438efc42d5b2,"Maj nejm is maksymilian Nazwisko ͡° ͜ʖ ͡°) 
+ źródło: @URL",0,0,0,0,0,pol,"[LANG=pol] Maj nejm is maksymilian Nazwisko ͡° ͜ʖ ͡°) 
+ źródło: @URL","[-3.7551074028015137, -3.564927577972412, -4.179952144622803, -2.403975009918213, -3.293337106704712]"
+pol_1b34b0f4ca13d72a4f8a966771e3ece2,"Dlaczego w złym? Uzasadnij. Jeżeli to będzie hotel, to na pewno tam pojadę.",0,0,0,0,0,pol,"[LANG=pol] Dlaczego w złym? Uzasadnij. Jeżeli to będzie hotel, to na pewno tam pojadę.","[-3.50388503074646, -3.1432554721832275, -3.917776346206665, -3.5213234424591064, -3.5789852142333984]"
+pol_147ddff3837b47932929972ea5e291d0,"za kampanią wspierającą zwyroli z lgbt stoi wykop! 
+ 
+ spójrzcie na ilość wykopów/zakopów i ilość usuniętych przez bolszewickiego moda komentarzy 
+ 
+ @URL",1,0,0,1,0,pol,"[LANG=pol] za kampanią wspierającą zwyroli z lgbt stoi wykop! 
+ 
+ spójrzcie na ilość wykopów/zakopów i ilość usuniętych przez bolszewickiego moda komentarzy 
+ 
+ @URL","[2.1010162830352783, -1.0858142375946045, -0.4664366543292999, 2.0940496921539307, -0.4455922842025757]"
+pol_87b44cbf65b6b0c0d5556cf3b0d7a4b6,ładnie uśpił dzikie zwierzę,0,0,0,0,0,pol,[LANG=pol] ładnie uśpił dzikie zwierzę,"[-3.374911308288574, -3.1639320850372314, -4.311479568481445, -3.1353185176849365, -3.2051918506622314]"
+pol_e00f043eec6bf51df3298b582beaa1b5,"Niekoniecznie. Ostateczny wynik procentowy może się zrównać, żaden z kandydatów nie będzie miał powyżej 50%, a wtedy wybory do powtórki.",0,0,0,0,0,pol,"[LANG=pol] Niekoniecznie. Ostateczny wynik procentowy może się zrównać, żaden z kandydatów nie będzie miał powyżej 50%, a wtedy wybory do powtórki.","[-2.913703441619873, -3.448662042617798, -4.00395393371582, -3.833550214767456, -3.709376335144043]"
+pol_3741246f3dfe64cec271e1e6c9c418d0,to jest debil a nie klecha,0,0,0,0,0,pol,[LANG=pol] to jest debil a nie klecha,"[-4.010140419006348, -3.245288133621216, -4.4594197273254395, -3.492894172668457, -2.630095958709717]"
+pol_985be591c3c70d3986b9156f287168d8,"gdybym rządził to takich jak Ty wysłałbym na pierwszą linię frontu, a z twojego truchła układałbym wały zamiast worków z piaskiem, czopie",1,0,0,0,0,pol,"[LANG=pol] gdybym rządził to takich jak Ty wysłałbym na pierwszą linię frontu, a z twojego truchła układałbym wały zamiast worków z piaskiem, czopie","[1.4375444650650024, -3.0165457725524902, -3.0107767581939697, -3.3752501010894775, -1.8984005451202393]"
+pol_149559314b5ac04e756050c6af45e0dd,nie no tyle to nie.,0,0,0,0,0,pol,[LANG=pol] nie no tyle to nie.,"[-3.6130762100219727, -3.315643072128296, -3.8940160274505615, -3.5100655555725098, -3.7342381477355957]"
+pol_d50080c807cf98b00951d2c4b21d61e9,"📍O poranku historycznie: w III RP tylko raz wybory prezydenckie wygrał kandydat, który do II tury wszedł z drugiego miejsce (L. Kaczyński 2005).",0,0,0,0,0,pol,"[LANG=pol] 📍O poranku historycznie: w III RP tylko raz wybory prezydenckie wygrał kandydat, który do II tury wszedł z drugiego miejsce (L. Kaczyński 2005).","[-2.4506096839904785, -3.489424467086792, -3.6052892208099365, -2.9746415615081787, -3.8868348598480225]"
+pol_02fcb2073af8a047f617a0d497483a83,"Właśnie na zaokniu banda młodocianych Bąkiewiczów zbluzgała parę z psem, która im zwróciła uwagę, że jest po 22 a oni zachowują się bardzo głośno. 
+ Faktycznie ostatnie pokolenie nam rośnie.",1,0,0,0,1,pol,"[LANG=pol] Właśnie na zaokniu banda młodocianych Bąkiewiczów zbluzgała parę z psem, która im zwróciła uwagę, że jest po 22 a oni zachowują się bardzo głośno. 
+ Faktycznie ostatnie pokolenie nam rośnie.","[0.9011040925979614, -0.42678800225257874, -3.1232411861419678, -2.1956729888916016, -0.16045694053173065]"
+pol_ce1eb612ce255bb0a12f813963ca4d74,"Towarzysz o dwóch puciach ma dwa mieszkania: jedno Karola, drugie Tadeusza - w czymże lewactwo widzi problem? No w czym? 🫣",1,0,0,0,0,pol,"[LANG=pol] Towarzysz o dwóch puciach ma dwa mieszkania: jedno Karola, drugie Tadeusza - w czymże lewactwo widzi problem? No w czym? 🫣","[1.6591728925704956, -2.760424852371216, -2.7472000122070312, -2.544461727142334, -1.8329132795333862]"
+pol_aded0850f79ae743beea4b361a0129b3,niech wypierd... z tymi zboczeńcami,1,0,0,1,1,pol,[LANG=pol] niech wypierd... z tymi zboczeńcami,"[1.82170569896698, 0.988249659538269, -0.06241801008582115, 0.8907182216644287, 0.9863124489784241]"
+pol_1bf22eaa4033f7c1fb1565cb327254b6,Wiem. Samolubnie wolę żeby polskie wojsko ginęło z Bohdanem w obronie Donbasu aniżeli mój syn został zabity przez ruskich pod Pruszkowem,1,1,0,0,0,pol,[LANG=pol] Wiem. Samolubnie wolę żeby polskie wojsko ginęło z Bohdanem w obronie Donbasu aniżeli mój syn został zabity przez ruskich pod Pruszkowem,"[1.8905165195465088, 0.7761226892471313, -1.597109317779541, -2.6460556983947754, -0.5008746981620789]"
+pol_db57d3703065e2afbcc7d5423eb8c879,ja z tego koncertu polecam też Ridiculous Thoughts. Niesamowita energia :),0,0,0,0,0,pol,[LANG=pol] ja z tego koncertu polecam też Ridiculous Thoughts. Niesamowita energia :),"[-3.1167712211608887, -3.4987542629241943, -4.063133239746094, -3.808889150619507, -3.4249885082244873]"
+pol_466a9a00be8c2d4417e22f2617136a41,"O prezydenturę powalczy: 
+ 
+ Artur Bartoszewicz, 
+ Magdalena Biejat, 
+ Grzegorz Braun, 
+ Szymon Hołownia, 
+ Marek Jakubiak, 
+ Maciej Maciak, 
+ Sławomir Mentzen, 
+ Karol Nawrocki, 
+ Joanna Senyszyn, 
+ Krzysztof Stanowski, 
+ Rafał Trzaskowski, 
+ Marek Woch, 
+ Adrian Zandberg.",0,0,0,0,0,pol,"[LANG=pol] O prezydenturę powalczy: 
+ 
+ Artur Bartoszewicz, 
+ Magdalena Biejat, 
+ Grzegorz Braun, 
+ Szymon Hołownia, 
+ Marek Jakubiak, 
+ Maciej Maciak, 
+ Sławomir Mentzen, 
+ Karol Nawrocki, 
+ Joanna Senyszyn, 
+ Krzysztof Stanowski, 
+ Rafał Trzaskowski, 
+ Marek Woch, 
+ Adrian Zandberg.","[-2.215014696121216, -3.439899206161499, -3.5958375930786133, -3.2900922298431396, -3.9398093223571777]"
+pol_57a61773b6b32e02e7f144c69363b0d6,"pierwsza wygrana XDD farmazoniarz jebany 
+ #famemma",0,0,0,0,0,pol,"[LANG=pol] pierwsza wygrana XDD farmazoniarz jebany 
+ #famemma","[-2.040174961090088, -3.5369279384613037, -4.517889022827148, -3.2500598430633545, -0.9435640573501587]"
+pol_9b7bdb27eda612cbcf66a46811e402a8,sorry wolę jednak kobiety. Nie podrywaj mnie pedziu!,0,0,0,0,0,pol,[LANG=pol] sorry wolę jednak kobiety. Nie podrywaj mnie pedziu!,"[-3.1120693683624268, -3.911449670791626, -4.049892902374268, -1.0437450408935547, -3.255974531173706]"
+pol_04fc215ee23a682d9df9e1ed14e977d4,"i kto by to zrobił? 
+ ty? 
+ policja? 
+ sąd? 
+ kibole? 
+ xionc? 
+ kto?",1,0,1,0,1,pol,"[LANG=pol] i kto by to zrobił? 
+ ty? 
+ policja? 
+ sąd? 
+ kibole? 
+ xionc? 
+ kto?","[0.29639318585395813, -2.2596499919891357, -3.3739283084869385, -2.9657816886901855, 0.32462140917778015]"
+pol_92a9af1d15156774fcdfe1e6d50cd662,"ej kucu, ale jesteś głupi xd",0,0,0,0,0,pol,"[LANG=pol] ej kucu, ale jesteś głupi xd","[-3.334810733795166, -3.5951504707336426, -4.113953590393066, -3.1835858821868896, -3.1288630962371826]"
+pol_6e60be9835fe564d2ddb261e51621776,"Wy jakbyście przeczytali program centroprawicowej partii z jakiegoś cywilizowanego kraju to byście darli mordy, że komunizm, możecie se być w eu, ale mentalnie wam bliżej do Putina",1,0,0,0,0,pol,"[LANG=pol] Wy jakbyście przeczytali program centroprawicowej partii z jakiegoś cywilizowanego kraju to byście darli mordy, że komunizm, możecie se być w eu, ale mentalnie wam bliżej do Putina","[2.2557883262634277, -1.8878406286239624, -2.5263335704803467, -2.5253236293792725, -2.2896769046783447]"
+pol_0809a26b3fc979ad3e12ac04f98417f5,"Nawet jeśli wygra Trzask, za dwa lata wybory parlamentarne. PiS i konfa nie mogą się doczekać. Ciągle trzeba walczyć, spokoju nie będzie.",1,0,0,0,0,pol,"[LANG=pol] Nawet jeśli wygra Trzask, za dwa lata wybory parlamentarne. PiS i konfa nie mogą się doczekać. Ciągle trzeba walczyć, spokoju nie będzie.","[1.9634767770767212, -2.590816020965576, -3.228822946548462, -2.6208791732788086, -1.8949006795883179]"
+pol_c4a65d15e3f70583ef82ce2f8c5b136e,idę szczać zw za 10 minut jebać kurwy izraelskie wolna Palestyna,1,1,0,0,0,pol,[LANG=pol] idę szczać zw za 10 minut jebać kurwy izraelskie wolna Palestyna,"[2.134685754776001, 1.6540459394454956, -1.1318962574005127, -2.0477044582366943, -0.707075297832489]"
+pol_375682a316d8804d0dcb86f975b44a0f,"Bo Kaczyński powie wszystko dla osiągnięcia celu! 
+ 
+ #Trzaskowski2025 
+ #WygraCałaPolska",1,0,0,0,0,pol,"[LANG=pol] Bo Kaczyński powie wszystko dla osiągnięcia celu! 
+ 
+ #Trzaskowski2025 
+ #WygraCałaPolska","[0.5889307856559753, -3.0979697704315186, -3.4943687915802, -3.5695130825042725, -2.364619255065918]"
+pol_e977c48f7ecb3ef676cb3c95d6c65189,"wrecz przeciwnie, piekny widok. Im wiecej tego scierwa gnije tym lepiej dla wszystkich.",0,0,0,0,0,pol,"[LANG=pol] wrecz przeciwnie, piekny widok. Im wiecej tego scierwa gnije tym lepiej dla wszystkich.","[-1.584769368171692, -2.770585060119629, -3.9460079669952393, -4.439779281616211, -1.62777841091156]"
+pol_4eb06897a73229c3c0c8d763d44d72cc,"zabij się różowy kurwiu, zapłacę za śmieciarkę",0,0,0,1,0,pol,"[LANG=pol] zabij się różowy kurwiu, zapłacę za śmieciarkę","[-0.9111536741256714, -2.2492473125457764, -3.8358359336853027, -2.6050961017608643, -0.4838673174381256]"
+pol_f3c33f794cf84e042fe05cfde51ab0b3,usun sobie sperme z mordy lepiej zanim kolejny klient przyjdzie,0,0,0,0,0,pol,[LANG=pol] usun sobie sperme z mordy lepiej zanim kolejny klient przyjdzie,"[-1.5969818830490112, -0.7446070909500122, -2.010117530822754, -1.9614747762680054, -0.30247706174850464]"
+pol_79b35b609a9bd8c3fd85a80fd9dd9ae2,Dlaczego miałoby być inaczej skoro ludzie zatrudnieni w NFZ wydają nie swoje pieniądze na nie swoje potrzeby?,1,0,0,0,1,pol,[LANG=pol] Dlaczego miałoby być inaczej skoro ludzie zatrudnieni w NFZ wydają nie swoje pieniądze na nie swoje potrzeby?,"[-1.3733603954315186, -3.1837525367736816, -4.220728874206543, -4.161890029907227, -1.6692065000534058]"
+pol_e2a682e6b958088e94862b9033798987,"Prezydent Czech pracował w wywiadzie, który rozpracowywał NATO, a ich premier podziwia Orbana o jest większym przeciwnikiem UE niż Jarek- no podobieństwo niesamowite",1,0,0,0,0,pol,"[LANG=pol] Prezydent Czech pracował w wywiadzie, który rozpracowywał NATO, a ich premier podziwia Orbana o jest większym przeciwnikiem UE niż Jarek- no podobieństwo niesamowite","[-0.07414548099040985, -2.752781629562378, -3.6882615089416504, -3.6268422603607178, -2.84936785697937]"
+pol_26c49674a358385eea2ea4aab03ac2ee,czyli dosłownie jak w każdej robocie,0,0,0,0,0,pol,[LANG=pol] czyli dosłownie jak w każdej robocie,"[-3.255976438522339, -3.5936357975006104, -4.048924446105957, -3.4535140991210938, -3.5058395862579346]"
+pol_23278a7803513fcf7584eb98bdb3016e,UE nie jest od wlazenia z buciorami w sprawy wewnetrzne panstwa i decydowanie kto ma rzadzic,1,0,0,0,0,pol,[LANG=pol] UE nie jest od wlazenia z buciorami w sprawy wewnetrzne panstwa i decydowanie kto ma rzadzic,"[1.1095335483551025, -2.4514594078063965, -3.432162284851074, -3.3623554706573486, -2.1355957984924316]"
+pol_18d1412b2ab9758d3f8ae125a7a62b49,Ruski Huy mnie onuca nazywa? Naprawde?,0,0,0,0,0,pol,[LANG=pol] Ruski Huy mnie onuca nazywa? Naprawde?,"[1.0694116353988647, -1.4734878540039062, -2.9302966594696045, -3.1731631755828857, -2.0602593421936035]"
+pol_87a5eb1cd16fd50a5cdac4ecb6f28518,26 MAR: Niemcy PRZEJĘŁY ROSYJSKI STATEK W ŚMIAŁYM RUCHU! | Wojna w Ukrai... @URL,0,0,0,0,0,pol,[LANG=pol] 26 MAR: Niemcy PRZEJĘŁY ROSYJSKI STATEK W ŚMIAŁYM RUCHU! | Wojna w Ukrai... @URL,"[-0.9105921387672424, -2.264312505722046, -3.675856113433838, -3.963701009750366, -3.639003038406372]"
+pol_95fa760ee07b7e6cf60047b50aa6cba8,"Przemówienie Tuska po wyborach. „Plan awaryjny jest przygotowany!” 
+ #WyboryPrezydenckie2025 #Wybory #Tusk",0,0,0,0,0,pol,"[LANG=pol] Przemówienie Tuska po wyborach. „Plan awaryjny jest przygotowany!” 
+ #WyboryPrezydenckie2025 #Wybory #Tusk","[-2.396968364715576, -3.328474760055542, -3.7416927814483643, -3.763417959213257, -3.805006265640259]"
+pol_a027e70e0652065f180bd2999b8e4c15,"Dopóki Kaczyński ma wpływ, nic się nie zmieni",1,0,0,0,0,pol,"[LANG=pol] Dopóki Kaczyński ma wpływ, nic się nie zmieni","[1.0110341310501099, -2.952667713165283, -2.8799614906311035, -3.115550994873047, -2.456923246383667]"
+pol_e7419438fac7fada16961f9833c8a82b,"Chciałabym,żeby wygrał Trzaskowski a w następnych wyborach,żeby wygrała KO .Nie potrzeba nam koalicjantow ,którzy przez ego bez pokrycia, niszczą wiarygodność koalicji.Sprawniej przeprowadzono by ustawy dotyczące kobiet i praworządności.",1,0,0,0,0,pol,"[LANG=pol] Chciałabym,żeby wygrał Trzaskowski a w następnych wyborach,żeby wygrała KO .Nie potrzeba nam koalicjantow ,którzy przez ego bez pokrycia, niszczą wiarygodność koalicji.Sprawniej przeprowadzono by ustawy dotyczące kobiet i praworządności.","[1.5651005506515503, -2.288661241531372, -2.0300486087799072, 1.1036244630813599, -1.5356314182281494]"
+pol_220dc857624547eed3f182cbd9df9c2e,"Jeśli Ukraina chce być traktowana poważnie, to powinna zacząć odpowiadać za siebie, a nie szukać pieniędzy od innych krajów.",1,1,0,0,0,pol,"[LANG=pol] Jeśli Ukraina chce być traktowana poważnie, to powinna zacząć odpowiadać za siebie, a nie szukać pieniędzy od innych krajów.","[1.8072131872177124, 1.5644584894180298, -1.9011050462722778, -1.9746077060699463, -0.9165647029876709]"
+pol_4ba7624381ffa071e5aae7effb49f136,Dobrowolne szczepionki jako 2 punkt.,0,0,0,0,0,pol,[LANG=pol] Dobrowolne szczepionki jako 2 punkt.,"[-3.1543989181518555, -3.5950844287872314, -4.038277626037598, -3.6725547313690186, -3.617093324661255]"
+pol_4b50bc4c99054c32c3d2e3706d81144a,"Będziemy mieli w drodze do fotela drugiego showmana. Kiedyś prezydentami zostawali politycy, a teraz celebryci.",1,0,0,0,1,pol,"[LANG=pol] Będziemy mieli w drodze do fotela drugiego showmana. Kiedyś prezydentami zostawali politycy, a teraz celebryci.","[0.5875546932220459, -3.2793476581573486, -4.149836540222168, -3.442286729812622, -0.9985190629959106]"
+pol_55b9ba721715cd31a1e79d79f404d9c3,Ten wirus był słaby jak to mówił Morawiecki,1,0,0,0,1,pol,[LANG=pol] Ten wirus był słaby jak to mówił Morawiecki,"[-1.4318619966506958, -3.116215467453003, -3.9072911739349365, -4.401240825653076, -3.2756221294403076]"
+pol_78583b8bb9b0538197a67872ad016e0e,Beton PiS walczy o życie.,1,0,0,0,0,pol,[LANG=pol] Beton PiS walczy o życie.,"[1.6263970136642456, -2.8410372734069824, -3.6001174449920654, -3.348788261413574, -1.5684667825698853]"
+pol_797d5ec28155a3b88a0085312dbde8de,I po co taki śmieć żyje?,0,0,0,0,0,pol,[LANG=pol] I po co taki śmieć żyje?,"[-0.09649677574634552, -2.176990270614624, -3.03218936920166, -2.2584307193756104, -1.2204488515853882]"
+pol_5c38a38ccef2e3779afcf4d87d610232,Byłem w święta na warmi i też nawrocki z mamcenem się rzucają najbardziej w oczy,1,0,0,0,0,pol,[LANG=pol] Byłem w święta na warmi i też nawrocki z mamcenem się rzucają najbardziej w oczy,"[1.9878829717636108, 0.08420149981975555, -2.4841561317443848, -1.9867568016052246, -1.3102415800094604]"
+pol_fca2750fe9b96aed260b682a34eaf80a,"Co za zjebany vietnamski łeb 
+ #bigbrother",0,1,0,0,0,pol,"[LANG=pol] Co za zjebany vietnamski łeb 
+ #bigbrother","[0.050349485129117966, 0.946631908416748, -1.6567072868347168, -3.0666096210479736, -1.770282506942749]"
+pol_7c0d3516b327718f5889a7b003e118b0,"Na chuj oni tego przestrzelenca zaprosili. [pseudonym] kurwo beceluj [pseudonym] za to że go wyjebałeś na policji 
+ 
+ #famemma #primemma",0,0,0,0,0,pol,"[LANG=pol] Na chuj oni tego przestrzelenca zaprosili. [pseudonym] kurwo beceluj [pseudonym] za to że go wyjebałeś na policji 
+ 
+ #famemma #primemma","[-1.5838371515274048, -3.2306082248687744, -4.503715515136719, -3.3127224445343018, -1.6948949098587036]"
+pol_85aa8aca0098988bdc99a30313aeb00c,"Trzaskowski w rozmowie ze Stanowskim - nie no, wczesniej to na granicy byli migranci, teraz to wojna hybrydowa🤣🤣🤣",1,0,0,0,0,pol,"[LANG=pol] Trzaskowski w rozmowie ze Stanowskim - nie no, wczesniej to na granicy byli migranci, teraz to wojna hybrydowa🤣🤣🤣","[-0.9825966954231262, -1.5481138229370117, -3.6580216884613037, -3.8913655281066895, -3.583696126937866]"
+pol_104d99f20831db012fbdb95eb34aa0bf,"ogólnie bardzo polecam kanał jeśli ktoś nie zna, kolo jest niesamowity. Lepszy niż wszystkie [pseudonym], [pseudonym], [pseudonym], [pseudonym]...i nawet ʕ•ᴥ•ʔ",0,0,0,0,0,pol,"[LANG=pol] ogólnie bardzo polecam kanał jeśli ktoś nie zna, kolo jest niesamowity. Lepszy niż wszystkie [pseudonym], [pseudonym], [pseudonym], [pseudonym]...i nawet ʕ•ᴥ•ʔ","[-3.7841131687164307, -3.3946774005889893, -4.041280269622803, -3.216813802719116, -3.660416841506958]"
+pol_35a9327640f6ecf2f45f690b9438133a,Powinna ci tą butlą wykurwić w ryj xD,0,0,0,0,0,pol,[LANG=pol] Powinna ci tą butlą wykurwić w ryj xD,"[0.342684805393219, -1.8482630252838135, -3.0127885341644287, -0.8616449236869812, -0.2056465893983841]"
+pol_a8970bce76648c6d5876d4454d8cce2f,"Przecież twoja żona też pobiera 500+, a niebawem 800",0,0,0,0,0,pol,"[LANG=pol] Przecież twoja żona też pobiera 500+, a niebawem 800","[-2.756831645965576, -3.9179108142852783, -4.002605438232422, -3.283484935760498, -3.5225918292999268]"
+pol_eedb4f129986719477dd19df3e5a8122,"nie, chcę powiedzieć, ze jest juz flaga ¯\_(ツ)_/¯",0,0,0,0,0,pol,"[LANG=pol] nie, chcę powiedzieć, ze jest juz flaga ¯\_(ツ)_/¯","[-3.202268600463867, -3.392472505569458, -3.851252317428589, -3.898124933242798, -3.7749857902526855]"
+pol_23864eaa58b2b4afc59bd124a0c936ba,Chyba po mszy była 😂😂😂,0,0,0,0,0,pol,[LANG=pol] Chyba po mszy była 😂😂😂,"[-3.5400047302246094, -3.4438254833221436, -3.633868932723999, -3.1767728328704834, -3.7062008380889893]"
+pol_31e33e888b42c611757e41a28f638692,chuje przestańcie mi zabierać tematy do pracy kture mi sie podobajom,0,0,0,0,0,pol,[LANG=pol] chuje przestańcie mi zabierać tematy do pracy kture mi sie podobajom,"[-3.6102755069732666, -3.5979411602020264, -4.462411880493164, -2.6861565113067627, -2.4793241024017334]"
+pol_3c71513ccbd5ca1291522cb612da98dd,"Tylko że to nadal stawia znaki zapytania o ważność wyborów. Wygrywa Trzaskowski - ważność rozstrzyga izba = nieważne bo Konstytucja. 
+ 
+ Ktoś musi zwołać posiedzenie całego SN. Kto robi, Manowska?",1,0,0,0,0,pol,"[LANG=pol] Tylko że to nadal stawia znaki zapytania o ważność wyborów. Wygrywa Trzaskowski - ważność rozstrzyga izba = nieważne bo Konstytucja. 
+ 
+ Ktoś musi zwołać posiedzenie całego SN. Kto robi, Manowska?","[-0.9449809193611145, -3.6733553409576416, -3.874887704849243, -3.5810892581939697, -2.8393073081970215]"
+pol_a8938c6ddc6d866d3bacee1087f71351,"polish presidential elections 
+ round 2 
+ 
+ 4.52% protocols in 
+ 
+ trzaskowski - 51,5% 
+ nawrocki - 48,5% 
+ 
+ #wybory2025",0,0,0,0,0,pol,"[LANG=pol] polish presidential elections 
+ round 2 
+ 
+ 4.52% protocols in 
+ 
+ trzaskowski - 51,5% 
+ nawrocki - 48,5% 
+ 
+ #wybory2025","[-2.7047667503356934, -3.4572553634643555, -3.9064486026763916, -3.504603624343872, -3.9717133045196533]"
+pol_d3408e17c3eb23b9ea3893638d647963,Mechanizm autodestrukcji dewiantów?( ͡° ͜ʖ ͡°),0,0,0,1,0,pol,[LANG=pol] Mechanizm autodestrukcji dewiantów?( ͡° ͜ʖ ͡°),"[-0.5091925263404846, -2.1083614826202393, -4.068136692047119, -3.5876429080963135, -1.2873295545578003]"
+pol_df30a7a571b49b9365880b4a76ac6e1f,Dwóch zjebów w BMW to kumulacja jak w Lotto.,0,0,0,0,0,pol,[LANG=pol] Dwóch zjebów w BMW to kumulacja jak w Lotto.,"[-3.2961390018463135, -3.6233346462249756, -4.184652805328369, -3.697222948074341, -3.1282284259796143]"
+pol_474399ecd573987bc723106b7734affb,"Tak jest wykopki leccie szybko na protest bic się o Nazwisko i TVN onucki szybciutko..... 
+ 
+ Buechechechchech....żal i żenua",1,0,0,0,0,pol,"[LANG=pol] Tak jest wykopki leccie szybko na protest bic się o Nazwisko i TVN onucki szybciutko..... 
+ 
+ Buechechechchech....żal i żenua","[2.0059874057769775, -0.5639230012893677, -3.696958303451538, -2.084739923477173, -0.16182725131511688]"
+pol_d4e4842228fdffe580536eeb14668ffd,zacznij od bukakke ( ͡° ͜ʖ ͡°) sorry musiałem.,0,0,0,0,0,pol,[LANG=pol] zacznij od bukakke ( ͡° ͜ʖ ͡°) sorry musiałem.,"[-3.7980618476867676, -3.1294291019439697, -4.285073280334473, -2.50160813331604, -2.4639642238616943]"
+pol_205f0170222c7f2ebbd51158d3ae3959,"@URL uwieczniłem to, kurwa za dobre xD 
+ 
+ prawak, debil, prawiczek xDDDDD",1,0,0,0,0,pol,"[LANG=pol] @URL uwieczniłem to, kurwa za dobre xD 
+ 
+ prawak, debil, prawiczek xDDDDD","[-1.3511327505111694, -3.551765203475952, -3.8391218185424805, -3.45172381401062, -3.8393778800964355]"
+pol_f1b62118ec2eb4313edf024bb3246a1c,"Dali mu placebo, bubel medyczny górnolotne zwany szczepionką 
+ i nastepne urojenie",1,0,0,0,1,pol,"[LANG=pol] Dali mu placebo, bubel medyczny górnolotne zwany szczepionką 
+ i nastepne urojenie","[-0.2481863647699356, -2.7020654678344727, -3.1330740451812744, -3.17085862159729, 0.05965332314372063]"
+pol_f034b109c157b133ec0627f54207ce5e,widziałeś ile mohery mają medalików? To jeden za każdą ustawke,1,0,1,0,1,pol,[LANG=pol] widziałeś ile mohery mają medalików? To jeden za każdą ustawke,"[1.3469948768615723, -0.9151215553283691, -2.605480909347534, -0.18538232147693634, 0.13283927738666534]"
+pol_243e788c6f01601016135e29a36dd591,"Lewak okradający ludzi. 
+ Czemu ja mam mu płacić?",1,0,0,0,0,pol,"[LANG=pol] Lewak okradający ludzi. 
+ Czemu ja mam mu płacić?","[2.1528499126434326, -1.7497613430023193, -3.1815223693847656, -3.07840895652771, -1.9522546529769897]"
+pol_e7b6211eb54931ca57936c67afd32c11,jesteś jednak debil i ułomek ( ͡º ͜ʖ͡º) stary a durny,0,0,0,0,0,pol,[LANG=pol] jesteś jednak debil i ułomek ( ͡º ͜ʖ͡º) stary a durny,"[-3.407257556915283, -3.0716989040374756, -4.701597213745117, -2.5267860889434814, -0.1708284169435501]"
+pol_c2aeef6c3d12fb1d731872eb7cd9f609,"pomyslec ze taki smiec po 25 latach wyjdzie I bedzie cieszyl sie zyciem, gdzie jest sprawiedliwosc !!!",0,0,0,0,0,pol,"[LANG=pol] pomyslec ze taki smiec po 25 latach wyjdzie I bedzie cieszyl sie zyciem, gdzie jest sprawiedliwosc !!!","[-0.1324186623096466, -2.154991626739502, -1.7990179061889648, -1.198538899421692, -1.049615740776062]"
+pol_6e34c0c00752a36b9d806375362be950,komendancie znaleźliśmy pięć beczek( ͡° ͜ʖ ͡°) itd.,0,0,0,0,0,pol,[LANG=pol] komendancie znaleźliśmy pięć beczek( ͡° ͜ʖ ͡°) itd.,"[-0.6706491708755493, -2.8539235591888428, -3.5450687408447266, -4.29620361328125, -2.9022037982940674]"
+pol_e7b592637bd92341a225d6585531d266,głupi huj niech zdycha albo się zwali z tego mostu,0,0,0,0,0,pol,[LANG=pol] głupi huj niech zdycha albo się zwali z tego mostu,"[-0.42853325605392456, -2.486586332321167, -3.4644227027893066, -3.6553313732147217, 0.5246423482894897]"
+pol_a902e166361624671d9ccf4fc42d8089,"po wojnie będzie druga fala młodych Ukraincow przyjeżdżających do Polski, a jak przy okazji Rosja upadnie to będzie fala Białorusinów zaraz za nimi.",1,1,0,0,0,pol,"[LANG=pol] po wojnie będzie druga fala młodych Ukraincow przyjeżdżających do Polski, a jak przy okazji Rosja upadnie to będzie fala Białorusinów zaraz za nimi.","[0.7037581205368042, 0.36224302649497986, -3.0161359310150146, -3.007856607437134, -2.209817886352539]"
+pol_9e68d09d5670d37905284fe66f46ae48,"mam nadzieję, że Kaja wam spali te flagi i niebieskie włosy.",1,0,0,1,0,pol,"[LANG=pol] mam nadzieję, że Kaja wam spali te flagi i niebieskie włosy.","[-1.487989068031311, -3.2472097873687744, -3.911098003387451, -3.5429697036743164, -2.9238221645355225]"
+pol_65cca90b1c5fec5e0d209166abd9142f,"Demokracja polega na tym, że głosujesz na tego, kto mi się podoba",0,0,0,0,0,pol,"[LANG=pol] Demokracja polega na tym, że głosujesz na tego, kto mi się podoba","[-1.8559898138046265, -3.141226291656494, -3.484825849533081, -3.686490058898926, -3.969651699066162]"
+pol_32f6453b781d0c2ab30071fda229da50,"Mamy to! Kolejna granica przebita. Teraz czekać na przyrost na poziomie 5 nowych kont na sekundę. 
+ 
+ #BlueSky",0,0,0,0,0,pol,"[LANG=pol] Mamy to! Kolejna granica przebita. Teraz czekać na przyrost na poziomie 5 nowych kont na sekundę. 
+ 
+ #BlueSky","[-3.4486093521118164, -3.4236996173858643, -4.003960609436035, -3.424567699432373, -3.6070120334625244]"
+pol_a1919168382094e2886a21af2c915c72,uwazaj smieciu zeby ciebie nie palowali ale szaro brunatni polski kmiocie i robaku,1,0,0,0,1,pol,[LANG=pol] uwazaj smieciu zeby ciebie nie palowali ale szaro brunatni polski kmiocie i robaku,"[0.14863580465316772, 0.8804370164871216, -1.9103212356567383, -2.1604278087615967, -1.2270641326904297]"
+pol_52886a202e715638ae6f008afe9dbfcf,niedlugo bedzie mozna wrzucac znaleziska jedynie z pudelka ( ͡° ʖ̯ ͡°),0,0,0,0,0,pol,[LANG=pol] niedlugo bedzie mozna wrzucac znaleziska jedynie z pudelka ( ͡° ʖ̯ ͡°),"[-2.782768487930298, -3.6792163848876953, -3.964003086090088, -3.5025651454925537, -3.7985949516296387]"
+pol_54ead784b45f68a83f87b66c9c7e31c0,"Oczywiście, na jesieni rząd PiS Konfa PSL.",0,0,0,0,0,pol,"[LANG=pol] Oczywiście, na jesieni rząd PiS Konfa PSL.","[1.1399837732315063, -3.1513783931732178, -2.7319090366363525, -3.1854681968688965, -2.901156187057495]"
+pol_c75a4bdaebdce19113a5c3fb28d3fcce,"Sam se kurwo wysyłaj nie namawiaj jak sie nie podobało to nie wysyłąć tylko dlatego ze Polak Rodak do kurwy nędzy 
+ #eurowizja",0,0,0,0,0,pol,"[LANG=pol] Sam se kurwo wysyłaj nie namawiaj jak sie nie podobało to nie wysyłąć tylko dlatego ze Polak Rodak do kurwy nędzy 
+ #eurowizja","[0.7557549476623535, 0.5471310615539551, -3.4185187816619873, -2.3999526500701904, -0.3878386318683624]"
+pol_639e3a426e2607b1e501bf3659c82a8a,"Przyjdzie czas, że pis wypuści nagranie. Pewnie nie całe, a jedynie fragmenty, które pomogą skompromitować szymonka jeszcze bardziej. Nie jest mi go żal. Za gupi jest zwyczajnie do polityki.",1,0,0,0,0,pol,"[LANG=pol] Przyjdzie czas, że pis wypuści nagranie. Pewnie nie całe, a jedynie fragmenty, które pomogą skompromitować szymonka jeszcze bardziej. Nie jest mi go żal. Za gupi jest zwyczajnie do polityki.","[1.815970540046692, -2.2468130588531494, -3.155089855194092, -2.5329954624176025, -1.8139234781265259]"
+pol_b0b9c12a4a4b543c60b696feb17395d8,"No właśnie. A na dziś, to ja widzę, że nasze elity szukają alibi żeby znów nic nie robić.",1,0,0,0,0,pol,"[LANG=pol] No właśnie. A na dziś, to ja widzę, że nasze elity szukają alibi żeby znów nic nie robić.","[1.8412293195724487, -3.063276529312134, -3.208843946456909, -2.13100528717041, -0.6929582357406616]"
+pol_3b05d4efbb44d3fd2fe597b8053bc02b,"Orban już dziś w Brukseli przebąkiwał coś o azylu. Tusk o tym wspominał 
+ @URL",0,0,0,0,0,pol,"[LANG=pol] Orban już dziś w Brukseli przebąkiwał coś o azylu. Tusk o tym wspominał 
+ @URL","[-2.061807632446289, -3.255319118499756, -3.6214358806610107, -3.6892359256744385, -3.720458984375]"
+pol_0e6f81837292cfaef9cb4b1cdf3ed542,"Spójrzmy na prawdę – Unia Europejska celowo osłabia naszą bezpieczeństwo energetyczne, niszczy nasze kopalnie węgla. To nie do zaakceptowania!",1,0,0,0,0,pol,"[LANG=pol] Spójrzmy na prawdę – Unia Europejska celowo osłabia naszą bezpieczeństwo energetyczne, niszczy nasze kopalnie węgla. To nie do zaakceptowania!","[1.891821026802063, -0.35098177194595337, -2.77278208732605, -2.5627334117889404, -0.26882484555244446]"
+pol_5bb2eed5f3672633e0fdb161dc7e59d1,"Czyli jeśli lewica głosuje na prawicę, to podstawmy im Giertycha. Ma to sens...😂",0,0,0,0,0,pol,"[LANG=pol] Czyli jeśli lewica głosuje na prawicę, to podstawmy im Giertycha. Ma to sens...😂","[1.0798052549362183, -2.2840816974639893, -3.0874850749969482, -3.4338150024414062, -2.4921576976776123]"
+pol_3cef61851a9f3d19c1b6369eda06b7e7,"ah te teksty elity tego portalu, mamie tak powiedz na pewno sie ucieszy ze ma syna debila",0,0,0,0,0,pol,"[LANG=pol] ah te teksty elity tego portalu, mamie tak powiedz na pewno sie ucieszy ze ma syna debila","[-1.4753400087356567, -3.4487717151641846, -3.9153082370758057, -2.3026649951934814, 0.6932268142700195]"
+pol_4479650169d8b8af8d911a2537ccf1d0,"Hejka. 
+ 
+ Kapitał już my przewali 1.06 
+ Teraz czysty komunizm będzie z kapitalistami kaczyńskiego.",1,0,0,0,0,pol,"[LANG=pol] Hejka. 
+ 
+ Kapitał już my przewali 1.06 
+ Teraz czysty komunizm będzie z kapitalistami kaczyńskiego.","[2.5467395782470703, -1.6764286756515503, -3.0887694358825684, -2.5836212635040283, -1.6827601194381714]"
+pol_7cee91008bceca8dd05fba58ae9c02c6,Przełożony wkurzony że nie dostał swojej części to ich wystawił....,0,0,0,0,0,pol,[LANG=pol] Przełożony wkurzony że nie dostał swojej części to ich wystawił....,"[-0.21610793471336365, -3.4753201007843018, -3.9975509643554688, -3.22243070602417, -1.5437554121017456]"
+pol_620f316af000fd207f306141845c84a4,I to mnie bardzo niepokoi. Bardzo. Bardziej niż sfałszowane wybory i niechęć do wyjaśnienia.,0,0,0,0,0,pol,[LANG=pol] I to mnie bardzo niepokoi. Bardzo. Bardziej niż sfałszowane wybory i niechęć do wyjaśnienia.,"[-1.210538625717163, -3.419456958770752, -3.8683230876922607, -4.028078556060791, -3.1480777263641357]"
+pol_2d490b8bf822ee8adfaf4fdc653f188c,"Skandal! 
+ Chyba podam się do dymisji",0,0,0,0,0,pol,"[LANG=pol] Skandal! 
+ Chyba podam się do dymisji","[-2.98526930809021, -3.737236261367798, -4.1983418464660645, -3.944772958755493, -2.645033121109009]"
+pol_64a11415746c6ab6589c296e2093d541,"Chętnie pojechałbym tam ze swoją wiatrówką i trochę postrzelał do migrantów, nauczył ich moresu",0,1,0,0,0,pol,"[LANG=pol] Chętnie pojechałbym tam ze swoją wiatrówką i trochę postrzelał do migrantów, nauczył ich moresu","[-1.5690503120422363, -0.49839073419570923, -3.5605833530426025, -3.365058183670044, -3.210665464401245]"
+pol_8a6f3d06d843c19af091c976d105666b,to jest kwota netto - jeszcze podatek za to mamy płacić? halo jak to? chcecie zarabiać na tym jeszcze? jaki to jest zysk?,0,0,0,0,0,pol,[LANG=pol] to jest kwota netto - jeszcze podatek za to mamy płacić? halo jak to? chcecie zarabiać na tym jeszcze? jaki to jest zysk?,"[-3.4146220684051514, -3.332784652709961, -4.221261978149414, -4.1278815269470215, -3.062979221343994]"
+pol_0f01e862574e602c7c198babd3b5eb7b,"Zełenski z życzeniami świątecznymi. Prezydent zapalił świece chanukowe. „To już trzecie święta w czasie wojny” 
+ #Zelensky #Ukraina #UkraineWar #ukraine",0,0,0,0,0,pol,"[LANG=pol] Zełenski z życzeniami świątecznymi. Prezydent zapalił świece chanukowe. „To już trzecie święta w czasie wojny” 
+ #Zelensky #Ukraina #UkraineWar #ukraine","[-2.986896276473999, -3.1542980670928955, -3.817063808441162, -3.9973442554473877, -3.731191396713257]"
+pol_729062314f3a655898d173ce48ce382f,"Ciekawe czy dostanie to na co zasłużył ?? Gdzie jest urząd skarbowy, kto zapłacił podatek od tego( o ile zapłacił ).🤫",0,0,0,0,0,pol,"[LANG=pol] Ciekawe czy dostanie to na co zasłużył ?? Gdzie jest urząd skarbowy, kto zapłacił podatek od tego( o ile zapłacił ).🤫","[-2.574483633041382, -3.8966856002807617, -3.7562716007232666, -3.7749452590942383, -3.2170560359954834]"
+pol_82045ed5004130e2369e652cd2fa92f0,"Politycy PO chyba przywykli do tego, że naród przyjdzie i zrobi.",1,0,0,0,0,pol,"[LANG=pol] Politycy PO chyba przywykli do tego, że naród przyjdzie i zrobi.","[1.2971904277801514, -2.790800094604492, -3.1159608364105225, -3.1365909576416016, -2.3437728881835938]"
+pol_3fec88ac0e2f39c88b26b9d0270c0af4,"protip: USA to duży i bogaty kraj, pomoc jednym nie wyklucza pomocy drugim 
+ 
+ Pierdolenie Nazwisko to jest zwykła prorosyjska propaganda śmieci z MAGA.",1,1,0,0,0,pol,"[LANG=pol] protip: USA to duży i bogaty kraj, pomoc jednym nie wyklucza pomocy drugim 
+ 
+ Pierdolenie Nazwisko to jest zwykła prorosyjska propaganda śmieci z MAGA.","[2.7108476161956787, 0.9675025939941406, -1.6174805164337158, -1.9738471508026123, -1.3934499025344849]"
+pol_e222c31e8f3240b230a6a54441c65e7a,Twoj ksiadz chce zeby dzieci braly do paszczy jego pindola. Normalnosc wiejska? Wspolczuje ci chlopie strasznie...,0,0,1,0,0,pol,[LANG=pol] Twoj ksiadz chce zeby dzieci braly do paszczy jego pindola. Normalnosc wiejska? Wspolczuje ci chlopie strasznie...,"[-1.216321349143982, -2.007965087890625, -4.377577781677246, -0.9463809132575989, -0.20450402796268463]"
+pol_e7f5b5457265c8aea8651b9c28aa02ef,przed zejściem ze sceny PIS chce zdążyć narobić mieszkańcom Lublina w na wycieraczkę,1,0,0,0,0,pol,[LANG=pol] przed zejściem ze sceny PIS chce zdążyć narobić mieszkańcom Lublina w na wycieraczkę,"[2.0790369510650635, -2.574704885482788, -2.790041208267212, -2.844074010848999, -2.237807512283325]"
+pol_0aa341fde4137bbd15e47b5da1280003,ciekawe czy czytanie encyklik papieża jest elementem każdej terapii.,0,0,0,0,0,pol,[LANG=pol] ciekawe czy czytanie encyklik papieża jest elementem każdej terapii.,"[-3.0901784896850586, -3.7286741733551025, -3.8955376148223877, -3.4985053539276123, -3.514091730117798]"
+pol_6ae660c6f8b838b5945d0fd5303c95ff,Twoja stara skakała gołą pizdą z 3 piętra na obspermiony przez psa hydrant i wyszedł taki pies jak ty,0,0,0,0,0,pol,[LANG=pol] Twoja stara skakała gołą pizdą z 3 piętra na obspermiony przez psa hydrant i wyszedł taki pies jak ty,"[-2.3153295516967773, -4.167006969451904, -4.642892837524414, -2.6558988094329834, -2.13657546043396]"
+pol_b38f8064ed4792fde9fd11bdc2271e26,"Nie miała przyjemności z tego rżnięcia , więc to był gwałt .",0,0,0,1,0,pol,"[LANG=pol] Nie miała przyjemności z tego rżnięcia , więc to był gwałt .","[-2.9501242637634277, -4.103720188140869, -3.9627602100372314, -1.7162061929702759, -2.926971197128296]"
+pol_8cbe3721fccc18983e76dedb8044b20d,"Ukraiński dron zaatakował na zaanektowanym Krymie statek ""Fedor Uriupin"" - przekazał niezależny, rosyjskojęzyczny kanał na Telegramie ""Krymski Wiatr"". 
+ 
+ Szczegóły ⤵️ 
+ @URL",0,0,0,0,0,pol,"[LANG=pol] Ukraiński dron zaatakował na zaanektowanym Krymie statek ""Fedor Uriupin"" - przekazał niezależny, rosyjskojęzyczny kanał na Telegramie ""Krymski Wiatr"". 
+ 
+ Szczegóły ⤵️ 
+ @URL","[-2.7807652950286865, -3.202227830886841, -3.7681186199188232, -3.931079626083374, -3.726267099380493]"
+pol_c2cadfa64213d3649f04f5acdaa64f4a,"Gdzie sa feministki z marszu szmat? Gdzie jest Nazwisko Gdzie jest Nazwisko Niech walcza o rownosc kobiet w Afganistanie, jebane ksiezniczki",1,1,0,1,0,pol,"[LANG=pol] Gdzie sa feministki z marszu szmat? Gdzie jest Nazwisko Gdzie jest Nazwisko Niech walcza o rownosc kobiet w Afganistanie, jebane ksiezniczki","[1.4569467306137085, -0.15126417577266693, 0.31371164321899414, 2.268123149871826, -1.0649932622909546]"
+pol_f23b03a575d47397b3077924cf9610f2,"On nie jest Posłem na Sejm, może mu zostać odebrana przepustka!",0,0,0,0,0,pol,"[LANG=pol] On nie jest Posłem na Sejm, może mu zostać odebrana przepustka!","[-1.6558023691177368, -3.589674234390259, -3.908496141433716, -4.146522045135498, -3.0641729831695557]"
+pol_dc2b630379a6d5e905295dfeb2262706,"tak, ale oczywiście nie tobie, odpadzie społeczny",0,0,0,0,0,pol,"[LANG=pol] tak, ale oczywiście nie tobie, odpadzie społeczny","[-0.8313924074172974, -1.9818109273910522, -3.6406192779541016, -3.236382246017456, -0.288489431142807]"
+pol_7f86246e9946c228cac28a4f717bdcc9,"Zgłosił się na ochotnika na wojnę i dosłużył podoficera, nie był zawodowcem. 
+ 
+ Zresztą jedźmy dalej, Lenin czy Stalin nie byli żołnierzami.",0,0,0,0,0,pol,"[LANG=pol] Zgłosił się na ochotnika na wojnę i dosłużył podoficera, nie był zawodowcem. 
+ 
+ Zresztą jedźmy dalej, Lenin czy Stalin nie byli żołnierzami.","[-2.9865994453430176, -3.2240865230560303, -4.046618461608887, -4.062839984893799, -3.528003215789795]"
+pol_371c28e951aeffba2ffe27c28aac1973,W finale Pucharu Polski Legia Warszawa za silna dla Pogoni Szczecin. 50 tys. widzów obejrzało siedem goli #Wyborcza @URL,0,0,0,0,0,pol,[LANG=pol] W finale Pucharu Polski Legia Warszawa za silna dla Pogoni Szczecin. 50 tys. widzów obejrzało siedem goli #Wyborcza @URL,"[-3.4940345287323, -3.066301107406616, -4.421069145202637, -3.891075611114502, -3.0568559169769287]"
+pol_2c3c0fad5e696b4f19303ffc884d7f03,będziesz frajerze spierdalal za Odrę to będziesz takie wysrywy po niemiecku krytykował,0,0,0,0,0,pol,[LANG=pol] będziesz frajerze spierdalal za Odrę to będziesz takie wysrywy po niemiecku krytykował,"[0.9794844388961792, 0.18322022259235382, -3.430493116378784, -2.98773455619812, -1.3823105096817017]"
+pol_1bee28be1fb63fd825dad0aaff0f5342,Fajnie by bylo jakby cie rozjechał ale nie zabil a zrobil kaleka. Ale by byla beka co? A teraz usun konto.,0,0,0,0,0,pol,[LANG=pol] Fajnie by bylo jakby cie rozjechał ale nie zabil a zrobil kaleka. Ale by byla beka co? A teraz usun konto.,"[-2.1207151412963867, -2.3418190479278564, -3.3582799434661865, -1.6759965419769287, -1.0281494855880737]"
+pol_b02a48e8280f9d9d6b413f5da3bd7533,bo nie istnieje śmieciu,0,0,0,0,0,pol,[LANG=pol] bo nie istnieje śmieciu,"[-3.151736259460449, -3.7810943126678467, -4.218177795410156, -2.9529459476470947, -3.34855055809021]"
+pol_48979a3fc7178e988837157ea00a9661,Jeszcze odprawa i się nie znamy.,0,0,0,0,0,pol,[LANG=pol] Jeszcze odprawa i się nie znamy.,"[-3.33603572845459, -3.3310327529907227, -3.958516836166382, -3.7202186584472656, -3.638929605484009]"
+pol_9407334793e89e0398d88fcc7b4cd17d,"klasyk, ""ruscy gorsi od niemców"". Siebie warte bandy skurwysynów i bydła, tym były obie strony wtedy. 
+ Ludobojstwo i zbrodnicze plany po obu stronach.",1,1,0,0,1,pol,"[LANG=pol] klasyk, ""ruscy gorsi od niemców"". Siebie warte bandy skurwysynów i bydła, tym były obie strony wtedy. 
+ Ludobojstwo i zbrodnicze plany po obu stronach.","[1.622501015663147, 1.5236117839813232, -2.331347942352295, -2.3920209407806396, -0.8002323508262634]"
+pol_c915eb843a8f13f55d6443efb827c69b,W 2015r to właśnie lewicy dziękujemy za załatwienie samodzielnych rządów PiS.,1,0,0,0,0,pol,[LANG=pol] W 2015r to właśnie lewicy dziękujemy za załatwienie samodzielnych rządów PiS.,"[1.196919560432434, -3.1502487659454346, -2.922060251235962, -3.101865530014038, -2.8722498416900635]"
+pol_4f624b88fb9a538e30279da6204cab14,"Przygotujcie dooopki, jak nie wygra mentzen, bo pis nas tak dobrze nie zdążył wyr uch ać jak nas prze pier doli PO z Rafałkiem na czele",1,0,0,0,0,pol,"[LANG=pol] Przygotujcie dooopki, jak nie wygra mentzen, bo pis nas tak dobrze nie zdążył wyr uch ać jak nas prze pier doli PO z Rafałkiem na czele","[2.120521306991577, -1.9919631481170654, -2.3951423168182373, -1.7842228412628174, -2.6300175189971924]"
+pol_1bb95195508a591295dddba6d7b18a49,"> Idź zmywać gary lewaczko 
+ 
+ jestem inżynierem, a poza tym nie ma nic złego w zmywaniu... p0laczku robaczku",1,0,0,1,0,pol,"[LANG=pol] > Idź zmywać gary lewaczko 
+ 
+ jestem inżynierem, a poza tym nie ma nic złego w zmywaniu... p0laczku robaczku","[2.359658718109131, -2.2140579223632812, -2.622415542602539, -1.485906958580017, -1.6706792116165161]"
+pol_8ebdaee60358a13c0c73980590e5ebc0,"ICEYE będzie dostarczać dane satelitarne SAR Centrum Sytuacyjnemu NATO 
+ @URL",0,0,0,0,0,pol,"[LANG=pol] ICEYE będzie dostarczać dane satelitarne SAR Centrum Sytuacyjnemu NATO 
+ @URL","[-3.0057213306427, -3.423020601272583, -4.040727615356445, -4.1165452003479, -3.3713557720184326]"
+pol_9617e518dd02897b2cff9f7193f333d7,moj wydzial zrobil prawybory i z 208 zebranych glosow 111 bylo na zandberga dosyc funny wyniki bo nastepny byl trzaskowski chyba z 30 jakos i think,0,0,0,0,0,pol,[LANG=pol] moj wydzial zrobil prawybory i z 208 zebranych glosow 111 bylo na zandberga dosyc funny wyniki bo nastepny byl trzaskowski chyba z 30 jakos i think,"[-3.2884860038757324, -3.285900592803955, -4.024471282958984, -3.700213670730591, -3.703455924987793]"
+pol_5d5b0da9e56b9e422ce24d0902fa4efc,"- Unia Europejska przekształciła się w biurokratycznego potwora, który wykorzystuje słabsze kraje do własnych celów.",1,0,0,0,0,pol,"[LANG=pol] - Unia Europejska przekształciła się w biurokratycznego potwora, który wykorzystuje słabsze kraje do własnych celów.","[1.92868971824646, -1.246166467666626, -3.7322189807891846, -2.871478796005249, -0.5899699926376343]"
+pol_970366a57d3642ec74c08b5a45f53480,jesteś pizda i tchórzem,0,0,0,0,0,pol,[LANG=pol] jesteś pizda i tchórzem,"[-1.966691255569458, -1.6623268127441406, -2.368863821029663, -2.1885883808135986, 1.268591046333313]"
+pol_ba57309ea1d2a62a69d6ae8a76d282b9,Nic się nie zmieniło oprócz tego że młodzież jest coraz bardziej bezczelna a inicjacja alkoholowa i seksualna zaczyna się w coraz młodszym wieku.,0,0,0,0,1,pol,[LANG=pol] Nic się nie zmieniło oprócz tego że młodzież jest coraz bardziej bezczelna a inicjacja alkoholowa i seksualna zaczyna się w coraz młodszym wieku.,"[-1.5969425439834595, -3.6371936798095703, -3.190547466278076, -0.23631742596626282, -3.12427020072937]"
+pol_6055c3ae6da28a14ca3f6006268408fa,siedział w więzieniu i go gwałcili codziennie... Brakuje mu w nicku po literach cw litery e......,0,0,0,0,0,pol,[LANG=pol] siedział w więzieniu i go gwałcili codziennie... Brakuje mu w nicku po literach cw litery e......,"[-1.9978281259536743, -3.116048812866211, -4.565464019775391, -3.504807710647583, -2.226637125015259]"
+pol_9141da0be2a1e37b1b894b42e0f53009,"i np. w wyniku przeliczenia okaże się, że Nawrocki wygrał (lub ""wygrał"") z jeszcze większą przewagą :) 
+ 
+ co za chujnia",1,0,0,0,0,pol,"[LANG=pol] i np. w wyniku przeliczenia okaże się, że Nawrocki wygrał (lub ""wygrał"") z jeszcze większą przewagą :) 
+ 
+ co za chujnia","[0.9782863855361938, -1.760655164718628, -3.2052457332611084, -3.1207363605499268, -2.0109989643096924]"
+pol_f072c0fd9b468823e9ebce45781e52a6,"Chuja nie ma trenera,przciez to nie rezerwy finladii do chuja,deptaja nas jak amatorow 
+ #mecz",0,0,0,0,0,pol,"[LANG=pol] Chuja nie ma trenera,przciez to nie rezerwy finladii do chuja,deptaja nas jak amatorow 
+ #mecz","[-0.43252137303352356, -0.9323074221611023, -4.176501750946045, -3.117173910140991, 1.3454291820526123]"
+pol_775490f2bf8ae6cc01c63c246411cdac,Ten prawacki śmieć Matecki został wyautowany na X-ie 😂,1,0,0,0,0,pol,[LANG=pol] Ten prawacki śmieć Matecki został wyautowany na X-ie 😂,"[2.463136672973633, -2.6964797973632812, -2.934011697769165, -1.0855869054794312, -1.4571090936660767]"
+pol_5ae36a7374573923159f8ddb71aee296,"nie prościej napisać: ""jestem za głupi, żeby to zrozumieć"" ?",0,0,0,0,0,pol,"[LANG=pol] nie prościej napisać: ""jestem za głupi, żeby to zrozumieć"" ?","[-3.108912706375122, -3.252476215362549, -4.1363420486450195, -3.2006194591522217, -3.1444051265716553]"
+pol_088a333a7d1821a8ec4e0d91636ec8b6,Jens Stoltenberg - były premier Norwegii i sekretarz generalny NATO.,0,0,0,0,0,pol,[LANG=pol] Jens Stoltenberg - były premier Norwegii i sekretarz generalny NATO.,"[-2.743252754211426, -3.3667852878570557, -3.805567979812622, -3.5202243328094482, -3.8792755603790283]"
+pol_437caf5fe3dcc5fc5a5452410980775d,"Czepiasz się, Bosak powiedział u Olejnik, ża Alfons jest lepszy bo chodzi do siłowni‼️",1,0,0,0,0,pol,"[LANG=pol] Czepiasz się, Bosak powiedział u Olejnik, ża Alfons jest lepszy bo chodzi do siłowni‼️","[-1.0236291885375977, -3.4520928859710693, -3.901928424835205, -3.7455172538757324, -2.988964080810547]"
+pol_d3773dea175bb01200504d917ae6364a,Sowiecki smiec. Deportowac to scierwo za Ural.,1,1,0,0,0,pol,[LANG=pol] Sowiecki smiec. Deportowac to scierwo za Ural.,"[1.8291531801223755, 0.39521074295043945, -2.8381664752960205, -2.940603733062744, -1.722353458404541]"
+pol_9332085108ebc5390b4768580899a9b9,">Światowa organizacja żydowska zaniepokojona nominacją Adama Nazwisko 
+ 
+ Nie no ja rozumiem la teraz to was już całkiem popierdoliło.",1,1,1,0,1,pol,"[LANG=pol] >Światowa organizacja żydowska zaniepokojona nominacją Adama Nazwisko 
+ 
+ Nie no ja rozumiem la teraz to was już całkiem popierdoliło.","[-0.10990546643733978, -0.7172014713287354, -0.14590588212013245, -3.392505407333374, -2.998462200164795]"
+pol_f2600a2c38da8821dc484595375d999b,"Twojej matce odbyt wypadł, za duzo w dupe :P",0,0,0,0,0,pol,"[LANG=pol] Twojej matce odbyt wypadł, za duzo w dupe :P","[-1.975152850151062, -2.5082409381866455, -4.435503959655762, -3.2104084491729736, -1.3661463260650635]"
+pol_e3dca869f7d1ff003bbbb2baf9f2a9c2,o zobacz - już im stawkę zwiększam - 2krony budżet roczny USA do oddania za każdy rok aneksji Krymu i innych terytoriów - wychodzi mi 20 trylionów amerykańskich dolarów,1,0,0,0,0,pol,[LANG=pol] o zobacz - już im stawkę zwiększam - 2krony budżet roczny USA do oddania za każdy rok aneksji Krymu i innych terytoriów - wychodzi mi 20 trylionów amerykańskich dolarów,"[-0.737788200378418, -2.375863790512085, -3.7795400619506836, -4.314029216766357, -3.4085559844970703]"
+pol_059846a4b94085ff11c1132505879dc0,"Serio, dalej LGBT, czy samo T? 
+ Bo w USA LGB jest już super, bo Peter Thiel ma meża.",0,0,0,1,0,pol,"[LANG=pol] Serio, dalej LGBT, czy samo T? 
+ Bo w USA LGB jest już super, bo Peter Thiel ma meża.","[-0.4154234528541565, -2.9103989601135254, -2.4303066730499268, 1.5658127069473267, -2.2300865650177]"
+pol_c67a93554df5a705e1b0b6c110b3bf0c,"(╯°□°）╯︵ ┻━┻ 
+ 
+ 
+ 
+ 
+ Zabije tego który to usunął (╯°□°）╯︵ ┻━┻",0,0,0,0,0,pol,"[LANG=pol] (╯°□°）╯︵ ┻━┻ 
+ 
+ 
+ 
+ 
+ Zabije tego który to usunął (╯°□°）╯︵ ┻━┻","[-0.6979515552520752, -1.4718135595321655, -3.373267412185669, -0.7494480609893799, -0.8570501804351807]"
+pol_63d20f66942ff89bfb7820895591af42,"Skandal na premierze filmu ""Śmierć Zygielbojma"". Reżyser zarzucił władzy oraz #PFN, która była jednym ze sponsorów produkcji, manipulacje, kłamstwa i sprowadzanie jego filmu do ""kina rządowej propagandy"". 
+ #propaganda 
+ #Gliński 
+ 
+ @URL",0,0,0,0,0,pol,"[LANG=pol] Skandal na premierze filmu ""Śmierć Zygielbojma"". Reżyser zarzucił władzy oraz #PFN, która była jednym ze sponsorów produkcji, manipulacje, kłamstwa i sprowadzanie jego filmu do ""kina rządowej propagandy"". 
+ #propaganda 
+ #Gliński 
+ 
+ @URL","[-0.24480965733528137, -3.2617125511169434, -4.024425506591797, -3.5370168685913086, -2.454280138015747]"
+pol_ba920cdf920ef1dcb032d81a9a8653f7,Dopiero odpaliłem komórkę... czy #Nawrocki już dzisiaj kogoś wydymał? 🤔,1,0,0,0,0,pol,[LANG=pol] Dopiero odpaliłem komórkę... czy #Nawrocki już dzisiaj kogoś wydymał? 🤔,"[0.4156876802444458, -3.183012008666992, -3.3802716732025146, -3.5638067722320557, -2.6337358951568604]"
+pol_2cbb0653b0ecd52a349b30f57ffa8e2b,Szkoda pary na tego śmiecia Nazwisko TO typowy P0lak ma satysfakcje teraz i orgazm że ktoś się pomylił a on wiedział. J*bać takich.,0,1,0,0,0,pol,[LANG=pol] Szkoda pary na tego śmiecia Nazwisko TO typowy P0lak ma satysfakcje teraz i orgazm że ktoś się pomylił a on wiedział. J*bać takich.,"[-1.004231572151184, -3.227745771408081, -3.84385085105896, 0.30088770389556885, -0.48400768637657166]"
+pol_3d51cccbea3d8f30427c1d7ea7573c79,"Nie możemy mieć wątpliwości, jeśli Izrael nie zostanie zatrzymany nie zatrzyma się przez kolejne 600 dni i dłużej! 8/",1,0,0,0,0,pol,"[LANG=pol] Nie możemy mieć wątpliwości, jeśli Izrael nie zostanie zatrzymany nie zatrzyma się przez kolejne 600 dni i dłużej! 8/","[1.376296877861023, -0.6368014812469482, -1.4609678983688354, -2.8592429161071777, -2.2670109272003174]"
+pol_a40a56465de2f5d2b48b3f79a1b080ec,zadowolony jestes lewacki szczurze ?,1,0,0,0,0,pol,[LANG=pol] zadowolony jestes lewacki szczurze ?,"[2.479609966278076, -1.6587104797363281, -1.7860455513000488, -1.9318441152572632, -2.2721474170684814]"
+pol_f02c84d54322544a65a1a9ccadebb788,"No nie, PiS chyba nie sugeruje, że nie uznaje wschodniej granicy?",0,0,0,0,0,pol,"[LANG=pol] No nie, PiS chyba nie sugeruje, że nie uznaje wschodniej granicy?","[-1.047739863395691, -3.2264297008514404, -3.393272638320923, -3.564572811126709, -3.496269941329956]"
+pol_04241aa895d7e9236da43966b0d2a82b,chodzi mi o wspieranie gospodarcze tego konia trojańskiego.,0,0,0,0,0,pol,[LANG=pol] chodzi mi o wspieranie gospodarcze tego konia trojańskiego.,"[0.4296325147151947, -1.7188855409622192, -2.4178688526153564, -3.5433804988861084, -0.263060599565506]"
+pol_345f128f562366380b02b07518b11415,Już Hitler to wiedział do czego są wybrani,0,1,1,0,1,pol,[LANG=pol] Już Hitler to wiedział do czego są wybrani,"[0.9189920425415039, -2.7959444522857666, -3.2285830974578857, -3.67395281791687, -1.7414472103118896]"
+pol_888f3f7cf21e384d79dc7f597a5121a6,"Ukraina od zawsze była bardziej związana z Rosją niż z Polską. Nie możemy pozwolić, aby nasze pieniądze przepadały na jej utrzymanie.",1,1,0,0,0,pol,"[LANG=pol] Ukraina od zawsze była bardziej związana z Rosją niż z Polską. Nie możemy pozwolić, aby nasze pieniądze przepadały na jej utrzymanie.","[1.7300702333450317, 1.5354630947113037, -1.843972086906433, -2.5467100143432617, -0.8434233665466309]"
+pol_624d7cc7b67b9c1f73bbdb071ae97f00,I właśnie dlatego trzeba na nich nałożyć takie sankcje by zdechli z głodu.,1,1,0,0,1,pol,[LANG=pol] I właśnie dlatego trzeba na nich nałożyć takie sankcje by zdechli z głodu.,"[1.1261191368103027, -1.3788402080535889, -3.391695022583008, -3.00630784034729, -0.6341651082038879]"
+pol_9b31006cf756412c77c61b1e6d2b52e5,Po co tak agresywnie atakujesz ślinianki😋,0,0,0,0,0,pol,[LANG=pol] Po co tak agresywnie atakujesz ślinianki😋,"[-2.93496036529541, -4.120167255401611, -3.8595876693725586, -1.944146752357483, -3.0696218013763428]"
+pol_c4870935d1a5016f9069028dab73c1c8,"Prezydent Andrzej Duda podpisał budżet na 2025 r. oraz przesłał część przypisów do Trybunału Konstytucyjnego w trybie kontroli następczej. 
+ @URL",0,0,0,0,0,pol,"[LANG=pol] Prezydent Andrzej Duda podpisał budżet na 2025 r. oraz przesłał część przypisów do Trybunału Konstytucyjnego w trybie kontroli następczej. 
+ @URL","[-2.543480396270752, -3.3328700065612793, -3.7228360176086426, -3.4765431880950928, -3.6237807273864746]"
+pol_3db71128c47dfdbec7b16fd5d4460656,Świętują wygrane wybory na X ! 🥹,0,0,0,0,0,pol,[LANG=pol] Świętują wygrane wybory na X ! 🥹,"[-1.6931747198104858, -3.7646000385284424, -3.438546657562256, -3.1939711570739746, -3.5813636779785156]"
+pol_af714fd0657776e7ae0754e3a9c29344,"Zwykły marny troll, po co wykop o tym zj***e?",0,0,0,0,0,pol,"[LANG=pol] Zwykły marny troll, po co wykop o tym zj***e?","[-1.71926748752594, -2.7182199954986572, -3.9821810722351074, -2.58465838432312, 0.20606975257396698]"
+pol_a402f70b5bf1b5bfcf6c57903f240f59,Znalazłeś wśród 900 wykopujących 4 idiotów. Co to właściwie udowadnia i jaki ma cel?,0,0,0,0,0,pol,[LANG=pol] Znalazłeś wśród 900 wykopujących 4 idiotów. Co to właściwie udowadnia i jaki ma cel?,"[-1.844875454902649, -2.6843292713165283, -4.208178520202637, -3.192456007003784, -1.169319987297058]"
+pol_e54f61dda514747c116c2879ffc27ead,Sieg Heil ty polsko ukraińska kurwo.,1,1,0,0,0,pol,[LANG=pol] Sieg Heil ty polsko ukraińska kurwo.,"[-3.0878658294677734, -2.738784074783325, -4.061461448669434, -3.8705005645751953, -3.751267671585083]"
+pol_6ce65bf378a2027718ebaa4db794a0ba,Papież zaapelował i broń ucichła.... 🤣🤣🤣,0,0,0,0,0,pol,[LANG=pol] Papież zaapelował i broń ucichła.... 🤣🤣🤣,"[-2.2266058921813965, -3.3146543502807617, -3.306000232696533, -3.6109466552734375, -4.047433853149414]"
+pol_8a5b28549920850dbd62a435ebc8b91e,"Cześć uchodźcy z X. Jeśli szukacie twórców treści dla dorosłych o tematyce #gay, zebrałem ich wielu na @USER . Mam nadzieję, że znajdziecie to, co Wam się spodoba.",0,0,0,1,1,pol,"[LANG=pol] Cześć uchodźcy z X. Jeśli szukacie twórców treści dla dorosłych o tematyce #gay, zebrałem ich wielu na @USER . Mam nadzieję, że znajdziecie to, co Wam się spodoba.","[-2.213285446166992, -2.2516591548919678, -3.3487744331359863, -0.2731194496154785, -3.566659688949585]"
+pol_8e77f5b37997e289aebfa31236bc9d41,ja tam jestem za tym by ich lać pałami:),0,0,0,0,1,pol,[LANG=pol] ja tam jestem za tym by ich lać pałami:),"[-2.0022315979003906, -2.3501675128936768, -3.962958335876465, -3.0416033267974854, -1.6849528551101685]"
+pol_ace6c952edbd3c9d15d202c57671135e,"Protest składać i remis będzie . Sędziowie jebnieci następni 
+ #famemma",0,0,0,0,0,pol,"[LANG=pol] Protest składać i remis będzie . Sędziowie jebnieci następni 
+ #famemma","[0.5677831768989563, -1.8013149499893188, -3.1321582794189453, -2.550567865371704, 0.8990215063095093]"
+pol_5df220cefd6f82eab7c9efa1cedfe542,"Jeden najeźdźca i dwóch wygranych, a Ukraina pogrzebana, żywcem, przez dwóch wygranych🤮",1,0,0,0,0,pol,"[LANG=pol] Jeden najeźdźca i dwóch wygranych, a Ukraina pogrzebana, żywcem, przez dwóch wygranych🤮","[1.9874337911605835, 0.4410393238067627, -2.5787250995635986, -2.40124249458313, -1.591140866279602]"
+pol_38033e6506bedec3d8eb54d9a09ce6fa,"hahah co za idiotka. 
+ Dzięki Bogu w internecie nic nie ginie :-D",0,0,0,0,0,pol,"[LANG=pol] hahah co za idiotka. 
+ Dzięki Bogu w internecie nic nie ginie :-D","[-3.8963840007781982, -3.279737710952759, -3.2007105350494385, -2.978656768798828, -2.384728193283081]"
+pol_2f9c6636efb493d4aeb733a5a417aa8e,"ano właśnie. I ot cała tajemnica. Silni wobec słabych, słabi wobec silnych i nie mówię teraz o policji ¯\(ツ)/¯",0,0,0,0,0,pol,"[LANG=pol] ano właśnie. I ot cała tajemnica. Silni wobec słabych, słabi wobec silnych i nie mówię teraz o policji ¯\(ツ)/¯","[-0.7131471633911133, -3.19277024269104, -3.7397656440734863, -3.4086053371429443, -2.0751430988311768]"
+pol_e02850f9fa72467d3b96a178feb39185,"Zasiegi tutaj nie są najepsze, dobrzy ludzie zapostujcie to też w innych socjal mediach. To jest skandal jak w masowych mediach próbują robić z niego wariata.",0,0,0,0,0,pol,"[LANG=pol] Zasiegi tutaj nie są najepsze, dobrzy ludzie zapostujcie to też w innych socjal mediach. To jest skandal jak w masowych mediach próbują robić z niego wariata.","[0.24082733690738678, -2.547783136367798, -2.926417112350464, -3.3055107593536377, 1.3380461931228638]"
+pol_74cc694b45e476fe2e0e830e7e35bf1a,no chyba jednak ty xD,0,0,0,0,0,pol,[LANG=pol] no chyba jednak ty xD,"[-3.6957035064697266, -3.501094102859497, -4.045073509216309, -3.5826046466827393, -3.3482887744903564]"
+pol_58c552a72be2dbb5df3121a394387493,Geje w moim serku???? WOKE DANIO?!?!?!?,0,0,0,1,0,pol,[LANG=pol] Geje w moim serku???? WOKE DANIO?!?!?!?,"[-1.9233366250991821, -1.4157874584197998, -2.9588191509246826, -1.6107209920883179, -2.0602288246154785]"
+pol_5de204dd10849c190de16835e7f36170,"1 podstawowa różnica: 
+ wśród chrześcijan homoseksualiści będą tolerowani (nie akceptowani), wśród muzułmanów będą zabijani 
+ 
+ Także przestań robić kurwę z logiki",1,1,1,1,0,pol,"[LANG=pol] 1 podstawowa różnica: 
+ wśród chrześcijan homoseksualiści będą tolerowani (nie akceptowani), wśród muzułmanów będą zabijani 
+ 
+ Także przestań robić kurwę z logiki","[0.1471826583147049, -0.5774835348129272, 1.4602935314178467, 1.340890645980835, -2.515394449234009]"
+pol_fc6e1d96e265acc0af7e6c3f013a7113,"Na pewno ta debata opłaca się obu strona bo pokazuje, że wybór jest tylko między PiS i PO.",0,0,0,0,0,pol,"[LANG=pol] Na pewno ta debata opłaca się obu strona bo pokazuje, że wybór jest tylko między PiS i PO.","[0.6006852984428406, -3.4478771686553955, -2.8446905612945557, -2.899890661239624, -2.9341304302215576]"
+pol_7dbd0156c2d3cc58f52ca98e36d2a6b6,"🍃 Wspólnie dbajmy, aby nasza strefa była przyjazna dla wszystkich. 
+ Do zobaczenia na miejscu! 
+ 
+ #gaz #obrona #prawo 
+ #napaść #sąd #policja 
+ #zboczeńcy #nagość #nago",0,0,0,0,0,pol,"[LANG=pol] 🍃 Wspólnie dbajmy, aby nasza strefa była przyjazna dla wszystkich. 
+ Do zobaczenia na miejscu! 
+ 
+ #gaz #obrona #prawo 
+ #napaść #sąd #policja 
+ #zboczeńcy #nagość #nago","[-1.172037124633789, -2.2866475582122803, -3.701525926589966, -3.5611722469329834, -0.3783901035785675]"
+pol_c39199dac6a79e929a022552d9d8def7,"I tak krok po kroku... dla naszego dobra, bezpieczenstwa i naszej wygody... 
+ źródło: Orwell.jpg",0,0,0,0,0,pol,"[LANG=pol] I tak krok po kroku... dla naszego dobra, bezpieczenstwa i naszej wygody... 
+ źródło: Orwell.jpg","[-2.6732170581817627, -3.5803749561309814, -3.617089033126831, -3.3843703269958496, -3.9243271350860596]"
+pol_336c606d29dbe9a72123c708471ce756,Nazwisko powinien sam ze swoich pieniędzy zapłacić za ochronę dla swojego marszu partyjnego,0,0,0,0,0,pol,[LANG=pol] Nazwisko powinien sam ze swoich pieniędzy zapłacić za ochronę dla swojego marszu partyjnego,"[0.7892820239067078, -2.6584560871124268, -3.5159809589385986, -3.4497997760772705, -2.444751501083374]"
+pol_548c9cc54cf87426f0e276aef58929d8,Panie Tusk zabrał nam dotacje za kradzież i teraz nie stać mnie na nowe gacie...,1,0,0,0,0,pol,[LANG=pol] Panie Tusk zabrał nam dotacje za kradzież i teraz nie stać mnie na nowe gacie...,"[2.586514472961426, -2.166307210922241, -2.96917462348938, -2.440701723098755, -1.7712525129318237]"
+pol_50990a4ec2b3f8a5f302f769c609bac1,"no wlasnie, ciekawe jak to rozwiązą",0,0,0,0,0,pol,"[LANG=pol] no wlasnie, ciekawe jak to rozwiązą","[-3.451594591140747, -3.302581548690796, -3.917147636413574, -3.5927276611328125, -3.5726993083953857]"
+pol_d21d209b53c66e24b29a333313c04f55,">nie słyszałem, żeby nasze władze zleciły tworzenie dodatkowych miejsc składowania amunicji 
+ 
+ nie słyszał, więc z pewnością dana rzecz nie istnieje",0,0,0,0,0,pol,"[LANG=pol] >nie słyszałem, żeby nasze władze zleciły tworzenie dodatkowych miejsc składowania amunicji 
+ 
+ nie słyszał, więc z pewnością dana rzecz nie istnieje","[-1.5462065935134888, -2.902604103088379, -3.7613377571105957, -4.290186882019043, -3.5821096897125244]"
+pol_e5dc181f5d965de2986a510b6b52d3da,"Rafał Trzaskowski – dynamiczny lider, który stawia na nowoczesność, otwartość i realne działania. Zawsze w biegu, zawsze za ludźmi. 💙🚀 #Trzaskowski #MłodziNaWybory",0,0,0,0,0,pol,"[LANG=pol] Rafał Trzaskowski – dynamiczny lider, który stawia na nowoczesność, otwartość i realne działania. Zawsze w biegu, zawsze za ludźmi. 💙🚀 #Trzaskowski #MłodziNaWybory","[-2.661775827407837, -3.711529493331909, -4.016717433929443, -3.694441318511963, -3.58780837059021]"
+pol_4cb7d264954a4a03c815db99aab3d598,"Rozkład jazdy jest prosty, 
+ I niektórym znany, 
+ Jak codziennie wieczorem, 
+ Jazda z kurwami! 
+ 
+ ~HIMARS 
+ 
+ #ukraina #wojna #rosja #himars",0,1,0,0,0,pol,"[LANG=pol] Rozkład jazdy jest prosty, 
+ I niektórym znany, 
+ Jak codziennie wieczorem, 
+ Jazda z kurwami! 
+ 
+ ~HIMARS 
+ 
+ #ukraina #wojna #rosja #himars","[0.5782358646392822, -1.9260921478271484, -3.412430763244629, -3.934511423110962, -1.8640780448913574]"
+pol_52246dfa1eb2f9507bbaa75cb420bfe3,Kaczyński nikogo nie szanuje i nikogo nie kocha...to żyjąca destrukcja...zombi🤮,1,0,0,0,0,pol,[LANG=pol] Kaczyński nikogo nie szanuje i nikogo nie kocha...to żyjąca destrukcja...zombi🤮,"[2.035236120223999, -2.097012758255005, -3.4632651805877686, -2.807363986968994, -1.4159824848175049]"
+pol_2e47cfb2c52e892bf35b8fdbc4e37aef,Romanowski to Miękiszon - Zdrajca Szmydt miał jaja i się zrzekł statusu sędziego ...,0,0,0,0,0,pol,[LANG=pol] Romanowski to Miękiszon - Zdrajca Szmydt miał jaja i się zrzekł statusu sędziego ...,"[1.4029284715652466, -2.877873659133911, -3.5222179889678955, -3.0033347606658936, -1.5531553030014038]"
+pol_a82e1b29ca859152b6177c105447c94a,"No widzę że się wkurzyłeś, tylko nie wiem czy Trzaskowski ma z tym coś wspólnego? Wydział komunikacji może? Miłego dnia… jednak☺️",0,0,0,0,0,pol,"[LANG=pol] No widzę że się wkurzyłeś, tylko nie wiem czy Trzaskowski ma z tym coś wspólnego? Wydział komunikacji może? Miłego dnia… jednak☺️","[-2.4553937911987305, -3.8016457557678223, -4.109760284423828, -3.613407850265503, -3.6080873012542725]"
+pol_eb06743767dd9f2aa9f5b4669157ce0f,UE sumarycznie więcej niż Chiny. Polska tyle co Ukraina...,0,0,0,0,0,pol,[LANG=pol] UE sumarycznie więcej niż Chiny. Polska tyle co Ukraina...,"[0.2350253164768219, -1.8783049583435059, -4.091728210449219, -3.5137369632720947, -2.3906381130218506]"
+pol_ba4a0ee509a589c533fcd7e7f2608704,Dwóch nastolatków zostało rannych w wypadku na hulajnodze elektrycznej. @URL #Policja #Hulajnoga #Wypadek #DK10,0,0,0,0,0,pol,[LANG=pol] Dwóch nastolatków zostało rannych w wypadku na hulajnodze elektrycznej. @URL #Policja #Hulajnoga #Wypadek #DK10,"[-3.391547203063965, -2.989809274673462, -3.8639674186706543, -3.891292095184326, -3.568211793899536]"
+pol_4b022331622057e1a9c2b2f3d2296210,Niech mi ktoś wytłumaczy dlaczego Japonia później była takim rzeźnikiem w Chinach i na wyspach a z drugiej strony pomagała sierotom polskimi,0,1,0,0,1,pol,[LANG=pol] Niech mi ktoś wytłumaczy dlaczego Japonia później była takim rzeźnikiem w Chinach i na wyspach a z drugiej strony pomagała sierotom polskimi,"[1.0027347803115845, 1.265540361404419, -1.4042972326278687, -1.9330508708953857, 0.3387429118156433]"
+pol_66b82fd530925f4bd13daf64c9f52165,To niech im dadza igle w zyle. Zobaczymy co sie z nimi stanie.,0,0,0,0,0,pol,[LANG=pol] To niech im dadza igle w zyle. Zobaczymy co sie z nimi stanie.,"[0.25517433881759644, -1.0751664638519287, -1.7976447343826294, -2.162311315536499, 1.5428729057312012]"
+pol_0baafd28ccc4e78a4e2af1a45a9644a0,"Dlaczego recydywista Grzegorz Braun wciąż jest bezkarny. 
+ 
+ 🔴 Czy państwo polskie boi się go sprawiedliwie osądzić, nie umie tego zrobić, czy nie chce? @URL",1,0,0,0,0,pol,"[LANG=pol] Dlaczego recydywista Grzegorz Braun wciąż jest bezkarny. 
+ 
+ 🔴 Czy państwo polskie boi się go sprawiedliwie osądzić, nie umie tego zrobić, czy nie chce? @URL","[1.0454953908920288, -2.5165531635284424, -3.1991140842437744, -3.546921491622925, -2.825197219848633]"
+pol_29f8a8f8febb0ccc0fd4d8c671fd3cf3,"Zażywa leki, ale zaraz będzie ( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ",0,0,0,0,0,pol,"[LANG=pol] Zażywa leki, ale zaraz będzie ( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ","[-3.274348258972168, -3.5100932121276855, -3.763993501663208, -3.1700117588043213, -3.7148940563201904]"
+pol_e6915e564aa491bbb3f6c6865cf58693,"Nowe elity = patoelity. 
+ A sosziale to umożliwiły.",1,0,0,0,0,pol,"[LANG=pol] Nowe elity = patoelity. 
+ A sosziale to umożliwiły.","[-1.2562001943588257, -3.721977710723877, -3.0900533199310303, -1.8005478382110596, -3.407123327255249]"
+pol_17e02feca7260df222311f4c5d5e3810,Ruska glebogryzarka po 3 latach sankcji 😂,1,0,0,0,0,pol,[LANG=pol] Ruska glebogryzarka po 3 latach sankcji 😂,"[-2.2759735584259033, -3.007737398147583, -3.8140969276428223, -4.139657974243164, -3.654865026473999]"
